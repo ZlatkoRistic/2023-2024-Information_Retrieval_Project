@@ -1,17 +1,16 @@
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from fact_checking import FactChecker
 
-
-def main(ev):
-    _evidence = ev
+def main(claim, evidence):
+    _claim = claim
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
-    model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
-    inputs = tokenizer.encode(_evidence, return_tensors='pt')
-    outputs = model.generate(inputs, max_length=1000, do_sample=True, top_k=50)
-    text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    print(text)
+    fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
+    fact_checker = FactChecker(fact_checking_model, tokenizer)
+    is_claim_true = fact_checker.validate(evidence, _claim)
+
+    print(is_claim_true)
 
 
 if __name__ == '__main__':
-    evidence = "The earth is flat."
-    main(evidence)
-
+    claim = "The earth is flat."
+    main(claim, evidence="The earth is round.")
