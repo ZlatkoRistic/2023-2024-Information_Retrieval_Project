@@ -2,11 +2,10 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 from fact_checking import FactChecker
 
 def main(claim, evidence):
-    _claim = claim
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
     fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
     fact_checker = FactChecker(fact_checking_model, tokenizer)
-    is_claim_true = fact_checker.validate(evidence, _claim)
+    is_claim_true = fact_checker.validate(evidence, claim)
     return is_claim_true
 
 
