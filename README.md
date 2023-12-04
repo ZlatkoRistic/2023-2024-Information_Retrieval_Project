@@ -2,6 +2,9 @@
 Fact checking
 
 ## Requirements
+
+Note that the **disk space requirements** of this project are currently in the order of **Gigabytes**.
+
 - Python 3.8
 - pip
 - pip install -r requirements.txt
