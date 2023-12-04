@@ -1,5 +1,6 @@
 # 2023-2024-Information_Retrieval_Project
-Fact checking
+
+A repo for the group project for the course Information Retrieval (Master Computer Science 2001WETINR) at the University of Antwerp in the academic year of 2023-2024. The team consists of Zlatko Ristic (s0191855), Bas Tobback (s0194105) and Thomas Gueutal (s0195095).
 
 ## Requirements
 
