@@ -126,6 +126,7 @@ These ranking functions are evaluated by a variety of means; one of the simplest
 ChatGPT is a more general generative model.
 
 - [Q1: Multiple Textual Evidence](#q1-multiple-textual-evidence-1)
+- [Q2: VSM pre-processing](#q2-vsm-pre-processing)
 
 
 ### Q1: Multiple Textual Evidence
@@ -140,5 +141,62 @@ In the context of an automated fact verification system, "multiple textual evide
 
 This approach aims to enhance the reliability of the fact-checking process by considering information from diverse perspectives and sources. By using multiple textual evidence, the system can potentially identify inconsistencies, contradictions, or patterns across different documents, leading to a more comprehensive and accurate evaluation of the claim in question.
 
+### Q2: VSM pre-processing
 
+```
+Hey, what kind of pre-processing needs to be applied to the documents and or query when i want to work with a Vector Space Model (information retrieval)
+```
 
+When working with a Vector Space Model (VSM) for information retrieval, both documents and queries typically undergo pre-processing to ensure meaningful and effective representation in the vector space. Here are common pre-processing steps for documents and queries:
+
+### Pre-processing for Documents:
+
+1. **Tokenization:**
+   - Break documents into individual words or tokens.
+   - Remove punctuation and special characters.
+
+2. **Lowercasing:**
+   - Convert all words to lowercase to ensure case-insensitive matching.
+
+3. **Stopword Removal:**
+   - Remove common stopwords (e.g., "and," "the," "is") as they often don't contribute much to the meaning.
+
+4. **Stemming or Lemmatization:**
+   - Reduce words to their base or root form to consolidate variations (e.g., "running" to "run").
+
+5. **Normalization:**
+   - Perform additional normalization like removing numbers or other specific symbols.
+
+6. **Term Frequency-Inverse Document Frequency (TF-IDF) Weighting:**
+   - Assign weights to terms based on their frequency in the document and their rarity across the entire corpus.
+
+### Pre-processing for Queries:
+
+1. **Tokenization, Lowercasing, and Punctuation Removal:**
+   - Apply the same tokenization and lowercasing steps as for documents.
+   - Remove punctuation and special characters.
+
+2. **Stopword Removal:**
+   - Remove common stopwords.
+
+3. **Stemming or Lemmatization:**
+   - Reduce words to their base or root form.
+
+4. **Normalization:**
+   - Normalize the query by removing numbers or other specific symbols.
+
+### Additional Considerations:
+
+- **Term Vectorization:**
+  - Represent documents and queries as vectors in the vector space. This is often done using techniques like Bag-of-Words (BoW) or word embeddings.
+
+- **Document Length Normalization:**
+  - Normalize document vectors based on their length to avoid bias towards longer documents.
+
+- **Query Expansion (Optional):**
+  - Expand the query with synonyms or related terms to improve recall.
+
+- **Handling Out-of-Vocabulary Words:**
+  - Decide on a strategy for handling words that are not present in the training vocabulary, such as ignoring them or using a generic "unknown" token.
+
+The goal of these pre-processing steps is to create meaningful and comparable representations of documents and queries in the vector space, making it easier to measure similarity or relevance. The specific choices may vary depending on the characteristics of the corpus and the nature of the information retrieval task.
