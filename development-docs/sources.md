@@ -151,3 +151,13 @@ deterministic finite state automaton (**DFSA**) except that these automata are p
     * Term frequency, document frequency, and length normalization
   * Often many choices to make and **parameters to tune**
     * Can use **grid search, machine learning to optimize parameters given test collection**
+
+### 04 Feedback Expansion and Evaluation
+
+* **slide 25** Evaluating Retrieval results:
+  * Unranked retrieval evaluation
+    * Precision, recall, F-measure, accuracy, kappa
+  * Ranked evaluation
+    * PR-curve, @10, @20, …
+  * User-centric measures
+    * A/B tests
