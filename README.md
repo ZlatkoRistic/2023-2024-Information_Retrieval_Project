@@ -19,6 +19,13 @@ You may want to set up a virtual environment to contain the project's dependenci
 ```sh
 # Create virtual env
 python3.8 -m venv venv
+
+# Activate the venv
+# Windows
+venv/Scripts/activate
+# Ubuntu
+source venv/bin/activate
+
 # Install requirements
 python3.8 -m pip install -r requirements.txt
 ```
