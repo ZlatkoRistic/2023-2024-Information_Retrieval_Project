@@ -50,7 +50,7 @@ class VSM(DocumentStore):
 
         # The collection of terms know by the VSM.
         # Can be used to check if a term is known in O(1).
-        self.vocabulary: Set[str] = set()
+        self._vocabulary: Set[str] = set()
 
         # Index statistics per document.
         # The following format is used:
@@ -62,10 +62,10 @@ class VSM(DocumentStore):
         # So the norm does *not* need to be updated when the vocabulary is updated.
         #
         # If the document is updated, then this norm MUST be recalculated as well
-        self.document_norms: Dict[int, float] = dict()
+        self._document_norms: Dict[int, float] = dict()
 
         # The inverted document index for every known term.
-        self.inverted_lists: Dict[str, InvertedTermData] = dict()
+        self._inverted_lists: Dict[str, InvertedTermData] = dict()
 
     def get_top_k(self, query: str, k: int) -> List[int]:
         """Retrieve the top k documents for *query*.
@@ -86,7 +86,7 @@ class VSM(DocumentStore):
         # { document_ID : accumulator }
         accumulators: Dict[int, int] = dict()
         for term in terms:
-            term_data: InvertedTermData = self.inverted_lists.get(term, None)
+            term_data: InvertedTermData = self._inverted_lists.get(term, None)
             if term_data is None: raise UnknownTerm(term)
 
             for posting in term_data.posting_list:
@@ -99,7 +99,7 @@ class VSM(DocumentStore):
         # Generate scores for ALL related documents
         document_score_pairs: List[Tuple[int, float]] = []
         for document_ID, accumulator in accumulators.items():
-            document_norm: float = self.document_norms.get(document_ID, None)
+            document_norm: float = self._document_norms.get(document_ID, None)
             if document_norm is None: raise UnknownDocument(document_ID)
 
             document_score_pairs.append((document_ID, accumulator / document_norm))
@@ -125,16 +125,16 @@ class VSM(DocumentStore):
         unique_terms: Set[str] = set(terms)
 
         # Collect results
-        self.vocabulary.update(unique_terms)
+        self._vocabulary.update(unique_terms)
         new_document_ID: int = self.persist_document(Document(contents=document))
         new_document_tf_vector: List[float] = []
 
         for term in unique_terms:
-            term_data: InvertedTermData = self.inverted_lists.get(term, None)
+            term_data: InvertedTermData = self._inverted_lists.get(term, None)
 
             if term_data is None:
                 term_data = InvertedTermData(0, [])
-                self.inverted_lists[term] = term_data
+                self._inverted_lists[term] = term_data
 
             # Generate new posting
             new_posting = Posting(
@@ -148,7 +148,7 @@ class VSM(DocumentStore):
             new_document_tf_vector.append(new_posting.term_frequency)
 
         # Calculate document statistics
-        self.document_norms[new_document_ID] = self._norm(new_document_tf_vector)
+        self._document_norms[new_document_ID] = self._norm(new_document_tf_vector)
 
     def _tf(self, posting: Posting) -> float:
         """Calculate the logarithm weighted term frequency for some term
@@ -251,8 +251,8 @@ if __name__ == "__main__":
     for doc in documents:
         vsm.add_document(doc)
 
-    print(vsm.vocabulary)
-    print(vsm.document_norms)
-    print(vsm.inverted_lists)
+    print(vsm._vocabulary)
+    print(vsm._document_norms)
+    print(vsm._inverted_lists)
 
     # load_train_claims(vsm)
