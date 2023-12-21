@@ -1,5 +1,3 @@
-import csv
-
 from dataclasses import dataclass
 from typing import List, Set, Dict, Tuple
 from math import log, sqrt
@@ -67,12 +65,13 @@ class VSM(DocumentStore):
         # The inverted document index for every known term.
         self._inverted_lists: Dict[str, InvertedTermData] = dict()
 
-    def get_top_k(self, query: str, k: int) -> List[int]:
+    def get_top_k(self, query: str, k: int) -> List[Tuple[int, float]]:
         """Retrieve the top k documents for *query*.
 
         :param query: The query to do ranked retrieval for
         :param k: The amount of results to retrieve
-        :return: The top k ranked documents' document ID, for *query*
+        :return: The top k ranked documents for *query*, in
+         the form of a list of `( document_ID, score )` pairs.
         """
         assert k >= 0, "Can not retrieve a negative number of top-k results."
 
@@ -105,8 +104,8 @@ class VSM(DocumentStore):
             document_score_pairs.append((document_ID, accumulator / document_norm))
 
         # Produce top-k results
-        document_score_pairs.sort(key=lambda pair: pair[1])
-        return [document_ID for document_ID, _ in document_score_pairs[:k]]
+        document_score_pairs.sort(key=lambda pair: pair[1], reverse=True)
+        return [(document_ID, score) for document_ID, score in document_score_pairs[:k]]
 
     def add_document(self, document: str) -> None:
         """Add a document to the VSM.
@@ -213,46 +212,3 @@ class VSM(DocumentStore):
         ws: str = ' '
         return text.strip(ws).split(ws)
 
-
-
-
-# TODO parse and import FEVER evidence as documents into VSM
-# import json
-# with open("train.jsonl", "r") as f:
-#     line = f.readline()
-#     while line:
-#         json_obj = json.loads(line)
-#         claim_txt = json_obj["claim"]
-#         vsm.add_document(claim_txt)
-
-#         line = f.readline()
-
-def load_train_claims(vsm: VSM):
-    with open("train-claims.csv", "r") as ipf:
-        reader = csv.reader(ipf, delimiter=',')
-        next(reader)
-        for _, claim in reader:
-            vsm.add_document(claim)
-
-
-
-if __name__ == "__main__":
-    documents = [
-        "introduc informa retrieval",
-        "data mining concept technique",
-        "introduc data mining",
-        "modern informa retrieval",
-        "data base system concept",
-        "data warehous system",
-        "modern data informa system data warehous data base data mining informa retrieval",
-    ]
-    vsm = VSM()
-
-    for doc in documents:
-        vsm.add_document(doc)
-
-    print(vsm._vocabulary)
-    print(vsm._document_norms)
-    print(vsm._inverted_lists)
-
-    # load_train_claims(vsm)
