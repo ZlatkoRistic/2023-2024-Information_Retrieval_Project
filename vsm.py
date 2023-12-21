@@ -14,11 +14,22 @@ class Posting:
     document_ID: int
     term_frequency: int
 
+    def __str__(self) -> str:
+        return f"(docID={self.document_ID},TF={self.term_frequency})"
+    
+    def __repr__(self) -> str:
+        return self.__str__()
 
 @dataclass
 class InvertedTermData:
     document_frequency: int
     posting_list: List[Posting]
+
+    def __str__(self) -> str:
+        return f"<IDF={self.document_frequency}, {self.posting_list}>"
+
+    def __repr__(self) -> str:
+        return self.__str__()
 
 
 
@@ -111,13 +122,14 @@ class VSM(DocumentStore):
         # TODO Consider a "unknown term strategy" for queries that contain unknown terms?
 
         terms: List[str] = self._parse(document)
+        unique_terms: Set[str] = set(terms)
 
         # Collect results
-        self.vocabulary.update(terms)
+        self.vocabulary.update(unique_terms)
         new_document_ID: int = self.persist_document(Document(contents=document))
         new_document_tf_vector: List[float] = []
 
-        for term in terms:
+        for term in unique_terms:
             term_data: InvertedTermData = self.inverted_lists.get(term, None)
 
             if term_data is None:
@@ -236,4 +248,11 @@ if __name__ == "__main__":
     ]
     vsm = VSM()
 
-    load_train_claims(vsm)
+    for doc in documents:
+        vsm.add_document(doc)
+
+    print(vsm.vocabulary)
+    print(vsm.document_norms)
+    print(vsm.inverted_lists)
+
+    # load_train_claims(vsm)
