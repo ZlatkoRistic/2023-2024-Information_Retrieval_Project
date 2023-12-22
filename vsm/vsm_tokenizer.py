@@ -178,37 +178,3 @@ class VSMTokenizer:
         except ValueError:
             return False
 
-
-tokenizer: VSMTokenizer = VSMTokenizer()
-text: str = """
-Ëa&A 123
-y'all can't expand contractions I'd think
-Sómě Áccěntěd těxt
-Tony hawk did 5 epic 360 backflips while eating -14214.5 icereams for $ 1.3
-five ten five-ten hundred
-"""
-#print(tokenizer.tokenize(text))
-
-print("\n"*2, "===========")
-
-strings = [
-    "Ëa&A 12,3",
-    "y'all can't expand contractions I'd think",
-    "Sómě Áccěntěd těxt",
-    "Tony hawk did 5 epic 360 backflips while eating -14214.5 icereams for $ 1.3 on 23 may",
-    "five ten five-ten hundred",
-]
-for s in strings:
-    print(tokenizer.tokenize(s))
-
-print(tokenizer._tokenizer.tokenize("3&abba"))
-print(tokenizer._tokenizer.tokenize("""
-
-3&ab     ba
-                                    qzd
-                        ooo 
-
-cht
-
-"""))
-
