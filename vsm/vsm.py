@@ -4,6 +4,7 @@ from math import log, sqrt
 
 from exceptions import UnknownDocument, UnknownTerm
 from DocumentStore import DocumentStore, Document
+from vsm_tokenizer import VSMTokenizer
 
 
 
@@ -45,6 +46,9 @@ class VSM(DocumentStore):
     """
     def __init__(self, *args: object) -> None:
         super().__init__(*args)
+
+        # The tokenizer to pre-process & tokenize both queries and documents.
+        self._tokenizer: VSMTokenizer = VSMTokenizer()
 
         # The collection of terms know by the VSM.
         # Can be used to check if a term is known in O(1).
@@ -116,8 +120,6 @@ class VSM(DocumentStore):
 
         :param document: The document to add
         """
-        # TODO pre-processing
-        # TODO tokenize
         # TODO Consider a "unknown term strategy" for queries that contain unknown terms?
 
         terms: List[str] = self._parse(document)
@@ -208,6 +210,5 @@ class VSM(DocumentStore):
         :param text: The text to parse for tokens
         :return: The sequential token sequence
         """
-        # TODO apply everywhere that it is needed
-        return text.split()
+        return self._tokenizer.tokenize(text)
 
