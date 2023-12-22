@@ -25,18 +25,14 @@ class VSMTokenizer:
         # String-based pre-processing
         text = self._remove_accents(text, strict=True)
         text = self._expand_contractions(text)
-        # TODO "twenty-three" becomes "twentythree"
-        #   ==> Replace special characters by whitespace instead?
-        #   ==> Won't split() take care of the whitespace?
-        text = self._remove_special_characters(text, replace_char='', remove_digits=False)
         text = text.lower()     # Change case should only be done if the following steps will not add wrong-case characters
 
         # Token-based pre-processing
         tokens: List[str] = self._tokenizer.tokenize(text)
-        tokens = [token.strip() for token in tokens]    # Strip whitespace
         tokens = self._numbers_to_words(tokens)
-        tokens = self._remove_stopwords(tokens)
+        tokens = self._remove_special_characters(tokens, replace_char=' ', remove_digits=False)  # replacing by ' ' instead of '' is important for hyphenated compound words, e.g. "twenty-three", "know-how", ...
         tokens = self._stem(tokens)
+        tokens = self._remove_stopwords(tokens)
 
         return tokens
 
@@ -75,34 +71,38 @@ class VSMTokenizer:
         expanded_text = expanded_text.replace("'", "")
         return expanded_text
 
-    def _remove_special_characters(self, text: str, replace_char: str = '', remove_digits: bool = False):
-        """Remove all non-alpha-numeric characters from the *text*.
+    def _remove_special_characters(self, tokens: List[str], replace_char: str = '', remove_digits: bool = False):
+        """Remove all non-alpha-numeric characters from the *tokens*.
         
-        This entire method was obtained from the following article:
+        This method was obtained from the following article and subsequently adapted:
             https://www.kdnuggets.com/2018/08/practitioners-guide-processing-understanding-text-2.html
 
-        :param text: The text to remove special characters from
-        :param replace_char: The character to replace any special character by.
+        :param tokens: The set of tokens to remove special characters from
+        :param replace_char: The character to replace every special character by.
          Defaults to removing the character.
         :param remove_digits: Whether to also remove digits
-        :return: The *text* where all special characters have been removed
+        :return: The *tokens* where all special characters have been removed
         """
         pattern = r'[^a-zA-z0-9\s]' if not remove_digits else r'[^a-zA-z\s]'
-        text = re.sub(pattern, replace_char, text)
-        return text
+        return [
+            new_token
+            for token in tokens
+                for new_token in re.sub(pattern, replace_char, token).strip().split(' ')
+                if new_token != ''
+        ]
 
     def _numbers_to_words(self, tokens: List[str]) -> List[str]:
         """Replace all occurrences of arabic numerals by their
         full, word-based counterparts.
 
-        Comma's and 'and' words to connect the numbers-words
+        Comma's and 'and' words and hyphons to connect the numbers-words
         together are purposely removed, so that only the number
         words themselves remain. This is to avoid adding additional
         special characters and stop-words to the token list.
 
         e.g.
             >>> self._numbers_to_words(["123", 4])
-            ["one thousand one hundred twenty-three", "four"]
+            ["one", "thousand", "one", "hundred", "twenty", "three", "four"]
 
         :param tokens: The text in which to replace all numerals by words, as a list of tokens
         :return: The converted text, as a pruned version of the input *tokens*
@@ -164,6 +164,9 @@ class VSMTokenizer:
         """Check whether the given *text* is a pure number string.
         This can be either a whole number, or a float.
 
+        This method was based on the following SO post:
+            https://stackoverflow.com/questions/354038/how-do-i-check-if-a-string-represents-a-number-float-or-int
+
         :param text: The string for which to check if it is number as a string
         :return: True if *text* contains only a number, else False
         """
@@ -189,13 +192,23 @@ five ten five-ten hundred
 print("\n"*2, "===========")
 
 strings = [
-    "Ëa&A 123",
+    "Ëa&A 12,3",
     "y'all can't expand contractions I'd think",
     "Sómě Áccěntěd těxt",
-    "Tony hawk did 5 epic 360 backflips while eating -14214.5 icereams for $ 1.3",
+    "Tony hawk did 5 epic 360 backflips while eating -14214.5 icereams for $ 1.3 on 23 may",
     "five ten five-ten hundred",
 ]
 for s in strings:
     print(tokenizer.tokenize(s))
 
 print(tokenizer._tokenizer.tokenize("3&abba"))
+print(tokenizer._tokenizer.tokenize("""
+
+3&ab     ba
+                                    qzd
+                        ooo 
+
+cht
+
+"""))
+
