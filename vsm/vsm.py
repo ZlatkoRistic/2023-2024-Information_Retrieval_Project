@@ -209,6 +209,5 @@ class VSM(DocumentStore):
         :return: The sequential token sequence
         """
         # TODO apply everywhere that it is needed
-        ws: str = ' '
-        return text.strip(ws).split(ws)
+        return text.split()
 
