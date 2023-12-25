@@ -2,9 +2,9 @@ from dataclasses import dataclass
 from typing import List, Set, Dict, Tuple
 from math import log, sqrt
 
-from exceptions import UnknownDocument, UnknownTerm
-from DocumentStore import DocumentStore, Document
-from vsm_tokenizer import VSMTokenizer
+from vsm.exceptions import UnknownDocument, UnknownTerm
+from vsm.DocumentStore import DocumentStore, Document
+from vsm.vsm_tokenizer import VSMTokenizer
 
 
 

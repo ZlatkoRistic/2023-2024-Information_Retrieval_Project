@@ -4,7 +4,8 @@ import inflect
 
 from typing import Set, List, Dict
 from unidecode import unidecode
-from contractions import CONTRACTION_MAP
+
+from vsm.contractions import CONTRACTION_MAP
 
 
 

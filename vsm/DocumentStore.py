@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import Dict
 
-from exceptions import UnknownDocument
+from vsm.exceptions import UnknownDocument
 
 
 
