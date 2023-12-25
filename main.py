@@ -1,6 +1,9 @@
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
 from fact_checking import FactChecker
 
+import csv
+from vsm import VSM
+
 def fact_check(claim, evidence):
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
     fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
@@ -8,59 +11,45 @@ def fact_check(claim, evidence):
     is_claim_true = fact_checker.validate(evidence, claim)
     return is_claim_true
 
-# TODO: See if this is useful (Co-Pilot generated)
-class Ranked_retrieval():
-    def __init__(self):
-        self.index = {}
-        self.documents = {}
-        self.document_frequency = {}
-        self.total_documents = 0
+def load_train_claims(vsm: VSM, max_doc_count: int = -1):
+    """Load the list of claims extracted from the FEVER train.jsonl file,
+    as if they were evidence documents.
 
-    def add_document(self, document_name, document_text):
-        self.documents[document_name] = document_text
-        self.total_documents += 1
-        for token in document_text.split():
-            if token not in self.index.keys():
-                self.index[token] = {document_name: 1}
-            else:
-                if document_name not in self.index[token].keys():
-                    self.index[token][document_name] = 1
-                else:
-                    self.index[token][document_name] += 1
-
-    def compute_document_frequency(self):
-        for token in self.index.keys():
-            self.document_frequency[token] = len(self.index[token])
-
-    def compute_tf_idf(self, query):
-        query_tokens = query.split()
-        query_weights = {}
-        for key in self.index.keys():
-            if key in query_tokens:
-                pass
-                # query_weights[key] = query_tokens.count(key) * self.index[key][document_name]
-            else:
-                query_weights[key] = 0
-
-        for token in query_weights.keys():
-            query_weights[token] *= self.document_frequency[token] / self.total_documents
-
-        return query_weights
-
-    def get_relevant_documents(self, query):
-        query_weights = self.compute_tf_idf(query)
-        query_weights = sorted(query_weights.items(), key=lambda x: x[1], reverse=True)
-        return query_weights
+    :param vsm: The VSM to load the claims into
+    :param max_doc_count: The maximum amount of docs to load.
+      This allows the loaded amount to be limited. Default value
+      of -1 means unlimited
+    
+    """
+    with open("train-claims.csv", "r") as ipf:
+        reader = csv.reader(ipf, delimiter=',')
+        next(reader)
+        ctr: int = 0
+        for _, claim in reader:
+            if max_doc_count != -1 and ctr >= max_doc_count:
+                return
+            vsm.add_document(claim)#' '.join([claim] * 10))
+            ctr += 1
 
 
 if __name__ == '__main__':
-    claim = "The Earth is flat"
-    Ranked_retrieval = Ranked_retrieval()
+    claim = "The planet Earth is flat."
+    k: int = 3
 
+    vsm = VSM()
+    load_train_claims(vsm, max_doc_count=-1)
+    top_k = vsm.get_top_k(claim, k)
+    evidence_list = []
 
-    relevant_doc = Ranked_retrieval.get_relevant_documents(claim)
-    evidence = relevant_doc
-    result = fact_check(claim, evidence)
-    print("Evidence: " + evidence)
     print("Claim: " + claim)
+    print(f"top-{k} relevant Evidence: ")
+    for idx, res in enumerate(top_k):
+        id, score = res
+        evidence_doc = vsm.retrieve_document(id).contents
+        evidence_list.append(evidence_doc)
+
+        print("     {:4}ID={:12}score={:30}     ".format(str(idx+1) + ')', "" + str(id), "" + str(score)), evidence_doc)
+
+    evidence = '\n\n'.join(evidence_list)
+    result = fact_check(claim, evidence)
     print("Result: " + str(result))
