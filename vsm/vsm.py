@@ -1,5 +1,7 @@
+import json
+
 from dataclasses import dataclass
-from typing import List, Set, Dict, Tuple
+from typing import List, Set, Dict, Tuple, Union
 from math import log, sqrt
 
 from vsm.exceptions import UnknownDocument, UnknownTerm
@@ -19,16 +21,36 @@ class Posting:
     def __repr__(self) -> str:
         return self.__str__()
 
+    def dumpsable_repr(self) -> str:
+        """Get a representation of Posting on which json.dumps can be called."""
+        return (
+            self.document_ID,
+            self.term_frequency
+        )
+
 @dataclass
 class InvertedTermData:
     document_frequency: int
     posting_list: List[Posting]
+
+    # Dump key constants
+    DUMP_IDF: str = "idf"
+    DUMP_POSTING_LIST: str = "posting_list"
+
 
     def __str__(self) -> str:
         return f"<IDF={self.document_frequency}, {self.posting_list}>"
 
     def __repr__(self) -> str:
         return self.__str__()
+
+    def dumpsable_repr(self) -> str:
+        """Get a representation of InvertedTermData on which json.dumps can be called."""
+        return {
+            self.DUMP_IDF:            self.document_frequency,
+            self.DUMP_POSTING_LIST: [ posting.dumpsable_repr() for posting in self.posting_list ]
+        }
+
 
 
 
@@ -44,6 +66,12 @@ class VSM(DocumentStore):
     Its implementation was based on the following sources:
 
     """
+    # Dump key constants
+    DUMP_VOCABULARY: str = "vocabulary"
+    DUMP_DOC_NORMS: str = "document_norms"
+    DUMP_INVERSE_DOC_LISTS: str = "inverted_document_lists"
+
+
     def __init__(self, *args: object) -> None:
         super().__init__(*args)
 
@@ -150,6 +178,47 @@ class VSM(DocumentStore):
 
         # Calculate document statistics
         self._document_norms[new_document_ID] = self._norm(new_document_tf_vector)
+
+    def dumps(self, indent: Union[int, str, None] = None) -> str:
+        """Dump the VSM as a json string.
+
+        :param indent: The indent for json.dumps, defaults to no indent
+        """
+        return json.dumps({
+            self.DUMP_VOCABULARY: list(self._vocabulary),
+            self.DUMP_DOC_NORMS:  self._document_norms,
+            self.DUMP_INVERSE_DOC_LISTS: {
+                key: inverted_term_data.dumpsable_repr()
+                for key, inverted_term_data in self._inverted_lists.items()
+            }
+        }, indent=indent)
+
+    def loads(self, json_string: str):
+        """Load a json string into the VSM.
+
+        :param json_string: The json string to feed to json.loads
+        """
+        parsed: dict = json.loads(json_string)
+
+        assert self.DUMP_VOCABULARY in parsed, f"Missing required keyword in to load json string: {self.DUMP_VOCABULARY}"
+        assert self.DUMP_DOC_NORMS in parsed, f"Missing required keyword in to load json string: {self.DUMP_DOC_NORMS}"
+        assert self.DUMP_INVERSE_DOC_LISTS in parsed, f"Missing required keyword in to load json string: {self.DUMP_INVERSE_DOC_LISTS}"
+
+        self._vocabulary = set(parsed[self.DUMP_VOCABULARY])
+        self._document_norms = {
+            int(key): value
+            for key, value in parsed[self.DUMP_DOC_NORMS].items()
+        }
+        self._inverted_lists = {
+            term: InvertedTermData(
+                inverted_term_data[InvertedTermData.DUMP_IDF],
+                [
+                    Posting(doc_id, tf)
+                    for doc_id, tf in inverted_term_data[InvertedTermData.DUMP_POSTING_LIST]
+                ]
+            )
+            for term, inverted_term_data in parsed[self.DUMP_INVERSE_DOC_LISTS].items()
+        }
 
     def _tf(self, posting: Posting) -> float:
         """Calculate the logarithm weighted term frequency for some term
