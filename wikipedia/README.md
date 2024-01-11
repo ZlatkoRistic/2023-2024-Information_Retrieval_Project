@@ -10,10 +10,10 @@ For generating our corpus, we provide a [separate script](/wikipedia/generate_co
 python3 generate_corpus.py -h
 ```
 
-We recommend running the script in two steps. **First**, download the html articles to store them on disk. It is also best to generate the visualization, as it provides insight into how many subcategories were used. Note that the visualization is generated *before* any of the html documents are downloaded.
+We recommend running the script in two steps. **First**, download the html articles to store them on disk. Is is required to specify the category recursion depth as its value. It is also best to generate the visualization, as it provides insight into how many subcategories were used. Note that the visualization is generated *before* any of the html documents are downloaded.
 
 ```bash
-python3 generate_corpus.py --download --visualization
+python3 generate_corpus.py --download 0 --visualization
 ```
 
 The process all the downloaded html files to strip their html tags. The corpus can be used to construct the VSM index.
