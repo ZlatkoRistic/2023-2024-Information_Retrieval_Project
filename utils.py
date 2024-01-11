@@ -114,6 +114,7 @@ def top_k_fever_small():
 
     write_documents(vsm)
 
+
 def verification(input_path: str, output_path: str, sample_size: int = 1000):
     import json
     from transformers import GPT2Tokenizer, GPT2LMHeadModel
@@ -251,6 +252,30 @@ def pre_processing(input_path: str, output_path: str, sample_size: int = 1000):
     f.close()
     r.close()
     return dict
+
+
+def dump_wiki():
+    import json
+    from datasets import load_dataset
+    from tqdm import tqdm
+
+    # Load the dataset
+    ds = load_dataset('fever', 'wiki_pages')
+    ds = ds['wikipedia_pages']
+    # Remove the lines column
+    ds = ds.remove_columns('lines')
+    # Put in pandas
+    df = ds.to_pandas(500, batched=False)
+    # Set the index to the id, this makes it faster
+    df.set_index('id', inplace=True)
+    with open("output/wiki-pages.json", "w") as f:
+        pb = tqdm(total=len(df))
+        for index, row in df.iterrows():
+            d = {"text": row['text']}
+            json.dump(d, f)
+            f.write("\n")
+            pb.update(1)
+
 
 if __name__ == "__main__":
     # top_k_minimal()

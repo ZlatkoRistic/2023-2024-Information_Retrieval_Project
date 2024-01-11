@@ -1,7 +1,3 @@
-import json
-from datasets import load_dataset
-from tqdm import tqdm
-
 import csv
 from vsm import VSM
 from utils import pre_processing, verification, precision
