@@ -115,7 +115,7 @@ def top_k_fever_small():
     write_documents(vsm)
 
 
-def verification(input_path: str, output_path: str, sample_size: int = 1000):
+def verification(input_path: str = "./input/pre_processed.jsonl", output_path: str ="./output/results.json", sample_size: int = 1000):
     import json
     from transformers import GPT2Tokenizer, GPT2LMHeadModel
     from tqdm import tqdm
@@ -186,7 +186,7 @@ def precision(correct: int, total: int):
     return correct / total
 
 
-def pre_processing(input_path: str, output_path: str, sample_size: int = 1000):
+def pre_processing(input_path: str = "./input/train.jsonl", output_path: str = "./input/pre_processed.jsonl", sample_size: int = 1000):
     """
 
     :param input_path: str representing the path to the validation set
