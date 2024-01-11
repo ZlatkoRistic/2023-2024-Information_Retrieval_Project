@@ -164,7 +164,8 @@ def _build_category_tree(category: str,
 
 def get_wiki_page(page_id: int) -> Tuple[str, str, str]:
     """Get the wikipedia page corresponding to the given *page_id*.
-    Also retrieve the page title and subtitle for completeness' sake
+    Also retrieve the page title and subtitle for completeness' sake.
+    The title is also present in the html contents, as a display title.
 
     :param page_id: The page ID of the to retrieve page
     :return: (
@@ -182,8 +183,9 @@ def get_wiki_page(page_id: int) -> Tuple[str, str, str]:
         return ""
     data: dict = response[parse_key]
 
-    title = data.get("title", "")
-    subtitle = data.get("subtitle", "")
-    text = data.get("text", "")
+    display_title: str = data.get("displaytitle", "")
+    title: str = data.get("title", "")
+    subtitle: str = data.get("subtitle", "")
+    text: str = data.get("text", "")
 
-    return title, subtitle, text
+    return title, subtitle, display_title, display_title + text
