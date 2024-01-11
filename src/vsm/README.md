@@ -16,7 +16,7 @@ The documents are pre-processed to **normalize their contents**, and to limit th
 
 
 
-Pre-processing happens within the [VSMTokenizer](/vsm/vsm_tokenizer.py) class. After we detail the pre-processing steps, we make some [concluding observations](#concluding-observations). It consists of the following steps:
+Pre-processing happens within the [VSMTokenizer](/src/vsm/vsm/vsm_tokenizer.py) class. After we detail the pre-processing steps, we make some [concluding observations](#concluding-observations). It consists of the following steps:
 
 * Normalizing accented (unicode) characters
 * Converting Case

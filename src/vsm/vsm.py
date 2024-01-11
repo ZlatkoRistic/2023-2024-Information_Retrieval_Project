@@ -4,8 +4,8 @@ from dataclasses import dataclass
 from typing import List, Set, Dict, Tuple, Union
 from math import log, sqrt
 
-from vsm.exceptions import UnknownDocument, UnknownTerm, DuplicateDocument
-from vsm.vsm_tokenizer import VSMTokenizer
+from src.vsm.exceptions import UnknownDocument, UnknownTerm, DuplicateDocument
+from src.vsm.vsm_tokenizer import VSMTokenizer
 
 
 

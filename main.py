@@ -1,6 +1,6 @@
 import csv
-from vsm import VSM
-from utils import pre_processing, verification, precision
+from src.vsm.vsm import VSM
+from utils import verification, precision
 
 
 def fact_check(claim, evidence):
@@ -12,7 +12,7 @@ def fact_check(claim, evidence):
     This is more used for testing purposes, as the fact we do not have to instantiate the model every time we want to fact check
     """
     from transformers import GPT2LMHeadModel, GPT2Tokenizer
-    from pfc.OurFactChecker import OurFactChecker
+    from src.pfc.OurFactChecker import OurFactChecker
 
     tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
     fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')

@@ -1,8 +1,21 @@
-from flask import Blueprint, render_template, request, redirect, url_for
-from main import fact_check
+from flask import Blueprint, render_template, request
 from utils import verification, precision
+from src.vsm.vsm import VSM
+
+from transformers import GPT2Tokenizer, GPT2LMHeadModel
+from src.pfc.OurFactChecker import OurFactChecker
 
 views = Blueprint(__name__, "views")
+
+# Initizalize fact checking and models.
+tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
+fact = OurFactChecker(fact_checking_model, tokenizer)
+
+vsm = VSM()
+if False:
+    with open("index.dump", "r") as index_file:
+        vsm.loads(index_file.read())
 
 
 @views.route("/")
@@ -39,7 +52,6 @@ def evaluate():
     eval_input = args.get("input")
     eval_output = args.get("output")
 
-    # TODO: call function
     correct, incorrect, total = verification(eval_input, eval_output)
     precis = precision(correct, total)
 

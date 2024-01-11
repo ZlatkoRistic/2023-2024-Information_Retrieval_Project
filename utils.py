@@ -2,7 +2,7 @@ import csv
 import cProfile
 from pathlib import Path
 
-from vsm import VSM
+from src.vsm import VSM
 
 
 # TODO parse and import FEVER evidence as documents into VSM
@@ -120,7 +120,7 @@ def verification(input_path: str = "./input/pre_processed.jsonl", output_path: s
     import json
     from transformers import GPT2Tokenizer, GPT2LMHeadModel
     from tqdm import tqdm
-    from pfc.OurFactChecker import OurFactChecker
+    from src.pfc.OurFactChecker import OurFactChecker
     """
 
     :param input_path: The validation set to be used for verification
