@@ -77,14 +77,3 @@ def _soupify_wiki_html_page(html: str) -> str:
     text = '\n'.join(chunk for chunk in chunks if chunk)
 
     return text
-
-
-#store_wiki_category_pages("Cats", 0, "corpus")
-
-wiki_raw_path: str       = "corpus/raw-articles"
-wiki_processed_path: str = "corpus/processed-articles"
-cat_recursion_depth: int = 0
-root_category: str       = "Cats"
-
-store_wiki_category_pages(root_category, cat_recursion_depth, wiki_raw_path)
-soupify_wiki_category_pages(wiki_raw_path, wiki_processed_path)
