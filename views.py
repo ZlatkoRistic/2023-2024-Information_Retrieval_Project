@@ -3,14 +3,13 @@ from utils import verification, precision
 from src.vsm.vsm import VSM
 
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
-from src.pfc.OurFactChecker import OurFactChecker
-
+from fact_checking import fact_checker
 views = Blueprint(__name__, "views")
 
 # Initizalize fact checking and models.
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
-fact = OurFactChecker(fact_checking_model, tokenizer)
+fact = fact_checker(fact_checking_model, tokenizer)
 
 vsm = VSM()
 if False:

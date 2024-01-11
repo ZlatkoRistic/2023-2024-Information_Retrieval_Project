@@ -2,7 +2,7 @@ import csv
 import cProfile
 from pathlib import Path
 
-from src.vsm import VSM
+from src.vsm.vsm import VSM
 
 
 # TODO parse and import FEVER evidence as documents into VSM

@@ -2,7 +2,6 @@ import csv
 from src.vsm.vsm import VSM
 from utils import verification, precision
 
-
 def fact_check(claim, evidence):
     """
     :param claim: The claim to be fact checked

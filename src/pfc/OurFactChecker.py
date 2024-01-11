@@ -9,11 +9,12 @@ class OurFactChecker:
 
     def validate(self, evidence, claim):
         # Make a prompt to feed to the model.
-        prompt = f"Evidence:\n{evidence}\n\nClaim:\n{claim}\n\nDoes the evidence support the claim?:\n"
+        evidence = "Cats have been massacred for thousands of year before humans adopted them."
+        prompt = f"Evidence:\n{evidence}\n\nClaim:\n{claim}\n\nThe"
         # Generate the response of the model.
         text = self.__val(prompt)
         # Check if Yes is in the text on the end.
-        if "Yes" in text[-10:]:
+        if "Yes" in text[-4:]:
             return True
         return False
 
@@ -35,4 +36,5 @@ class OurFactChecker:
         output = self.model.generate(tokens.to(_device), max_length=l + tokens_length, pad_token_id=50256)
         # Let it decode back in text.
         text = self.tokenizer.decode(output[0], skip_special_tokens=True)
+        temp = text[-10:]
         return text
