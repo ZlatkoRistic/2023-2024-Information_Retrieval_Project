@@ -24,5 +24,5 @@ if __name__ == "__main__":
         cat_recursion_depth: int = args.download
         cat_hierarchy_path = cat_hierarchy_viz_path if args.visualization else None
         store_wiki_category_pages(root_category, cat_recursion_depth, wiki_raw_path, cat_hierarchy_path)
-    elif args.process:
+    if args.process:
         soupify_wiki_category_pages(wiki_raw_path, wiki_processed_path)
