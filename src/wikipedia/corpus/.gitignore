@@ -1,6 +1,8 @@
 # Ignore raw html files
 raw-articles/*
 # Ignore processed html -> txt files
-processed-articles/*
+#processed-articles/*
 # Ignore visualization
 visualization.*
+# Ignore index dump
+#*.dump

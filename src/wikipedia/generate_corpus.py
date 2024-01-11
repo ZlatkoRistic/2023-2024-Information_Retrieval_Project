@@ -1,18 +1,20 @@
 import argparse
 import pathlib
+import sys
 
 from pathlib import Path
 from wiki_extract import store_wiki_category_pages, soupify_wiki_category_pages
 
-import sys
-sys.path.append('../')
+this_file_path: str = pathlib.Path(__file__).parent.resolve().as_posix()
+sys.path.append(this_file_path + '/../../')
 
 from src.vsm.vsm import VSM
+
+
 
 if __name__ == "__main__":
     # Argument handling based on https://www.geeksforgeeks.org/command-line-arguments-in-python/
 
-    this_file_path: str = pathlib.Path(__file__).parent.resolve().as_posix()
 
     cat_hierarchy_viz_path: str  = f"{this_file_path}/corpus/visualization.txt"
     wiki_raw_path: str           = f"{this_file_path}/corpus/raw-articles"
@@ -37,12 +39,12 @@ if __name__ == "__main__":
         soupify_wiki_category_pages(wiki_raw_path, wiki_processed_path)
     if args.index:
         vsm: VSM = VSM()
-        files = Path(wiki_processed_path).glob('*.txt')
+        file_extension: str = ".txt"
+        files = Path(wiki_processed_path).glob('*' + file_extension)
         for file in files:
-            print(file.name, type(file.name))
-            exit()
+            ID: int = int(file.name[:-len(file_extension)])
             with open(file, "r", encoding="utf8") as processed_file:
-                vsm.add_document(processed_file.read(), )
+                vsm.add_document(processed_file.read(), ID)
 
         with open(vsm_index_dump_path, "w") as index_file:
             index_file.write(vsm.dumps("\t"))

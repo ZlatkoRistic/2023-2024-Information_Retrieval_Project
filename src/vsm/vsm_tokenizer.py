@@ -21,7 +21,9 @@ class VSMTokenizer:
     - remove stopwords      (remove {i, you, and, the, ...})
     """
     def __init__(self) -> None:
+
         # Text processors
+        nltk.download('punkt')  # Only needed if `nltk.tokenize.word_tokenize` in use
         self._tokenizer_method = nltk.tokenize.word_tokenize                # ToktokTokenizer is slower than str.split(), but better results? But ToktokTokenizer only considers final punctuation symbol, so use default ntlk word tokenizer instead
         self._stemmer: nltk.LancasterStemmer = nltk.LancasterStemmer()      # PorterStemmer is faster than the LancasterStemmer, but better results?
         self._inflect_engine: inflect.engine = inflect.engine()
@@ -37,7 +39,7 @@ class VSMTokenizer:
 
     def tokenize(self, text: str, do_stemming: bool = True) -> List[str]:
         # String-based pre-processing
-        text = self._remove_accents(text, strict=True)
+        text = self._remove_accents(text, strict=False)
         text = text.lower()     # Change case should only be done if the following steps will not add wrong-case characters
         text = self._numbers_to_words(text)
 
