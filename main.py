@@ -69,10 +69,15 @@ def verification():
                 incorrect += 1
             total += 1
             pbar.update(1)
+            line = f.readline()
     f.close()
     print("Correct: " + str(correct))
     print("Incorrect: " + str(incorrect))
     print("Total: " + str(total))
+    with open("results", "w") as f:
+        d = {"correct": correct, "incorrect": incorrect, "total": total}
+        json.dump(d, f)
+    f.close()
     return correct, incorrect, total
 
 
