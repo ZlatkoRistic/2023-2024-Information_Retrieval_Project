@@ -18,7 +18,7 @@ from vsm import VSM
 def extract_train_claims():
     import json
     claims = set()
-    with open("train.jsonl", "r") as f:
+    with open("input/train.jsonl", "r") as f:
         line = f.readline()
         while line:
             json_obj = json.loads(line)
@@ -114,6 +114,143 @@ def top_k_fever_small():
 
     write_documents(vsm)
 
+def verification(input_path: str, output_path: str, sample_size: int = 1000):
+    import json
+    from transformers import GPT2Tokenizer, GPT2LMHeadModel
+    from tqdm import tqdm
+    from pfc.OurFactChecker import OurFactChecker
+    """
+
+    :param input_path: The validation set to be used for verification
+    :param output_path: The output file to write the results to
+    :param sample_size: The number of samples to be used for testing (this is not really neccessary, but it is used to estimate the eval time)
+    :return: tuple of ints representing the number of correct, incorrect, and total results
+    """
+    # Variables to keep track of the number of correct, incorrect, and total results
+    correct = 0
+    incorrect = 0
+    total = 0
+    # Load the model and tokenizer
+    tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+    fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
+    # Instantiate the fact checker
+    fact = OurFactChecker(fact_checking_model, tokenizer)
+    # Sample size to be used for testing
+    sample_size = 1000
+    # Open the validation set
+    with open(input_path, "r") as f:
+        # Read the first line
+        line = f.readline()
+        pbar = tqdm(total=sample_size)
+        while line:
+            # Load the json object
+            json_obj = json.loads(line)
+            label = json_obj["label"]
+            evidence = json_obj["evidence"]
+            claim = json_obj["claim"]
+            # Fact check the claim against the evidence
+            result = fact.validate(evidence, claim)
+            # Update the correct, incorrect, and total results depending on the result
+            if result and label == "SUPPORTS":
+                correct += 1
+            elif result and label == "REFUTES":
+                correct += 1
+            else:
+                incorrect += 1
+            total += 1
+            # Update the progress bar
+            pbar.update(1)
+            # Read the next line
+            line = f.readline()
+    f.close()
+    # Print the results
+    print("Correct: " + str(correct))
+    print("Incorrect: " + str(incorrect))
+    print("Total: " + str(total))
+    # Write the results to the output file
+    with open(output_path, "w") as f:
+        d = {"correct": correct, "incorrect": incorrect, "total": total}
+        json.dump(d, f)
+    f.close()
+    return correct, incorrect, total
+
+
+def precision(correct: int, total: int):
+    """
+
+    :param correct: int representing the number of correct results
+    :param total: int representing the total number of results
+    :return: the precision of the results
+    """
+    return correct / total
+
+
+def pre_processing(input_path: str, output_path: str, sample_size: int = 1000):
+    """
+
+    :param input_path: str representing the path to the validation set
+    :param output_path: str representing the path to the output file with the pre-processed data
+    :param sample_size: str representing the number of samples to be used for pre-processing
+    :return: the dict of all samples
+    """
+    import json
+    from datasets import load_dataset
+    from tqdm import tqdm
+    # Load the dataset
+    ds = load_dataset('fever', 'wiki_pages')
+    ds = ds['wikipedia_pages']
+    # Remove the lines column
+    ds = ds.remove_columns('lines')
+    # Put in pandas
+    df = ds.to_pandas(500, batched=False)
+    # Set the index to the id, this makes it faster
+    df.set_index('id', inplace=True)
+    with open(output_path, 'w') as r:
+        with open(input_path, "r") as f:
+            line = f.readline()
+            # Counter to keep track of the number of samples and abort when the sample size is reached
+            counter = 0
+            # Time updates
+            pbar = tqdm(total=sample_size)
+            while line:
+                json_obj = json.loads(line)
+                label = json_obj["label"]
+                # We filter out the entries where the label is "NOT ENOUGH INFO", these are irrelevant for our task
+                if label == "NOT ENOUGH INFO":
+                    line = f.readline()
+                    continue
+                evidence = ''
+                for i in range(len(json_obj["evidence"][0])):
+                    evidence_page = json_obj["evidence"][0][i][2]
+                    temp = df.loc[df.index == evidence_page]
+                    # If the is no evidence page, we skip it
+                    if temp.empty:
+                        continue
+                    # Concatenate the evidence to eachother
+                    evidence += df.loc[df.index == evidence_page].iloc[0]['text'] + ' '
+                # If there is no evidence, we skip it
+                if evidence == '':
+                    line = f.readline()
+                    continue
+                claim_txt = json_obj["claim"]
+                # Create the dict and write it to the output file
+                dict = {"claim": claim_txt, "evidence": evidence, "label": label}
+                json.dump(dict, r)
+                r.write('\n')
+                # Update the progress bar
+                pbar.update(1)
+                # Read the next line
+                line = f.readline()
+                # Update the counter
+                counter += 1
+                # If the counter is equal to the sample size, we stop
+                if counter == sample_size:
+                    f.close()
+                    r.close()
+                    return dict
+    f.close()
+    r.close()
+    return dict
 
 if __name__ == "__main__":
     # top_k_minimal()
