@@ -188,4 +188,4 @@ def get_wiki_page(page_id: int) -> Tuple[str, str, str]:
     subtitle: str = data.get("subtitle", "")
     text: str = data.get("text", "")
 
-    return title, subtitle, display_title, display_title + text
+    return title, subtitle, display_title + text
