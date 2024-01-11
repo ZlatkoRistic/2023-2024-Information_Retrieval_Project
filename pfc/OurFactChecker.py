@@ -25,8 +25,14 @@ class OurFactChecker:
         # We encode our tokens
         # Prompt is how we want to ask it
         tokens = self.tokenizer.encode(prompt, return_tensors='pt')
+        # Make sure that length is correct
+        l = 1
+        tokens_length = tokens.shape[1]
+        # If it is too long, we return nothing (generate will fail with size bigger than 1024, found out the hard way)
+        if tokens_length + l > 1024:
+            return ''
         # We get the output
-        output = self.model.generate(tokens.to(_device), max_length=1024, pad_token_id=50256)
+        output = self.model.generate(tokens.to(_device), max_length=l + tokens_length, pad_token_id=50256)
         # Let it decode back in text.
         text = self.tokenizer.decode(output[0], skip_special_tokens=True)
         return text

@@ -1,0 +1,16 @@
+{% extends "index.html" %}
+{% block content %}
+<div>
+    <h1>Result of the claim</h1>
+    <p> The claim was: "{{ claim }}".</p><br>
+    <p> The result is: "{{ result }}"</p>
+</div>
+{% for ev in evidence %}
+<form method="GET" action="/show_document" target=_blank>
+    <input type="hidden" name="pagenr" value={{ev}}>
+    <input type="submit" value={{ev}}>
+</form>
+{% endfor %}
+
+
+{% endblock %}
