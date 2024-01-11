@@ -4,8 +4,7 @@ from dataclasses import dataclass
 from typing import List, Set, Dict, Tuple, Union
 from math import log, sqrt
 
-from vsm.exceptions import UnknownDocument, UnknownTerm
-from vsm.DocumentStore import DocumentStore, Document
+from vsm.exceptions import UnknownDocument, UnknownTerm, DuplicateDocument
 from vsm.vsm_tokenizer import VSMTokenizer
 
 
@@ -54,17 +53,16 @@ class InvertedTermData:
 
 
 
-class VSM(DocumentStore):
+class VSM:
     """A Vector Space Model (VSM) that can be used to retrieve
     top-k documents for a specified query.
     
-    The VSM provides an interface to register and persist documents
-    for the VSM to make use of. It maintains a dynamic vocabulary
-    the collection of stored documents, and builds and inverted
-    document index to ensure reasonable calculation speed.
-    
-    Its implementation was based on the following sources:
+    The VSM does NOT provide an interface to register and persist
+    documents for the VSM to make use of.
 
+    The VSM DOES maintain a dynamic vocabulary for the collection of
+    added documents, and builds and inverted document index to
+    ensure reasonable calculation speed.
     """
     # Dump key constants
     DUMP_VOCABULARY: str = "vocabulary"
@@ -97,6 +95,11 @@ class VSM(DocumentStore):
         # The inverted document index for every known term.
         self._inverted_lists: Dict[str, InvertedTermData] = dict()
 
+    @property
+    def document_count(self) -> int:
+        """The number of documents added to the VSM."""
+        return len(self._document_norms)
+
     def get_top_k(self, query: str, k: int) -> List[Tuple[int, float]]:
         """Retrieve the top k documents for *query*.
 
@@ -106,6 +109,8 @@ class VSM(DocumentStore):
          the form of a list of `( document_ID, score )` pairs.
         """
         assert k >= 0, "Can not retrieve a negative number of top-k results."
+
+        # TODO Consider a "unknown term strategy" for queries that contain unknown terms?
 
         # Prevent wasted computation
         if k == 0:
@@ -139,7 +144,7 @@ class VSM(DocumentStore):
         document_score_pairs.sort(key=lambda pair: pair[1], reverse=True)
         return [(document_ID, score) for document_ID, score in document_score_pairs[:k]]
 
-    def add_document(self, document: str) -> None:
+    def add_document(self, document: str, document_ID: int) -> None:
         """Add a document to the VSM.
 
         Calling this method invalidates all existing query and
@@ -147,15 +152,18 @@ class VSM(DocumentStore):
         are not yet part of the VSM vocabulary.
 
         :param document: The document to add
+        :param document_ID: The ID to assign the document. A document ID
+        may only be used once for adding any document
         """
-        # TODO Consider a "unknown term strategy" for queries that contain unknown terms?
+
+        if document_ID in self._document_norms:
+            raise DuplicateDocument(document_ID)
 
         terms: List[str] = self._parse(document)
         unique_terms: Set[str] = set(terms)
 
         # Collect results
         self._vocabulary.update(unique_terms)
-        new_document_ID: int = self.persist_document(Document(contents=document))
         new_document_tf_vector: List[float] = []
 
         for term in unique_terms:
@@ -167,7 +175,7 @@ class VSM(DocumentStore):
 
             # Generate new posting
             new_posting = Posting(
-                document_ID    = new_document_ID,
+                document_ID    = document_ID,
                 term_frequency = terms.count(term)
             )
             term_data.posting_list.append(new_posting)
@@ -177,7 +185,7 @@ class VSM(DocumentStore):
             new_document_tf_vector.append(new_posting.term_frequency)
 
         # Calculate document statistics
-        self._document_norms[new_document_ID] = self._norm(new_document_tf_vector)
+        self._document_norms[document_ID] = self._norm(new_document_tf_vector)
 
     def dumps(self, indent: Union[int, str, None] = None) -> str:
         """Dump the VSM as a json string.
