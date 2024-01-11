@@ -26,6 +26,24 @@ Pre-processing happens within the [VSMTokenizer](/vsm/vsm_tokenizer.py) class. A
 * [Stemming](#stemming)
 * [Removing stopwords](#removing-stopwords)
 
+But first, we provide a short explanation on the use of true tokenizers within the VSMTokenizer.
+
+### True Tokenizers
+
+Calling our class VSMTokenizer is perhaps somewhat misguided. Because what is often referred to as a tokenizer, only splits input strings, natural language sentences in our use-case, into its constituent tokens, such as words and punctuation symbols. Our VSMTokenizer also performs pre-processing, and makes use of an actual tokenizer to do the tokenization of sentences. To avoid confusion, we will refer to such methods as _true tokenizers_ in this section.
+
+We may refer to token-based pre-processing as text-based pre-processing as well (see [challenges](#challenges)). These are processing steps that apply transformations on a token-by-token level of granularity.
+
+There are many tokenizer implementations to choose from. To keep things simple, we will restrict
+our search to the [nltk tokenize module](https://www.nltk.org/api/nltk.tokenize.html).
+
+### Tokenizer choice
+
+As an initial attempt at tokenization, we simply used python's built-in `str.split()` method. This is incredibly fast, but treats punctuation very naïvely. This results in tokens that simply have punctuation symbols attached to them.
+
+We then tried the [ToktokTokenizer](https://www.nltk.org/api/nltk.tokenize.toktok.html). This tokenizer is reasonably fast, but we disliked the way it treated constraction by splitting them, such as `y'all` into `y`, `'` and `all`.
+
+We **settled on** using the `nltk.tokenize.word_tokenize` tokenizer. This is a somewhat slower tokenizer, but it handles contractions and punctuation as we wanted.
 
 ### Expand Contractions
 
@@ -88,7 +106,7 @@ This section details some observations about the text pre-processing. It aims to
 
 #### Challenges
 
-**Balancing** between **text-based** and **regex-based** pre-processing steps took some trial and error. For example, the contraction replacement was ill suited to `re.sub` type replacements. Implementing it by applying substitutions token by token was a fair bit faster. These kinds of considerations were tested for the applicable pre-processing steps.
+**Balancing** between **text-based** and **regex-based** pre-processing steps took some trial and error. For example, the contraction replacement was ill suited to `re.sub` type replacements. Implementing it by applying substitutions token by token was a fair bit faster. These kinds of considerations were tested individually for each of the applicable pre-processing steps.
 
 The **ordering** of **removing (replacing) special characters** in the set of pre-processing steps had to be carefully considered. Because two steps depend on special characters:
 * Numbers to words conversion: depends on hyphons, e.g. "twenty-three"
