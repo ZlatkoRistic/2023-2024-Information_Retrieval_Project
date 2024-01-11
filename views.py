@@ -28,10 +28,9 @@ def submit():
     args = request.args
     claim = args.get('claim')
 
-    evidence_list = ["Geraldine Chaplin maintains a home in Granada, Spain.", "Earth is round", "Jennifer Aniston was married to Brad Pitt for five months."]
-    evidence_string = '\n\n'.join(evidence_list)
-    result = False
-    # result = fact_check(claim, evidence_string)
+        evidence = [ str(top_id) for top_id, score in top_k ]
+
+    result: bool = fact.validate(' '.join(fact_check_evidence), claim)
 
     return render_template("evidence.html", claim=claim, result=result, evidence=["6678"])
 
@@ -41,7 +40,7 @@ def show_document():
     args = request.args
     page = args.get('pagenr')
 
-    page_name = str(page) + ".html"
+    page_name = "./raw-articles/" + str(page) + ".html"
 
     return render_template(page_name)
 
