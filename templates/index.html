@@ -11,6 +11,23 @@
     </div>
 
     <div>
+        <h2>Evaluation of fact verification</h2>
+        <p>The two paths are the file paths to the input and output files. The input section do NOT require a value as there are defaults in place.</p>
+        <form method="GET" action="/evaluate">
+            <label for="Input">Input:</label>
+            <input type="text" id="Input" name="input" value="./input/pre_processed.jsonl"><br>
+            <label for="Output">Output:</label>
+            <input type="text" id="Output" name="output" value="./output/results.json"><br>
+            <input type="submit" value="Evaluate">
+        </form>
+
+        {% block evaluation %}
+        {% endblock %}
+
+    </div>
+
+    <div>
+        <h2>Check a Claim</h2>
         <form method="GET" action="/submit">
             <label for="Claim">Claim:</label><br>
             <input type="text" id="Claim" name="claim"><br>

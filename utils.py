@@ -1,5 +1,6 @@
 import csv
 import cProfile
+from pathlib import Path
 
 from vsm import VSM
 
@@ -114,7 +115,8 @@ def top_k_fever_small():
 
     write_documents(vsm)
 
-def verification(input_path: str, output_path: str, sample_size: int = 1000):
+
+def verification(input_path: str = "./input/pre_processed.jsonl", output_path: str ="./output/results.json", sample_size: int = 1000):
     import json
     from transformers import GPT2Tokenizer, GPT2LMHeadModel
     from tqdm import tqdm
@@ -137,6 +139,15 @@ def verification(input_path: str, output_path: str, sample_size: int = 1000):
     fact = OurFactChecker(fact_checking_model, tokenizer)
     # Sample size to be used for testing
     sample_size = 1000
+
+    print(input_path)
+    print(output_path)
+    input_path = Path('.') / input_path
+    output_path = Path('.') / output_path
+    print(input_path)
+    print(output_path)
+
+
     # Open the validation set
     with open(input_path, "r") as f:
         # Read the first line
@@ -185,7 +196,7 @@ def precision(correct: int, total: int):
     return correct / total
 
 
-def pre_processing(input_path: str, output_path: str, sample_size: int = 1000):
+def pre_processing(input_path: str = "./input/train.jsonl", output_path: str = "./input/pre_processed.jsonl", sample_size: int = 1000):
     """
 
     :param input_path: str representing the path to the validation set
@@ -251,6 +262,30 @@ def pre_processing(input_path: str, output_path: str, sample_size: int = 1000):
     f.close()
     r.close()
     return dict
+
+
+def dump_wiki():
+    import json
+    from datasets import load_dataset
+    from tqdm import tqdm
+
+    # Load the dataset
+    ds = load_dataset('fever', 'wiki_pages')
+    ds = ds['wikipedia_pages']
+    # Remove the lines column
+    ds = ds.remove_columns('lines')
+    # Put in pandas
+    df = ds.to_pandas(500, batched=False)
+    # Set the index to the id, this makes it faster
+    df.set_index('id', inplace=True)
+    with open("output/wiki-pages.json", "w") as f:
+        pb = tqdm(total=len(df))
+        for index, row in df.iterrows():
+            d = {"text": row['text']}
+            json.dump(d, f)
+            f.write("\n")
+            pb.update(1)
+
 
 if __name__ == "__main__":
     # top_k_minimal()

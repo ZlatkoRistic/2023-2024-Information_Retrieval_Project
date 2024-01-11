@@ -1,5 +1,6 @@
 from flask import Blueprint, render_template, request, redirect, url_for
 from main import fact_check
+from utils import verification, precision
 
 views = Blueprint(__name__, "views")
 
@@ -30,4 +31,17 @@ def show_document():
     page_name = str(page) + ".html"
 
     return render_template(page_name)
+
+
+@views.route("/evaluate", methods=["GET"])
+def evaluate():
+    args = request.args
+    eval_input = args.get("input")
+    eval_output = args.get("output")
+
+    # TODO: call function
+    correct, incorrect, total = verification(eval_input, eval_output)
+    precis = precision(correct, total)
+
+    return render_template("evaluate.html", precis=precis)
 
