@@ -1,0 +1,6 @@
+# Ignore raw html files
+raw-articles/*
+# Ignore processed html -> txt files
+processed-articles/*
+# Ignore visualization
+visualization.*
