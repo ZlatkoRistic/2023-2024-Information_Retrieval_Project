@@ -119,7 +119,7 @@ def _to_category_tree(init_category: str,
     """
     out_str: str = _build_category_tree(init_category, category_dict)
 
-    with open(output_path, "w") as of:
+    with open(output_path, "w", encoding='utf8') as of:
         of.write(out_str)
 
 def _build_category_tree(category: str,

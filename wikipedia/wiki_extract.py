@@ -30,7 +30,7 @@ def store_wiki_category_pages(category: str, depth: int, output_path: str, visua
     
     for page_id in page_ids:
         _, _, page_content_html = get_wiki_page(page_id)
-        with open(f"{output_path}/{page_id}.html", "w") as of:
+        with open(f"{output_path}/{page_id}.html", "w", encoding='utf8') as of:
             of.write(page_content_html)
 
 
@@ -47,10 +47,10 @@ def soupify_wiki_category_pages(input_path: str, output_path: str):
 
     files = Path(input_path).glob('*.html')
     for file in files:
-        with open(file, "r") as inp_file:
+        with open(file, "r", encoding="utf8") as inp_file:
             output_file_path: str = f"{output_path}{file.name}"
             output_file_path = output_file_path[:-4] + "txt"      # Replace extension: html -> txt
-            with open(output_file_path, "w") as out_file:
+            with open(output_file_path, "w", encoding="utf8") as out_file:
                 out_file.write(_soupify_wiki_html_page(inp_file.read()))
 
 
