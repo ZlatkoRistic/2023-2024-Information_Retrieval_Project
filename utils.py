@@ -1,5 +1,6 @@
 import csv
 import cProfile
+from pathlib import Path
 
 from vsm import VSM
 
@@ -138,6 +139,15 @@ def verification(input_path: str = "./input/pre_processed.jsonl", output_path: s
     fact = OurFactChecker(fact_checking_model, tokenizer)
     # Sample size to be used for testing
     sample_size = 1000
+
+    print(input_path)
+    print(output_path)
+    input_path = Path('.') / input_path
+    output_path = Path('.') / output_path
+    print(input_path)
+    print(output_path)
+
+
     # Open the validation set
     with open(input_path, "r") as f:
         # Read the first line
