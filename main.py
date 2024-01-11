@@ -35,7 +35,7 @@ def load_train_claims(vsm: VSM, max_doc_count: int = -1):
       of -1 means unlimited
     
     """
-    with open("train-claims.csv", "r") as ipf:
+    with open("train-claims.csv", "r", encoding="utf8") as ipf:
         reader = csv.reader(ipf, delimiter=',')
         next(reader)
         ctr: int = 0
