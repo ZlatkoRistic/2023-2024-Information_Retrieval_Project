@@ -22,7 +22,7 @@ class VSMTokenizer:
     """
     def __init__(self) -> None:
         # Text processors
-        self._tokenizer: nltk.ToktokTokenizer = nltk.ToktokTokenizer()      # ToktokTokenizer is slower than str.split(), but better results?
+        self._tokenizer_method = nltk.tokenize.word_tokenize                # ToktokTokenizer is slower than str.split(), but better results? But ToktokTokenizer only considers final punctuation symbol, so use default ntlk word tokenizer instead
         self._stemmer: nltk.LancasterStemmer = nltk.LancasterStemmer()      # PorterStemmer is faster than the LancasterStemmer, but better results?
         self._inflect_engine: inflect.engine = inflect.engine()
 
@@ -42,7 +42,7 @@ class VSMTokenizer:
         text = self._numbers_to_words(text)
 
         # Token-based pre-processing
-        tokens: List[str] = text.split()
+        tokens: List[str] = self._tokenizer_method(text) # text.split()
         tokens = self._expand_contractions(tokens)      # regex-based contraction expansion is slow?
         tokens = self._remove_special_characters(tokens, replace_char=' ', remove_digits=False)
         if do_stemming: tokens = self._stem(tokens)
