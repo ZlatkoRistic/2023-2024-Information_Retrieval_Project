@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+    <div>
+        <h1>Information Retrieval: Fact Verification</h1>
+        <p>by three handsome boys </p>
+    </div>
+
+    <div>
+        <form method="GET" action="/submit">
+            <label for="Claim">Claim:</label><br>
+            <input type="text" id="Claim" name="claim"><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
