@@ -43,5 +43,5 @@ def evaluate():
     correct, incorrect, total = verification(eval_input, eval_output)
     precis = precision(correct, total)
 
-    return render_template("evaluate.html", precis=precis)
+    return render_template("evaluation.html", precis=precis)
 
