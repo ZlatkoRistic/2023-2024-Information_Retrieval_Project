@@ -1,0 +1,245 @@
+Feline vaccination
+Vaccination of cats
+Feline vaccination is animal vaccination applied to cats. Vaccination plays a vital role in protecting cats from infectious diseases, some of which are potentially fatal. They can be exposed to these diseases from their environment, other pets, or even humans.
+Principles guiding vaccination recommendations[edit]
+The practice of recommending and giving vaccines on a fixed schedule with annual boosters has been widely discarded. Current recommendations are based on the philosophy of vaccinating each cat no more frequently than necessary. These recommendations take into account considerations for the efficacy and duration of immunity (DOI)[1] of available vaccines; environmental risks and likelihood of exposure; the specific needs and risks associated with age and overall health status of different cats and cat populations; and socioeconomic limitations.[2][3][4][5]
+Recommendation vary for:
+Shelters
+Owned pets (and based on "inside only", "in and out", or "out only")
+Breeders
+Boarding facilities (or animals going into them)
+Feral cats
+Community cats
+TNR (trap–neuter–return) program
+Specific consideration may be required for:
+Travel plans
+Underlying disease conditions of the specific cat
+Pregnant or lactating/nursing cats
+Multi-cat households or kitten foster homes
+Core vs non-core vaccines[edit]
+Core vaccines are ones that are considered "essential for health" and are recommended for both indoor and outdoor owned domestic cats, as well as community and feral cats. These include:
+Feline panleukopenia (FPV or FPLV, aka feline parvo or feline distemper)
+Feline viral rhinotracheitis (FHV, aka herpes virus)
+Feline calicivirus (FCV)
+Rabies (where the disease is endemic or required by law)
+Non-core vaccines are recommended only for cats at risk of specific infection. These include:
+Feline leukemia virus (FeLV)
+Feline immunodeficiency virus (FIV)
+Chlamydia felis
+Bordetella bronchiseptica
+Schedules for vaccinations[edit]
+National, international, and global vaccination guidelines by professional veterinary advisory boards are regularly updated and available for on-line viewing or download. These include:
+World Small Animal Veterinary Association (WSAVA): Guidelines for the vaccination of dogs and cats
+American Association of Feline Practitioners (AAFP) Feline Vaccination Advisory Panel Report: Feline Vaccination Guidelines Archived 2013-08-27 at the Wayback Machine
+European Advisory Board of Cat Diseases (ABCD): Vaccines and Vaccinations
+UK: The National Office of Animal Health (NOAH): Vaccination for animal health Archived 2020-07-31 at the Wayback Machine
+These guides provide recommendations for kittens and adult cats. They include initial requirements to establish adequate levels of acquired immunity, along with renewal (booster) recommendations to retain it. For some infectious diseases, blood samples can be used to measure antibody levels (titers) to determine DOI.[1] Though these tests do not provide evidence of protective immunity, some clinicians use high titer results as an indicator, along with low disease exposure risk that vaccines might be administered at a longer than usual revaccination interval.[6]
+Types of vaccines[edit]
+Numerous types and brands of commercial vaccines are available to induce acquired immunity. These include:
+Modified-live virus (MLV or "infectious") non adjuvated
+MLV adjuvated
+Killed virus ("non-infectious") adjuvated
+Killed virus non adjuvated.
+Combination vaccines that provide protection against several common viruses are also available.
+Selection or use of a specific type/brand of vaccine may vary depending on the overall risk of viral infection to the specific animal in its environment, along with considerations for the time it takes to confer protection, its overall efficacy, the animal's health, and the potential risks associated with MLV vs killed, adjuvated vs non adjuvated, intranasal/ocular vs injection.
+Administration of vaccines[edit]
+The laws as to who may acquire and give vaccines varies in different countries. Some may only be acquired and given by a licensed veterinarian, others by owners or caretakers.
+The vaccine delivery method/route may vary. They may be given by injection, dermal application, or nasal/ocular application. Injection routes may be intra-muscular (IM) or subcutaneous (SQ). The specific injection site may vary depending on the type of vaccine (MLV vs killed) being given.
+Reactions to vaccines[edit]
+Vaccines must undergo safety trials to receive licensing and are considered very safe. A very small percentage of animals may have an adverse reaction. All advisory boards mentioned above strongly endorse the view that the benefits far outweigh the risks of not vaccinating an animal.[citation needed]
+Normal reactions[edit]
+After vaccinations are administered, cats may experience mild and short-lived reactions such as poor appetite, lethargy, and fever. Any symptoms that persist for more than a day or two should be discussed with a veterinarian.[7] Sometimes, for injected vaccines, a small, non-painful lump may form at the site where the vaccine was injected which usually disappears within four weeks.[6]
+Adverse (abnormal) reactions[edit]
+Adverse events include any injury caused by the vaccine.[2]
+Rarely, a cat will have an allergic reaction to a vaccine. This may include facial itchiness, or be a generalized allergic reaction that includes vomiting, diarrhea, breathing difficulties, and extremely rarely, collapse. Should any of these occur, contact your veterinarian immediately. Anaphylactic reactions are rarely fatal if treated in a timely fashion. If an allergic reaction occurs, future vaccinations may be amended by type or preceded by an allergy medicine.[7]
+Another uncommon reaction is the development of a vaccine-associated fibrosarcoma, a tumor at the injection site that develops months or years after vaccination.[7]
+Adverse events should be reported, whether their association with vaccination is recognized or only suspected. Veterinarians are encouraged to report any clinically significant adverse event occurring during or after administration of any licensed vaccine.[2]
+The report, identifying the product, batch, animal and reaction involved, should be submitted to the manufacturer of the vaccine and to the appropriate regulatory agency.
+References[edit]
+^ a b "Efficacy and effectiveness". Immunisation Advisory Centre. July 26, 2016.
+^ a b c Day, M. J.; Horzinek, M. C.; Schultz, R. D.; Squires, R. A. (2016). "WSAVA Guidelines for the vaccination of dogs and cats". Journal of Small Animal Practice. 57 (1): E1–E45. doi:10.1111/jsap.2_12431. ISSN 1748-5827. PMC 7166872. PMID 26780857.
+^ "Feline Vaccination Advisory Panel Report | American Association of Feline Practitioners". catvets.com. Retrieved 2019-03-16.
+^ "Vaccines and vaccination – an introduction |". Retrieved 2019-03-16.
+^ "Vaccination for animal health: an overview". NOAH (National Office of Animal Health). Retrieved 2019-03-16.
+^ a b "CVMA | Documents | Vaccination and Your Cat". www.canadianveterinarians.net. Retrieved 2019-03-16.
+^ a b c "Vaccinations for Your Cat". 2013.
+vteDomestic catsFelinology
+Anatomy
+Genetics
+Dwarf cat
+Kitten
+Odd-eyed cat
+Squitten
+Coat genetics
+Bicolor cat
+Black cat
+Calico cat
+Tabby cat
+Tortoiseshell cat
+Health
+Aging
+Declawing
+Diet
+dental health
+senior
+Vaccination
+Behavior
+Cat–dog relationship
+Catfight
+Catnip
+valerian
+Communication
+Meow
+Purr
+Kneading
+Intelligence
+Play and toys
+Righting reflex
+Senses
+Human–catinteraction
+Ailurophobia
+Cat cafés
+Cat killers
+Cat massage
+Cat meat
+Cat-scratch disease
+Cat show
+Cats in ancient Egypt
+Cultural depictions
+fictional
+Internet
+Feral cat
+Cats and Islam
+Lolcat
+National Cat Day
+Pet cat
+Puppy cat
+Working cat
+Bodega cat
+Farm cat
+Library cat
+Ship's cat
+Zoonosis
+Registries
+American Cat Fanciers Association
+Associazione Nazionale Felina Italiana
+Canadian Cat Association
+Cat Aficionado Association
+Cat Fanciers' Association
+Fédération Internationale Féline
+Governing Council of the Cat Fancy
+New Zealand Cat Fancy
+Southern Africa Cat Council
+The International Cat Association
+World Cat Congress
+World Cat Federation
+Breeds(full list)(experimental)Fullydomestic
+Abyssinian
+American Curl
+American Shorthair
+Balinese
+Brazilian Shorthair
+British Shorthair
+Birman
+Bombay
+Burmese
+Burmilla
+California Spangled
+Chartreux
+Chinese Li Hua
+Colorpoint Shorthair
+Cornish Rex
+Cymric
+Devon Rex
+Donskoy
+Egyptian Mau
+European Shorthair
+Exotic Shorthair
+German Rex
+Himalayan
+Japanese Bobtail
+Javanese
+Khao Manee
+Korat
+Kurilian Bobtail
+Lykoi
+Maine Coon
+Manx
+Munchkin
+Neva Masquerade
+Norwegian Forest
+Ocicat
+Ojos Azules
+Oriental Shorthair
+Persian
+Peterbald
+Pixie-bob
+Ragdoll
+Ragamuffin
+Russian Blue
+Scottish Fold
+Selkirk Rex
+Siamese
+Siberian
+Singapura
+Snowshoe
+Somali
+Sphynx
+Thai
+Traditional Persian
+Tonkinese
+Toyger
+Turkish Angora
+Turkish Van
+Hybrid
+Bengal
+Chausie
+Highlander
+Savannah
+Serengeti
+Landraces
+Aegean
+Cyprus
+Domestic long-haired
+Domestic short-haired
+Kellas
+Sokoke
+Van
+Diseases anddisorders
+Acne
+Asthma
+Calicivirus
+Congenital sensorineural deafness
+Feline corneal sequestrum
+Flea
+Coccidia
+Heartworm
+Hepatic lipidosis
+Hypertrophic cardiomyopathy
+Immunodeficiency virus
+Infectious peritonitis
+Leukemia virus
+Lower urinary tract disease
+Panleukopenia
+Giardiasis
+Polydactyly
+Rabies
+Ringworm
+Tritrichomonas foetus
+Roundworm
+Skin disorders
+Tick
+Toxoplasmosis
+Viral rhinotracheitis
+Cats by country
+Australia
+Canada
+Japan
+New Zealand
+United Kingdom
+United States
+Related
+List of individual cats
+List of oldest cats
+Cats in folklore
+Category

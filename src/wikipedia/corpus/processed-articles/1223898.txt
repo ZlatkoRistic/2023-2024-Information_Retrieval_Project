@@ -1,0 +1,125 @@
+Metailurini
+Extinct tribe of carnivores
+MetailuriniTemporal range: Late Miocene–Middle Pleistocene
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+†Machairodontinae
+Tribe:
+†MetailuriniBeaumont, 1964
+Genera
+†Adelphailurus Hibbard, 1934
+†Dinofelis Zdansky, 1924
+†Fortunictis Pons-Moyà, 1987
+†Metailurus Zdansky, 1924
+†Stenailurus Crusafont-Pairo & Aguirre, 1972
+†Yoshi Spassov & Geraads, 2014
+Synonyms
+Dinofelini
+Metailurini is an extinct taxonomic tribe of large saber-toothed cats that lived in Africa, Asia, Europe, and North America from the Miocene to the Pleistocene.[1]
+The best known Metalurini genera are Dinofelis and Metailurus. Metailurini had canines longer than neofelids, but smaller than true saber toothed cats. The teeth were also more conical than flat, so called "scimitar-toothed", having broad and mildly elongated upper canines. Like most extinct cats, the majority of species in Metailurini are known primarily from fragments. However, the systematic position and taxonomy of these creatures is now accepted as being true members of Felidae and descended from Proailurus and Pseudaelurus.[2] Within Felidae, they had been traditionally considered to belong in Machairodontinae, albeit some have in the past proposed a relationship to Pantherinae,[3][4] all phylogenetic analyses support the former classification but the monophyly of the taxon itself might not be supported.[4][5][6]
+History[edit]
+Metailurini was first named as a tribe by Beaumont in 1964 for the genera Metailurus, Therailurus, and tentatively Dinofelis. Stenailurus was described in 1972 and assigned to the group, which the authors elevated to a subfamily Metailurinae. In a 1983 review of machairodontine classification, Berta & Galiano added Adelphailurus and Pontosmilus to the tribe, though subsequent papers consider Pontosmilus a junior synonym of the machairodontin Paramachaerodus, and Therailurus a junior synonym of Dinofelis. A further genus was added in 1987 with the description of Fortunictis.[7]
+The most recent addition was the genus Yoshi in 2014.[8]
+Classification[edit]
+Tribe: Metailurini
+Adelphailurus
+Adelphailurus kansensis
+Dinofelis
+Dinofelis aronoki
+Dinofelis barlowi
+Dinofelis darti
+Dinofelis diastemata
+Dinofelis paleoonca
+Dinofelis petteri
+Dinofelis piveteaui
+Dinofelis werdelini
+Fortunictis
+Fortunictis acerensis
+Metailurus
+Metailurus boodon
+Metailurus hengduanshanensis
+Metailurus major
+Metailurus mongoliensis
+Metailurus ultimus
+Stenailurus
+Stenailurus teilhardi
+Yoshi
+Yoshi faie
+Yoshi garevskii
+Yoshi minor
+Yoshi obscura
+Yoshi yongdengensis
+References[edit]
+^ PaleoBiology Database: Metailurini, basic info
+^ Wesley-Hunt, Gina D.; Flynn, John J. (2005). "Phylogeny of the Carnivora: basal relationships among the Carnivoramorphans, and assessment of the position of ‘Miacoidea’ relative to Carnivora". Journal of Systematic Palaeontology 3: 1–28. doi:10.1017/S1477201904001518
+^ Lars W. van den Hoek Ostende, Michael Morlo, Doris Nagel: Fossils explained 52 Majestic killers: the sabre-toothed cats. Blackwell Publishing Ltd, Geology Today, Vol. 22, No. 4, July–August 2006 online
+^ a b Christiansen, Per (2013). "Phylogeny of the sabertoothed felids (Carnivora: Felidae: Machairodontinae)". Cladistics. 29 (5): 543–559. doi:10.1111/cla.12008. PMID 34814379. S2CID 85111366.
+^ Salesa, M.; et al. (2012). "A rich community of Felidae (Mammalia, Carnivora) from the late Miocene (Turolian, MN 13) site of Las Casiones (Villalba Baja, Teruel, Spain)". Journal of Vertebrate Paleontology. 32 (3): 658–676. doi:10.1080/02724634.2012.649816. S2CID 129246524.
+^ Meloro, C. & Slater, G.J. (2012). "Covariation in the skull modules of cats: the challenge of growing saber-like canines". Journal of Vertebrate Paleontology. 32 (3): 677–685. doi:10.1080/02724634.2012.649328. S2CID 55862923.
+^ Pons-Moyà, Joan (1987). "Fortunictis nov. gen. acerensis nov. sp. nuevo Metailurini (Mammalia, Carnivora) del Mioceno superior de la Península Ibérica" [Fortunictis nov. gen. acerensis nov. sp. new Metailurini (Mammalia, Carnivora) from the Upper Miocene of the Iberian Peninsula.]. Paleontologia i evolució (in Spanish) (21): 63–68. S2CID 133680588.
+^ Spassov, Nikolai; Geraads, Denis (2014). "A New Felid from the Late Miocene of the Balkans and the Contents of the Genus Metailurus Zdansky, 1924 (Carnivora, Felidae)". Journal of Mammalian Evolution. 22: 45–56. doi:10.1007/s10914-014-9266-5. S2CID 14261386.
+vteMachairodontinae
+Kingdom: Animalia
+Phylum: Chordata
+Clade: Synapsida
+Class: Mammalia
+Order: Carnivora
+Family: Felidae
+Homotherini
+Amphimachairodus
+Lokotunjailurus
+Homotherium
+Longchuansmilus
+Machairodus
+Nimravides
+Taowu
+Xenosmilus
+Metailurini
+Adelphailurus
+Dinofelis
+Fortunictis
+Stenailurus
+Metailurus
+Yoshi
+Smilodontini
+Megantereon
+Paramachaerodus
+Promegantereon
+Rhizosmilodon
+Smilodon
+Incertae sedis:
+Hemimachairodus
+Miomachairodus
+Tchadailurus
+Taxon identifiers
+Wikidata: Q135227
+Wikispecies: Metailurini
+Fossilworks: 129892
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte

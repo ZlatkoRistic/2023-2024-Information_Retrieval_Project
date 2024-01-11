@@ -1,0 +1,283 @@
+Domestication of the cat
+Evolutionary origins of domesticated cats
+An example of a domesticated, indoor cat.
+A domestic tabby cat
+The domestic cat originated from Near-Eastern and Egyptian populations of the African wildcat, Felis sylvestris lybica. The family Felidae, to which all living feline species belong, arose about ten to eleven million years ago and is divided into eight major phylogenetic lineages. The Felis lineage in particular is the lineage that the domestic cat is a member of.[1] A number of investigations have shown that all domestic varieties of cats come from a single species of the Felis lineage, Felis catus. Variations of this lineage are found all over the world, and until recently scientists have had a hard time pinning down exactly which region gave rise to modern domestic cat breeds. Scientists believed that it was not just one incident that led to the domesticated cat but multiple, independent incidents at different places that led to these breeds. More complications arose from the fact that the wildcat population as a whole is very widespread and very similar to one another. These variations of wildcat can and will interbreed freely with one another when in close contact, further blurring the lines between taxa.[2] Recent DNA studies, advancement in genetic technologies, and a better understanding of DNA and genetics as a whole has helped make discoveries in the evolutionary history of the domestic cat. Archaeological evidence has documented earlier dates of domestication than formerly believed.
+DNA and phylogenetic evidence[edit]
+Current taxonomy tends to treat F. silvestris, F. lybica, F. catus,[3] and F. bieti as different species. A 2007 study of feline mitochondrial DNA and microsatellites of approximately 1,000 cats from many different regions (including Africa, Azerbaijan, Kazakhstan, Mongolia, and the Middle East) showed 5 genetic lineages of the wildcat population.[4] These lineages included:
+Felis silvestris silvestris[5] (Europe)
+Felis silvestris bieti[6] (China)
+Felis silvestris ornata[7] (Central Asia)
+Felis silvestris cafra[8] (Southern Africa)
+Felis silvestris lybica[9] (Middle East)
+This study showed that African wildcat (F. s. lybica) included domesticated cats and that wild cats from this group are almost indistinguishable from domesticated cats.[4] Along with DNA analysis, phylogenetic studies were also conducted to narrow down the evolutionary history. Phylogenetic trees were generated based on mitochondrial DNA analysis.
+A European wildcat, one of the possible ancestors of the modern domestic cat
+In each study Bayesian, maximum likelihood, and parsimony maximum likelihood trees all produced identical results. They each show that F. s. ornata, F. s. cafra, and F. s. lybica were all very closely related to a common ancestor. It also showed that this group of variations are monophyletic, meaning they share a common ancestor not shared by other groups. The trees also helped show that F. s. lybica gave rise to the domesticated cats of today. F. s. silvestris
+showed a very early branching away from the other groups, but still shares a very early common ancestor with the rest of the clades.[4]
+Domesticated cats originated[10] from near-eastern and Egyptian populations of F. s. lybica. The former gathered around human agricultural colonies themselves, while the latter (~1500 BC) seems mainly attractive in behavioral traits. They started spreading during neolithic times, but did not become widespread in the Old World until classical antiquity.[11] A newer study from 2018 moves the earlier origin to Southwest Asia.[12]
+Traits[edit]
+A 2014 study compares many cat genomes with tiger and dog genomes. Genomic regions under selection in domestic cats include those involved in neuronal processes (fear and reward behavior) and in homologous recombination (increased recombination frequency). In addition, the KIT mutations responsible for the white-spotted phenotype were identified.[13]
+The blotched tabby cat trait (Aminopeptidase Q mutation) arose in the Middle Ages. Wild-type cats have a mackerel pattern.[11]
+Archaeological evidence[edit]
+Scientists also used archaeological and behavioral studies to help further solidify the discovery that F.s. lybica was the common ancestor to domesticated cats. Fragments of teeth and bone found at burial sites across the globe have all been connected by DNA analysis to F.s. lybica, some dating as far back as 7,000–8,000 years ago. Originally the Egyptian populations were credited with the early domestication of cats approximately 3,600 years ago but archaeological evidence also disputed the hypothesis in 2004.[2] Archaeologists working in Cyprus found an even older burial ground, a Neolithic site that is approximately 9,500 years old, of an adult human buried with a cat.[14] Cats are not native to this area, which means the tribe must have brought the cats with them when they established residence on the island. This finding suggests that people from the Middle Eastern region of the Old World began keeping cats thousands of years earlier than the Egyptians.[2]
+Behavioral evidence[edit]
+Behavioral analysis of F.s. silvestris (the European wildcat), which was thought to also be a common ancestor to domesticated cats, showed that there were significant differences between the two. F.s. silvestris has a tendency to be very timid and aggressive even when they are raised starting as kittens around a human population. This group was also very territorial and showed aggressive behavior within their own species as well. Hybrids between domesticated cats and silvestris showed less aggressive behavior and more docile temperament leading the scientist to believe that the behavioral difference was genetic and most likely due to a difference in species.[1] This evidence suggests F.s. lybica is likely to be the common ancestor of all domesticated cats today.
+Domestic cat breed differentiation[edit]
+Unlike other domesticated animals, which have been bred for different physical traits to help with tasks, such as food, hunting, or security, modern cat breeds originated mostly within the last 150 years from breeding for physical traits with no differentiation in functionality—just aesthetic differences.[15] Also different from domesticated mammals, domesticated cat breeds have very few genetic differences from their wild counterparts due to constant intermixing, with thousands of years of genetic exchanges in both directions. The few genes that control physical characteristics such as hair color and pattern are what differentiate the modern wildcat population from domesticated cats.[16] Domesticated cat breeds are also unique in the fact that there are only 40–50 genetically distinct breeds while other domesticated animals can have anywhere from 65 to 100 genetically distinct breeds.[15]
+Contemporary breeds[edit]
+A Sphynx cat, one of the cat breeds resulting from human breeding practices during the last century and a half
+In 1871 only five cat breeds were recognized by an association in London. Today the Cat Fanciers Association (CFA) recognizes 41 breeds [17] and The International Cat Association (TICA) recognizes 57 breeds.[18] Most of these breeds are defined by phenotypic, or visible, characteristics, most of which are single gene traits found at low to moderate levels in the non-pedigree cat. These characteristics are rare and not seen in the common house cat. Unlike most pet dogs, which come from a mixture of purebreed lineages, cats started as a mixture of many wildcat variations and have been selectively bred by humans for certain traits that lead to modern breeds. This has allowed for a large increase in the number of breeds in a shorter amount of time. This is also the reason why associations that classify cat breeds use the word "pedigreed", as domestic cats do not have true purebred forms.[18]
+DNA studies have been conducted to connect the pedigree lines to those which freely bred at random. These studies were conducted using the same techniques as mentioned above, mitochondrial DNA and microsatellites were examined to find the common ancestor. All cat breeds were found to have originated in eight different regions and then selectively bred multiple times throughout history and relocated multiple times, leading to the approximately 45 modern breeds. These eight lineages include Europe, Egypt, India, Southeast Asia, Arabian Sea, East Asia, and the Mediterranean.[19]
+See also[edit]
+Biology portalCats portal
+Cat § Domestication
+Cat genetics
+Domestication
+Felidae § Evolution
+References[edit]
+^ a b Serpell, James A. (2013), "Domestication and history of the cat", in Turner, Dennis C; Bateson, Patrick (eds.), The Domestic Cat, Cambridge University Press, pp. 83–100, doi:10.1017/cbo9781139177177.011, ISBN 9781139177177
+^ a b c Driscoll, Carlos (2009). "The Taming of the Cat. Genetic and Archaeological findings hint that wildcats became housecats earlier- and in different place- than previously thought". Scientific American. 300 (6): 68–75. Bibcode:2009SciAm.300f..68D. doi:10.1038/scientificamerican0609-68. PMC 5790555. PMID 19485091.
+^ "Felis catus domestic cat". Animal Diversity. Retrieved 2021-04-30.
+^ a b c Driscoll CA, Menotti-Raymond M, Roca AL, Hupe K, Johnson WE, Geffen E, Harley EH, Delibes M, Pontier D, Kitchener AC, Yamaguchi N, O'brien SJ, Macdonald DW (July 2007). "The Near Eastern Origin of Cat Domestication". Science. 317 (5837): 519–23. Bibcode:2007Sci...317..519D. doi:10.1126/science.1139518. OCLC 808298830. PMC 5612713. PMID 17600185.
+^ Dewey, Tanya. "Felis silvestris (wild cat)". Animal Diversity Web. Retrieved 2021-04-30.
+^ "Chinese Mountain Cat (Felis bieti) Classification / Taxonomy". Wild Cat Family. Retrieved 2021-04-30.
+^ "Wildcat | mammal, Felis silvestris". Encyclopedia Britannica. Retrieved 2021-04-30.
+^ "Felis silvestris cafra (African wild cat)". www.biodiversityexplorer.info. Retrieved 2021-04-30.
+^ "African Wildcat". wildcatconservation.org. Retrieved 2021-04-30.
+^ "How did cats become domesticated?". Library of Congress. Retrieved 2021-05-01.
+^ a b Ottoni, Claudio; Van Neer, Wim; De Cupere, Bea; Daligault, Julien; Guimaraes, Silvia; Peters, Joris; Spassov, Nikolai; Prendergast, Mary E.; Boivin, Nicole; Morales-Muñiz, Arturo; Bălăşescu, Adrian; Becker, Cornelia; Benecke, Norbert; Boroneant, Adina; Buitenhuis, Hijlke; Chahoud, Jwana; Crowther, Alison; Llorente, Laura; Manaseryan, Nina; Monchot, Hervé; Onar, Vedat; Osypińska, Marta; Putelat, Olivier; Quintana Morales, Eréndira M.; Studer, Jacqueline; Wierer, Ursula; Decorte, Ronny; Grange, Thierry; Geigl, Eva-Maria (19 June 2017). "The palaeogenetics of cat dispersal in the ancient world" (PDF). Nature Ecology & Evolution. 1 (7). doi:10.1038/s41559-017-0139. S2CID 44041769.
+Casey Smith (June 19, 2017). "Cats Domesticated Themselves, Ancient DNA Shows". National Geographic.
+^ Geigl, Eva-Maria; Grange, Thierry (2018). "Of Cats and Men: Ancient DNA Reveals How the Cat Conquered the Ancient World". Paleogenomics: genome-scale analysis of ancient DNA (PDF). Population Genomics. pp. 307–324. doi:10.1007/13836_2018_26. ISBN 978-3-030-04752-8. S2CID 134576106.
+^ Montague, M. J.; Li, G.; Gandolfi, B.; Khan, R.; Aken, B. L.; Searle, S. M.; Minx, P.; Hillier, L. W.; Koboldt, D. C.; Davis, B. W.; Driscoll, C. A. (2014). "Comparative analysis of the domestic cat genome reveals genetic signatures underlying feline biology and domestication". Proceedings of the National Academy of Sciences. 111 (48): 17230–17235. Bibcode:2014PNAS..11117230M. doi:10.1073/pnas.1410083111. PMC 4260561. PMID 25385592.
+^ Wade, Nicholas, Study Traces Cat's Ancestry to Middle East, The New York Times, June 29, 2007, archived from the original on 9 May 2015, retrieved 4 October 2012
+^ a b Montague, Michael J.; Li, Gang; Gandolfi, Barbara; Khan, Razib; Aken, Bronwen L.; Searle, Steven M. J.; Minx, Patrick; Hillier, LaDeana W.; Koboldt, Daniel C. (2014-11-10). "Comparative analysis of the domestic cat genome reveals genetic signatures underlying feline biology and domestication". Proceedings of the National Academy of Sciences. 111 (48): 17230–17235. Bibcode:2014PNAS..11117230M. doi:10.1073/pnas.1410083111. ISSN 0027-8424. PMC 4260561. PMID 25385592.
+^ Ottoni, Claudio; Van Neer, Wim; De Cupere, Bea; Daligault, Julien; Guimaraes, Silvia; Peters, Joris; Spassov, Nikolai; Prendergast, Mary E.; Boivin, Nicole (2017-06-19). "The palaeogenetics of cat dispersal in the ancient world" (PDF). Nature Ecology & Evolution. 1 (7): 0139. doi:10.1038/s41559-017-0139. ISSN 2397-334X. S2CID 44041769.
+^ "Breeds – The Cat Fanciers' Association, Inc". cfa.org. Retrieved 2021-04-30.
+^ a b Kurushima, J. D.; Lipinski, M. J.; Gandolfi, B.; Froenicke, L.; Grahn, J. C.; Grahn, R. A.; Lyons, L. A. (2012-11-22). "Variation of cats under domestication: genetic assignment of domestic cats to breeds and worldwide random-bred populations". Animal Genetics. 44 (3): 311–324. doi:10.1111/age.12008. ISSN 0268-9146. PMC 3594446. PMID 23171373.
+^ Kurushima, Jennifer Dawn (2011). Genetic analysis of domestication patterns in the cat (Felis catus) : worldwide population structure, and human-mediated breeding patterns both modern and ancient. University of California, Davis. ISBN 9781124907475. OCLC 861518845.
+vteDomestic catsFelinology
+Anatomy
+Genetics
+Dwarf cat
+Kitten
+Odd-eyed cat
+Squitten
+Coat genetics
+Bicolor cat
+Black cat
+Calico cat
+Tabby cat
+Tortoiseshell cat
+Health
+Aging
+Declawing
+Diet
+dental health
+senior
+Vaccination
+Behavior
+Cat–dog relationship
+Catfight
+Catnip
+valerian
+Communication
+Meow
+Purr
+Kneading
+Intelligence
+Play and toys
+Righting reflex
+Senses
+Human–catinteraction
+Ailurophobia
+Cat cafés
+Cat killers
+Cat massage
+Cat meat
+Cat-scratch disease
+Cat show
+Cats in ancient Egypt
+Cultural depictions
+fictional
+Internet
+Feral cat
+Cats and Islam
+Lolcat
+National Cat Day
+Pet cat
+Puppy cat
+Working cat
+Bodega cat
+Farm cat
+Library cat
+Ship's cat
+Zoonosis
+Registries
+American Cat Fanciers Association
+Associazione Nazionale Felina Italiana
+Canadian Cat Association
+Cat Aficionado Association
+Cat Fanciers' Association
+Fédération Internationale Féline
+Governing Council of the Cat Fancy
+New Zealand Cat Fancy
+Southern Africa Cat Council
+The International Cat Association
+World Cat Congress
+World Cat Federation
+Breeds(full list)(experimental)Fullydomestic
+Abyssinian
+American Curl
+American Shorthair
+Balinese
+Brazilian Shorthair
+British Shorthair
+Birman
+Bombay
+Burmese
+Burmilla
+California Spangled
+Chartreux
+Chinese Li Hua
+Colorpoint Shorthair
+Cornish Rex
+Cymric
+Devon Rex
+Donskoy
+Egyptian Mau
+European Shorthair
+Exotic Shorthair
+German Rex
+Himalayan
+Japanese Bobtail
+Javanese
+Khao Manee
+Korat
+Kurilian Bobtail
+Lykoi
+Maine Coon
+Manx
+Munchkin
+Neva Masquerade
+Norwegian Forest
+Ocicat
+Ojos Azules
+Oriental Shorthair
+Persian
+Peterbald
+Pixie-bob
+Ragdoll
+Ragamuffin
+Russian Blue
+Scottish Fold
+Selkirk Rex
+Siamese
+Siberian
+Singapura
+Snowshoe
+Somali
+Sphynx
+Thai
+Traditional Persian
+Tonkinese
+Toyger
+Turkish Angora
+Turkish Van
+Hybrid
+Bengal
+Chausie
+Highlander
+Savannah
+Serengeti
+Landraces
+Aegean
+Cyprus
+Domestic long-haired
+Domestic short-haired
+Kellas
+Sokoke
+Van
+Diseases anddisorders
+Acne
+Asthma
+Calicivirus
+Congenital sensorineural deafness
+Feline corneal sequestrum
+Flea
+Coccidia
+Heartworm
+Hepatic lipidosis
+Hypertrophic cardiomyopathy
+Immunodeficiency virus
+Infectious peritonitis
+Leukemia virus
+Lower urinary tract disease
+Panleukopenia
+Giardiasis
+Polydactyly
+Rabies
+Ringworm
+Tritrichomonas foetus
+Roundworm
+Skin disorders
+Tick
+Toxoplasmosis
+Viral rhinotracheitis
+Cats by country
+Australia
+Canada
+Japan
+New Zealand
+United Kingdom
+United States
+Related
+List of individual cats
+List of oldest cats
+Cats in folklore
+Category
+vteDomestication of animalsVertebrates
+Alpaca
+Bactrian camel
+Bali cattle
+Cat
+Cattle
+Chicken
+Dog
+Donkey
+Dromedary
+Domestic duck
+Domestic Muscovy duck
+Gayal
+Goat
+Guinea pig
+Horse
+Llama
+Domestic pig
+Fancy mouse
+Poultry
+Domestic rabbit
+Reindeer
+Sheep
+Domesticated silver fox
+Water buffalo
+Yak
+Zebu
+Invertebrates
+Honey bee
+Silkworm
+History
+Domestication of the cat
+cats in ancient Egypt
+Domestication of the dog
+Domestication of the goat
+Domestication of the Syrian hamster
+Domestication of the horse
+theories
+Domesticated animals of Austronesia
+Domestication of the sheep
+Related topics
+List of domesticated animals
+Selective breeding
+Self-domestication
+The Variation of Animals and Plants Under Domestication
+Genomics of domestication

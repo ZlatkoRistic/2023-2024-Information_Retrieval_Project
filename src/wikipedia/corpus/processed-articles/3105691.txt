@@ -1,0 +1,70 @@
+Theobromine poisoning
+Overdose reaction to the xanthine alkaloid theobromine
+Oral toxicity (mg/kg)
+TDLo
+LD50
+Cat
+200
+Dog
+16
+300
+Human
+26
+~1,000
+Mouse
+837
+Rabbit
+1,000
+Rat
+1,265
+Structure of theobromine (IUPAC name: 3,7-dimethyl-1H-purine-2,6-dione)
+Theobromine poisoning, also informally called chocolate poisoning or cocoa poisoning, is an overdosage reaction to the xanthine alkaloid theobromine, found in chocolate, tea, cola beverages,[1] and some other foods.
+Sources[edit]
+Cocoa powder contains about 2.1% theobromine by weight,[2] so 14 g (0.5 oz) of raw cocoa contains approximately 0.3 g theobromine.
+Processed chocolate, in general, has smaller amounts. The amount found in highly refined chocolate candies or sweets (typically 1.4–2.1 g/kg or 40–60 mg/oz) is much lower than that of dark chocolate or unsweetened baking chocolate (>14 g/kg or >400 mg/oz).
+In species[edit]
+Humans[edit]
+Pharmacology[edit]
+Theobromine has a half-life of 10 hours, but over 16% may be unmodified 48 h after a single dose of 10 mg/kg (0.00016 oz/lb)[3]
+In general, the amount of theobromine found in chocolate is small enough that chocolate can be safely consumed by humans with a negligible risk of poisoning.[4]
+Toxicity[edit]
+Theobromine doses at 0.8–1.5 g per day, such as may be found in 50–100 g (1.8–3.5 oz) of cocoa powder may be accompanied by sweating, trembling and severe headaches. These are the mild-to-moderate symptoms.[citation needed]
+The severe symptoms are cardiac arrhythmias,[5] epileptic seizures, internal bleeding, heart attacks, and eventually death.[citation needed]
+Limited mood effects were shown at 250 mg per day.[citation needed]
+In other species[edit]
+Toxicity[edit]
+Median lethal (LD50) doses of theobromine have only been published for cats, dogs, rats, and mice; these differ by a factor of 6 across species.[6]
+Serious poisoning happens more frequently in domestic animals, which metabolize theobromine much more slowly than humans,[7] and can easily consume enough chocolate to cause poisoning. The most common victims of theobromine poisoning are dogs,[8][9] for whom it can be fatal. The toxic dose for cats is even lower than for dogs.[10]
+However, cats are less prone to eating chocolate since they are unable to taste sweetness.[11] Theobromine is less toxic to rats and mice, who all have an LD50 of about 1,000 mg/kg (0.016 oz/lb).
+In dogs, the biological half-life of theobromine is 17.5 hours; in severe cases, clinical symptoms of theobromine poisoning can persist for 72 hours.[12] Medical treatment performed by a veterinarian involves inducing vomiting within two hours of ingestion and administration of benzodiazepines or barbiturates for seizures, antiarrhythmics for heart arrhythmias, and fluid diuresis. Theobromine is also suspected to induce right atrial cardiomyopathy after long term exposure at levels equivalent to approximately 15 g/kg (0.24 oz/lb) of dark chocolate per day.[13] According to the Merck Veterinary Manual, baker's chocolate of approximately 1.3 g/kg (0.021 oz/lb) of a dog's body weight is sufficient to cause symptoms of toxicity.[14] For example, 0.4 oz (11 g) of baker's chocolate would be enough to produce mild symptoms in a 20 lb (9.1 kg) dog, while a 25% cacao chocolate bar (like milk chocolate) would be only 25% as toxic as the same dose of baker's chocolate.[15] One ounce of milk chocolate per pound of body weight (63 g/kg) is a potentially lethal dose in dogs.[14]
+Wildlife[edit]
+In 2014, four American black bears were found dead at a bait site in New Hampshire. A necropsy and toxicology report performed at the University of New Hampshire in 2015 confirmed they died of heart failure caused by theobromine after they consumed 41 kg (90 lb) of chocolate and doughnuts placed at the site as bait. A similar incident killed a black bear cub in Michigan in 2011.[16]
+Pest control[edit]
+See also: Pest control § Poisoned bait
+In previous research, the USDA investigated the possible use of theobromine as a toxicant to control coyotes preying on livestock.[17]
+See also[edit]
+Xanthine oxidase
+Footnotes[edit]
+^ Gennaro, M. C.; Abrigo, C. (1992). "Caffeine and theobromine in coffee, tea and cola-beverages or any other fizzy drinks". Fresenius' Journal of Analytical Chemistry. 343 (6): 523–525. doi:10.1007/BF00322162. ISSN 0937-0633. S2CID 102045933.
+^ "FoodData Central". fdc.nal.usda.gov.
+^ Martínez-Pinilla, E; Oñatibia-Astibia, A; Franco, R (2015). "The relevance of theobromine for the beneficial effects of cocoa consumption". Frontiers in Pharmacology. 6: 30. doi:10.3389/fphar.2015.00030. PMC 4335269. PMID 25750625.
+^ "3,7-Dimethylxanthine: Theobromine". Hazardous Substances Data Bank, Toxnet, US National Library of Medicine. 1 December 2017. Archived from the original on 4 December 2017. Retrieved 7 November 2018.
+^ Parasramka, S; Dufresne, A (September 2012). "Supraventricular tachycardia induced by chocolate: is chocolate too sweet for the heart?". The American Journal of Emergency Medicine. 30 (7): 1325.e5–7. doi:10.1016/j.ajem.2011.06.032. PMID 21871761.
+^ Chambers, Michael. "ChemIDplus - Theobromine (natural) - YAPQBXQYLJRXSA-UHFFFAOYSA-N - Theobromine [INN:BAN:NF] - Similar structures search, synonyms, formulas, resource links, and other chemical information". chem.nlm.nih.gov.
+^ Finlay, Fiona; Guiton, Simon (2005-09-17). "Chocolate poisoning". BMJ: British Medical Journal. 331 (7517): 633. doi:10.1136/bmj.331.7517.633. ISSN 0959-8138. PMC 1215566.
+^ "Dog owners get chocolate warning". BBC. December 30, 2008. Archived from the original on January 1, 2009. Retrieved July 28, 2009.
+^ "Greedy dog cheats chocolate death". BBC. April 3, 2009. Archived from the original on April 6, 2009. Retrieved July 28, 2009.
+^ "The Poisonous Chemistry of Chocolate". Wired. 14 February 2013. Archived from the original on 8 February 2017. Retrieved 12 March 2017.
+^ Biello, David (August 16, 2007). "Strange but True: Cats Cannot Taste Sweets". Scientific American. Archived from the original on January 14, 2014. Retrieved July 28, 2009.
+^ Gwaltney-Brant, Sharon (February 2001). "Chocolate Intoxication" (PDF). Veterinary Medicine Publishing Group. Archived from the original (PDF) on February 22, 2016. Retrieved April 5, 2016.
+^ H. Gans, Joseph (1980). "Effects of short-term and long-term theobromine administration to male dogs". Toxicology and Applied Pharmacology. 53 (3): 481–96. doi:10.1016/0041-008X(80)90360-9. PMID 6446176.
+^ a b "Merck Veterinary Manual". Archived from the original on 2014-07-12. Retrieved 2014-06-17.
+^ "PetMD". Archived from the original on 2014-07-03. Retrieved 2014-06-17.
+^ "4 bears die of chocolate overdoses; expert proposes ban". Msn.com. Archived from the original on 24 June 2019. Retrieved 23 December 2017.
+^ Johnston, John J. (2005). "Evaluation of Cocoa- and Coffee-Derived Methylxanthines as Toxicants for the Control of Pest Coyotes". Journal of Agricultural and Food Chemistry. 53 (10): 4069–75. doi:10.1021/jf050166p. PMID 15884841. Archived from the original on February 26, 2011. Retrieved July 28, 2009.
+References[edit]
+Merck Veterinary Manual (Toxicology/Food Hazards section), Merck & Co., Inc., Chocolate Poisoning.
+(June 16, 2005)
+External links[edit]
+A Pet Owner's Guide to Poisons: Chocolate at the Wayback Machine (archived August 5, 2009)
+Toxicity basic facts

@@ -1,0 +1,248 @@
+Adverse vaccine reactions in pets
+A number of studies have studied adverse reactions in pets after administering vaccines to both dogs[1][2] and cats.[3] Vaccination guidelines regarding the recommended frequency and methods/locations take into consideration minimizing the risks of such events. The 2010 pet vaccination guidelines[4] published by the WSAVA (World Small Animal Veterinary Association) recommend the specific vaccines that pets should receive, and the cost-benefit analysis associated with the low risk of adverse effects leads researchers into adverse effects to still recommend vaccination.[5]
+Adverse reaction studies[edit]
+There have been no specific associations between development of vaccine-associated sarcoma and vaccine brand or manufacturer, concurrent infections, history of trauma, or environment.[6]
+In 1993, a causal relationship between VAS and administration of aluminum adjuvanted rabies and FeLV vaccines was established through epidemiologic methods.[7]
+In addition to vaccine-specific factors, vets and owners should also consider pet-specific factors that have been shown to increase the risk of adverse reactions in both dogs[1] and cats.[3] In dogs, adverse effects are more likely to be reported for smaller breeds and increasing the number of injections (but, crucially, not the number of antigens) increases the rate of adverse reactions with an aggregate rate of occurrence of adverse effects of 0.19%.[2]
+Types of reactions[edit]
+Ischemic Dermatopathy / Cutaneous Vasculitis[edit]
+A little known and often misdiagnosed reaction to the rabies vaccine in dogs, this problem may develop near or over the vaccine administration site and around the vaccine material that was injected, or as a more widespread reaction.
+Symptoms include ulcers, scabs, darkening of the skin, lumps at the vaccine site, and scarring with loss of hair.
+In addition to the vaccination site, lesions most often develop on the ear flaps (pinnae), on the elbows and hocks, in the center of the footpads and on the face. Scarring may be permanent. Dogs do not usually seem ill, but may develop fever. Symptoms may show up within weeks of vaccination, or may take months to develop noticeably.[citation needed]
+Dogs with active lesion development and / or widespread disease may be treated with pentoxyfylline, a drug that is useful in small vessel vasculitis, or tacrolimus, an ointment that will help suppress the inflammation in the affected areas.[citation needed]
+Urticaria / Anaphylaxis[edit]
+Fortunately, severe systemic reaction to vaccine allergy is very rare in dogs. When it does occur, however, anaphylaxis is a life-threatening emergency.
+More often, dogs will develop urticaria, or hives within minutes of receiving a vaccine.
+When this occurs, a veterinarian will treat the reaction with antihistamines and corticosteroid drugs and this is usually effective.
+Sarcoma / Tumor[edit]
+A Vaccine-associated sarcoma (VAS) is a type of malignant tumor found in cats (and rarely, dogs and ferrets) that has been linked to certain vaccines. Concern about VAS has resulted in changes in recommended vaccine protocols to limit the type, frequency, and sites of vaccinations. Owners are advised to monitor injection sites for signs of tumors and contact their veterinarian immediately if one develops.
+Recommendations[edit]
+Concerns about these adverse reactions have led to revised guidelines in 2006,[8][9] 2010[4] and 2011[10] that address these concerns by altering the recommended frequency and methods/locations for both vaccination of dogs and feline vaccination. In the 2010 recommendations of the International Vaccination Guidelines Group (VGG) recommended administering non-adjuvanted vaccines to cats whenever possible.[4]
+Location[edit]
+Vaccines should be given in specific areas in order to: ease identification of which vaccine caused an adverse reaction, and ease removal of any vaccine-associated sarcoma.[11]
+In North America, vets adopted the practice of injecting specific limbs as far from the body as possible,[12] with the rear right for rabies, the rear left for leukemia, and the right front shoulder (being careful to avoid the midline or interscapular space) for other vaccines (such as FVRCP).
+This set of locations was not widely adopted outside of North America, and the International Vaccination Guidelines Group (VGG) made new recommendations[4]
+that vaccines be administered:
+in subcutaneous (and not intramuscular) sites
+in the skin of the lateral thorax or abdomen (for easier excision of any FISS that occur)
+avoid the interscapular or intercostal regions (as more extensive surgical resection would be needed for sarcomas)
+in a different site on each occasion (either with general locations per species per year or diagrams of where administered on specific visit)
+See also[edit]
+Vaccination of dogs
+Feline vaccination
+Vaccine controversies
+Vaccine Adverse Event Reporting System
+References[edit]
+^ a b Moore, George E.; Guptill, Lynn F.; Ward, Michael P.; Glickman, Nita W.; Faunt, Karen K.; Lewis, Hugh B.; Glickman, Lawrence T. (2005). "Adverse events diagnosed within three days of vaccine administration in dogs". Journal of the American Veterinary Medical Association. 227 (7): 1102–8. doi:10.2460/javma.2005.227.1102. PMID 16220670.
+^ a b Moore, George E.; Morrison, JoAnn; Saito, Emi K.; Spofford, Nathaniel; Yang, Mike (2023-11-01). "Breed, smaller weight, and multiple injections are associated with increased adverse event reports within three days following canine vaccine administration". Journal of the American Veterinary Medical Association. 261 (11): 1653–1659. doi:10.2460/javma.23.03.0181.
+^ a b Moore, George E.; Desantis-Kerr, Andrea C.; Guptill, Lynn F.; Glickman, Nita W.; Lewis, Hugh B.; Glickman, Lawrence T. (2007). "Adverse events after vaccine administration in cats: 2,560 cases (2002–2005)". Journal of the American Veterinary Medical Association. 231 (1): 94–100. doi:10.2460/javma.231.1.94. PMID 17605670.
+^ a b c d "WSAVA Guidelines for the Vaccination of Dogs and Cats" (PDF). Vaccination Guidelines Group (VGG) of the World Small Animal Veterinary Association (WSAVA). 2010. Archived from the original (PDF) on 2012-05-26. Retrieved July 8, 2012.
+^ Moore, George E.; HogenEsch, Harm (May 2010). "Adverse vaccinal events in dogs and cats". The Veterinary Clinics of North America. Small Animal Practice. 40 (3): 393–407. doi:10.1016/j.cvsm.2010.02.002. ISSN 1878-1306. PMID 20471524.
+^ Kass, Philip H.; Spangler, William L.; Hendrick, Mattie J.; McGill, Lawrence D.; Esplin, D. Glen; Lester, Sally; Slater, Margaret; Meyer, E. Kathryn; et al. (2003). "Multicenter case-control study of risk factors associated with development of vaccine-associated sarcomas in cats". Journal of the American Veterinary Medical Association. 223 (9): 1283–92. doi:10.2460/javma.2003.223.1283. PMID 14621215.
+^ Richards J, Elston T, Ford R, Gaskell R, Hartmann K, Hurley K, Lappin M, Levy J, Rodan I, Scherk M, Schultz R, Sparkes A (2006). "The 2006 American Association of Feline Practitioners Feline Vaccine Advisory Panel report". J Am Vet Med Assoc. 229 (9): 1405–41. doi:10.2460/javma.229.9.1405. PMID 17078805.
+^ "The 2006 American Association of Feline Practitioners Feline Vaccine Advisory Panel Report" (PDF). American Association of Feline Practitioners. Retrieved 2012-06-24.[permanent dead link]
+^ "Summary Table: Vaccination in General Practice" (PDF). The 2006 American Association of Feline Practitioners Feline Vaccine Advisory Panel Report. Retrieved 2012-06-24.[permanent dead link]
+^ "2011 AAHA Canine Vaccination Guidelines" (PDF). American Animal Hospital Association (AAHA) Canine Vaccination Task Force. 2011. Archived from the original (PDF) on 2012-05-15. Retrieved July 8, 2012.
+^ Eigner, Diane R. "Feline Vaccine Guidelines". The Winn Feline Foundation. Archived from the original on 2006-08-20. Retrieved 2006-08-27.
+^ "VAFSTF Vaccine Site Recommendations". Vaccine-Associated Feline Sarcoma Task Force of the American Association of Feline Practitioners (AAFP), American Animal Hospital Association (AAHA), American Veterinary Medical Association (AVMA), and Veterinary Cancer Society (VCS). Archived from the original on 2012-05-16. Retrieved 2012-06-23.
+Further reading[edit]
+Moore, George E.; Hogenesch, Harm (2010). "Adverse Vaccinal Events in Dogs and Cats". Veterinary Clinics of North America: Small Animal Practice. 40 (3): 393–407. doi:10.1016/j.cvsm.2010.02.002. PMID 20471524.
+Horzinek, Marian C.; Thiry, Etienne (2009). "Vaccines and vaccination: The principles and the polemics". Journal of Feline Medicine & Surgery. 11 (7): 530–7. doi:10.1016/j.jfms.2009.05.012. PMID 19481032. S2CID 30540653.
+Dodet, Betty; Hesselink, Wim; Jungbäck, Carmen; Léchenet, Jacques; Pastoret, Paul-Pierre; Vannier, Philippe; Vicari, Marissa (2010). "Viral safety and extraneous agents testing for veterinary vaccines". Biologicals. 38 (3): 326–31. doi:10.1016/j.biologicals.2010.01.013. hdl:2268/241543. PMID 20503495.
+Adams, G (2009). "Recommendation on the placement of vaccinations in cats". Journal of the American Veterinary Medical Association. 234 (8): 1005. doi:10.2460/javma.234.8.1005. PMID 19455740.
+Jacob, C (2011). "Different perspectives on vaccination advice". Veterinary Record. 168 (15): 395–6. doi:10.1136/vr.d2311. PMID 21498448. S2CID 42476935.
+Day, M. J. (2011). "Vaccination of dogs and cats: No longer so controversial?". Veterinary Record. 168 (18): 480–2. doi:10.1136/vr.d2810. PMID 21551198. S2CID 39276509.
+External links[edit]
+Horzinek, MC (2010). "Vaccination protocols for companion animals: the veterinarian's perspective". Journal of Comparative Pathology. 142 Suppl 1: S129–32. doi:10.1016/j.jcpa.2009.11.001. PMID 19954796.
+Vaccination Guidelines Group (VGG) of the World Small Animal Veterinary Association (WSAVA) (2010). "Vaccination guidelines for the owners and breeders of dogs and cats" (PDF). Archived from the original (PDF) on 2012-05-26. Retrieved 2012-06-24.
+Vaccination Guidelines Group (VGG) of the World Small Animal Veterinary Association (WSAVA) (2010). "WSAVA guidelines for the vaccination of dogs and cats" (PDF). Archived from the original (PDF) on 2012-05-26. Retrieved 2012-06-24.
+"Critique of the WSAVA VGG Vaccination Guidelines for Owners & Breeders of Dogs and Cats" (PDF). 2012-02-06. Archived from the original (PDF) on 2016-03-05. Retrieved August 26, 2012.
+"Canine Vaccination Guidelines" (PDF). American Animal Hospital Association (AAHA) Canine Vaccination Task Force. 2011. Archived from the original (PDF) on 2012-05-15. Retrieved 2012-06-24.
+"Feline Life Stage Guidelines" (PDF). American Association of Feline Practicitioners & American Animal Hospital Association. 2010. Archived from the original (PDF) on 2010-07-18. Retrieved 2012-08-26.
+"Feline Vaccine Advisory Panel Report" (PDF). American Association of Feline Practitioners. 2006. Retrieved 2012-06-24.[permanent dead link]
+American Association of Feline Practitioners (2006). "Summary Table: Vaccination in General Practice" (PDF). Feline Vaccine Advisory Panel Report. Retrieved 2012-06-24.[permanent dead link]
+"Canine and Feline Vaccination Guidelines". UC Davis Veterinary Medical Teaching Hospital. November 2009. Retrieved 2012-08-26.
+"vaccine Controversy". Top Dog Kennel. Retrieved 2012-06-24.
+vteArtificial induction of immunity / Immunization: Vaccines, Vaccination, Infection, Inoculation (J07)Development
+Adjuvants
+Vaccine ingredients
+list
+Mathematical modelling
+Storage
+Timeline
+Trials
+Classes
+Conjugate
+Inactivated
+Live
+Attenuated
+Heterologous
+Subunit/component / Peptide / Virus-like particle / Synthetic
+DNA / mRNA
+Therapeutic
+Toxoid
+Administration
+Global:
+GAVI Alliance
+NITAG
+SAGE
+Vaccine wastage
+Policy
+Schedule
+Vaccine injury
+US:
+ACIP
+Vaccine court
+Vaccines for Children Program
+VAERS
+VSD
+VaccinesBacterial
+Anthrax
+Brucellosis
+Cholera#
+Diphtheria#
+Hib#
+Leptospirosis
+Lyme disease‡
+Meningococcus#
+MeNZB
+NmVac4-A/C/Y/W-135
+Pertussis#
+Plague
+Pneumococcal#
+PCV
+PPSV
+Q fever
+Tetanus#
+Tuberculosis
+BCG#
+Typhoid#
+Ty21a
+ViCPS
+Typhus
+combination:
+DPT/DTwP/DTaP
+Td/Tdap
+research:
+Clostridioides difficile
+Group B streptococcal disease
+Shigellosis
+Viral
+Adenovirus
+Chikungunya
+Ebola
+rVSV-ZEBOV
+Flu#
+H1N1 (Pandemrix)
+H5N1
+LAIV
+Hantavirus
+Hepatitis A#
+Hepatitis B#
+Hepatitis E
+HPV#
+Cervarix
+Gardasil
+Japanese encephalitis#
+Measles#
+Mumps#
+Polio#
+Sabin
+Salk
+Rabies#
+Rotavirus#
+Rubella#
+SARS-CoV-2
+Corbevax†
+Bharat Biotech†
+CanSino†
+CoronaVac†
+EpiVacCorona†
+Janssen
+Moderna
+Novavax
+Oxford–AstraZeneca
+Pfizer–BioNTech
+Sanofi–GSK†
+Sinopharm BIBP†
+Skycovione†
+Sputnik V†
+Valneva†
+Respiratory syncytial virus (RSV)
+Smallpox
+Tick-borne encephalitis#
+Varicella zoster
+Chicken pox#
+Shingles
+Yellow fever#
+combination:
+Hepatitis A and B
+MMR
+MMRV
+research:
+Cytomegalovirus
+Dengue#
+Epstein–Barr virus
+Hepatitis C
+Herpes simplex
+HIV
+Zika
+Protozoan
+Malaria
+RTS,S
+research:
+Trypanosomiasis
+Helminthiasis
+research:
+Hookworm
+Schistosomiasis
+Other
+Androvax (androstenedione albumin)
+Cancer vaccines
+ALVAC-CEA
+BCG#
+Hepatitis B#
+HPV#
+Cervarix
+Gardasil
+Prostvac
+NicVAX
+Ovandrotone albumin (Fecundin)
+TA-CD
+TA-NIC
+combination:
+DTaP-IPV/Hib
+DTaP-IPV-HepB
+DTwP-HepB-Hib
+Hexavalent vaccine
+Inventors/researchers
+Edward Jenner
+Louis Pasteur
+Hilary Koprowski
+Jonas Salk
+John Franklin Enders
+Maurice Hilleman
+Stanley Plotkin
+H. Fred Clark
+Paul Offit
+Katalin Karikó
+Drew Weissman
+Controversy
+General
+MMR (Lancet MMR autism fraud)
+NCVIA
+Pox party
+Thiomersal
+Vaccines and SIDS
+Cedillo v. Secretary of Health and Human Services
+Alternative vaccination schedule
+Related
+Epidemiology
+Eradication of infectious diseases
+Vaccinate Your Family
+List of vaccine topics
+#WHO-EM
+‡Withdrawn from market
+Clinical trials:
+†Phase III
+§Never to phase III

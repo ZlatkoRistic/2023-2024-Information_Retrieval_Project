@@ -1,0 +1,270 @@
+Pratifelis
+Extinct genus of carnivores
+PratifelisTemporal range: Late Miocene
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+↓
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+Felinae
+Genus:
+†PratifelisHibbard, 1934
+Type species
+†Pratifelis martiniHibbard, 1934
+Synonyms
+Pseudaelurus martini sensu Macdonald, 1954
+Pratifelis is an extinct genus of feline that lived in North America during the middle Miocene period. It contains a single species, Pratifelis martini.
+History and naming[edit]
+In the summer of 1911, the first and only specimen was collected by H. T. Martin in Wallace County, Kansas. It was transported to the University of Kansas Museum of Vertebrate Paleontology, where it was named and described by paleontologist Claude W. Hibbard as a new genus and species of felid in 1934. The generic name Pratifelis comes from the Latin words pratum meaning field or plain, and felis, meaning cat. The specific name martini was given in honor of H. T. Martin.[1]
+In a 1954 paper J. R. Macdonald reassigned the species to the genus Pseudaelurus,[2] but later papers maintained its status as a distinct and valid genus.[3][4]
+Description[edit]
+The single specimen upon which both the genus and species were based, UKMNH 3156, is a partial lower left ramus with only the third and fourth premolars and the first molar present. It has been noted for having fairly heavy dentition considering how light its jaw was.[5]
+P. martini was a short-faced cat, likely bigger than the modern cougar.[5]
+Classification[edit]
+In his description of the genus and species, Hibbard classified Pratifelis as a primitive member of Felidae, the cat family.[1] L. D. Martin, in 1998, considered it part of the small cat subfamily Felinae.[6]
+A 2003 paper by Tom Rothwell, who had seen casts of the specimen, mentioned in passing that it had some similarity to specimens of Nimravides, and that an examination of the original specimen might result in a reassignment to that genus.[7] And a 2018 phylogenetic analysis recovered Pratifelis martini within Nimravides:[8]
+Felidae
+Felinae
+Pantherinae
+Pristifelis
+Miopanthera
+Styriofelis
+Asilifelis coteae
+Machairodontinae
+Diamantofelis
+Namafelis
+Pseudaelurus
+Hyperailurictis validus
+Hyperailurictis skinneri
+Hyperailurictis intrepidus
+Hyperailurictis stouti
+Hyperailurictis marshi
+Nimravides pedionomus
+Pratifelis martini
+Nimravides galiani
+Nimravides hibbardi
+Nimravides thinobates
+Proailurus
+References[edit]
+^ a b Hibbard, C. W. (1934). "Two New Genera of Felidæ from the Middle Pliocene of Kansas" (PDF). Transactions of the Kansas Academy of Science (1903–). Kansas Academy of Science. 37: 239–255. doi:10.2307/3625308. JSTOR 3625308.{{cite journal}}:
+CS1 maint: date and year (link)
+^ Macdonald, J.R. (1954). "A new Pseudaelurus from the lower Snake Creek fauna of Nebraska" (PDF). Journal of Paleontology. SEPM Society for Sedimentary Geology. 28 (1): 67–69. JSTOR 1300209.
+^ Bennet, D. K. (1979). "The fossil fauna from Lost and Found Quarries (Hemphillian: latest Miocene), Wallace County, Kansas". Occasional Papers of the Museum of Natural History, University of Kansas. 79: 1–24.
+^ McKenna, M.C.; Bell, S. (1997). "Classification of mammals above the species level". New York: Columbia University Press.
+^ a b Lane, H.H. (1947). "Survey of the Fossil Vertebrates of Kansas: Part V: The Mammals (Continued)" (PDF). Transactions of the Kansas Academy of Science (1903–). Kansas Academy of Science (published December 1947). 50 (3/4): 273–314. doi:10.2307/3625600. JSTOR 3625600.
+^ Martin, L. D. (1998). "Felidae". In C. M. Janis; K. M. Scott; L. L. Jacobs (eds.). Evolution of Tertiary Mammals of North America. Vol. 1. pp. 236–242.
+^ Rothwell, T. (2003). "Phylogenetic Systematics of North American Pseudaelurus (Carnivora: Felidae)" (PDF). American Museum Novitates (3403): 10. doi:10.1206/0003-0082(2003)403<0001:PSONAP>2.0.CO;2. ISSN 0003-0082. S2CID 67753626.
+^ Piras, Paolo; Silvestro, Daniele; Carotenuto, Francesco; Castiglione, Silvia; Kotsakis, Anastassios; Maiorino, Leonardo; Melchionna, Marina; Mondanaro, Alessandro; Sansalone, Gabriele; Serio, Carmela; Vero, Veronica Anna; Raia, Pasquale (2018). "Evolution of the sabertooth mandible: A deadly ecomorphological specialization". Palaeogeography, Palaeoclimatology, Palaeoecology. 496: 166–174. doi:10.1016/j.palaeo.2018.01.034.
+vteGenera of civets, mongooses, hyenas, cats, and their extinct allies
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Carnivora
+Feliformia†Palaeogalidae
+†Palaeogale?
+†Nimravidae
+See Nimravidae
+Aeluroidea
+†Alagtsavbaatar
+†Anictis
+†Asiavorator
+†Shandgolictis
+Nandiniidae
+Nandinia
+ViverroideaViverridae
+†Africanictis
+†Dunictis
+†Forsythictis
+†Lufengictis
+†Ketketictis
+†Mioprionodon
+†Moghradictis
+†Progenetta
+Genettinae
+Genetta
+Poiana
+Hemigalinae
+Chrotogale
+Cynogale
+Diplogale
+Hemigalus
+Macrogalidia
+Paradoxurinae
+Arctictis
+Arctogalidia
+†Kanuites
+†Kichechia
+Paguma
+Paradoxurus
+†Siamictis
+†Tugenictis
+Viverrinae
+Civettictis
+†Semigenetta
+Viverra
+Viverricula
+HerpestoideaHerpestidae
+See below↓
+Hyaenidae
+See below↓
+Feloidea
+See below↓
+HerpestidaeEupleridaeEuplerinae
+Cryptoprocta
+Eupleres
+Fossa
+Galidiinae
+Galidia
+Galidictis
+Mungotictis
+Salanoia
+Herpestidae
+†Kichechia
+†Legetetia
+†Leptoplesictis
+†Ugandictis
+Herpestinae
+Atilax
+Bdeogale
+Cynictis
+Herpestes
+Ichneumia
+Paracynictis
+Urva
+Xenogale
+Mungotinae
+Crossarchus
+Dologale
+Helogale
+Liberiictis
+Mungos
+Suricata
+Hyaenidae†Percrocutidae?
+Dinocrocuta
+Percrocuta
+†Lophocyonidae
+Euboictis
+Izmirictis
+Lophocyon
+Sivanasua
+Hyaenidae
+†Allohyaena
+†Belbus
+†Metahyaena
+†Pliocrocuta
+†Tongxinictis
+†Werdelinus
+†Ictitheriinae
+Herpestides
+Hyaenotherium
+Ictitherium
+Lycyaena
+Miohyaenotherium
+Plioviverrops
+Protictitherium
+Thalassictis
+Tungurictis
+Protelinae
+†Gansuyaena
+Proteles
+Hyaeninae
+†Adcrocuta
+†Chasmaporthetes
+Crocuta
+Hyaena
+†Hyaenictis
+†Ikelohyaena
+†Leecyaena
+†Lycyaenops
+†Pachycrocuta
+†Palinhyaena
+Parahyaena
+FeloideaFeloidea
+†Pseudictis
+†Stenogale
+†Stenoplesictis
+†Viretictis
+†Barbourofelidae
+(See Barbourofelidae)
+Prionodontidae
+†Haplogale
+†Palaeoprionodon
+Prionodon
+Felidae
+†Asilifelis
+†Diamantofelis
+†Hyperailurictis
+†Katifelis
+†Namafelis
+†Miopanthera
+†Pseudaelurus
+†Sivaelurus
+†Styriofelis
+†Proailurinae
+Proailurus
+Vinayakia
+Felinae
+Acinonyx
+Catopuma
+Caracal
+Felis
+Herpailurus
+Leopardus
+Leptailurus
+†Leptofelis
+Lynx
+†Miracinonyx
+Otocolobus
+Pardofelis
+†Pratifelis
+Prionailurus
+†Pristifelis
+Puma
+†Sivapanthera
+†Sivapardus
+†Vishnufelis
+†Machairodontinae
+See Machairodontinae
+Pantherinae
+Neofelis
+Panthera
+†Leontoceryx
+Taxon identifiersPratifelis
+Wikidata: Q3909942
+Wikispecies: Pratifelis
+Fossilworks: 41068
+GBIF: 4833948
+IRMNG: 1103626
+Paleobiology Database: 41068
+Pratifelis martini
+Wikidata: Q110969473
+Wikispecies: Pratifelis martini
+Fossilworks: 50657
+GBIF: 4969802
+Paleobiology Database: 50657
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte

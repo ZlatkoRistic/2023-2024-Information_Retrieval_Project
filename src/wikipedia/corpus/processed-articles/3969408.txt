@@ -1,0 +1,77 @@
+Neko (software)
+You can help expand this article with text translated from the corresponding article in Japanese.
+Click [show] for important translation instructions.
+Machine translation, like DeepL or Google Translate, is a useful starting point for translations, but translators must revise errors as necessary and confirm that the translation is accurate, rather than simply copy-pasting machine-translated text into the English Wikipedia.
+Consider adding a topic to this template: there are already 3,704 articles in the main category, and specifying|topic= will aid in categorization.
+Do not translate text that appears unreliable or low-quality. If possible, verify the text with references provided in the foreign-language article.
+You must provide copyright attribution in the edit summary accompanying your translation by providing an interlanguage link to the source of your translation. A model attribution edit summary is Content in this edit is translated from the existing Japanese Wikipedia article at [[:ja:Neko (ソフトウェア)]]; see its history for attribution.
+You should also add the template {{Translated|ja|Neko (ソフトウェア)}} to the talk page.
+For more guidance, see Wikipedia:Translation.
+Neko falling asleep and waking up again.
+Neko is a cross-platform open-source[citation needed] animated cursor-chasing cat screenmate application.
+Neko (猫, ねこ) is the Japanese
+word for cat.
+About Neko[edit]
+I love Neko!
+Neko was originally written for the NEC PC-9801. It was later ported as a desk accessory to the Macintosh in 1989 by Kenji Gotoh. He also designed the sleeping graphics for Neko. An X version was later made by Masayuki Koba.
+In the application, a sprite follows the mouse pointer around. In the System 7 version, the pointer could be modified to various cat toys such as a mouse, fish, or bird.
+When Neko caught up with the pointer, it would stare at the screen for a few seconds, scratch an itch on its body, yawn, and fall asleep until the pointer was disturbed. In windowed mode, Neko would stop at window boundaries and scratch at the edge of the window.
+Other appearances[edit]
+The Neko cat has been used as a sprite in many other programs.
+In 1995, a shareware game for the Macintosh called Kitten Shaver had used sprites that looked similar to Neko. The object of the game was cruel but humorous, as the player would have to shave the cats, with various layers of fur, as they ran across the screen within a limited time. The game was a parody of a game called Bunny Killer. Kitten Shaver was such a success, that a sequel called Kitten Shaver 2: Kitty's Revenge was released in 1997.
+Neko has been ported to many other systems:
+There is also a Neko screensaver for NEXTSTEP.
+Neko was available on Acorn Computers' RISC OS.
+Windows 3.x variants Michael Bankstahl (1991), Dara T. Khani (1992)[1]
+A port was made, Ameko in 1997 for the Amiga Computer and attributed to Neko by its author, Carl Revell.[2]
+It has been ported to Mac OS X. The screensaver Neko.saver waited 5 years to move from version .91a to version .92, a universal binary. There's also a free-standing application for OS X 10.4 and up.[3]
+A shareware port titled Cat! or TopCAT! was made for Microsoft Windows 3.1 by Robert Dannbauer in 1991.
+A Windows 95 port was made by David Harvey from the X source.
+Ports have been made for the x64 version of Windows, along with the Dec Alpha & MIPS versions of Windows NT.
+A BeOS version was written from scratch by Greg Weston (later author of the Mac OS X app), as a demonstration of Be's "replicants" technology. An enhanced version of this program by John Yanarella is available.[4]
+IBM OS/2 version 2.0 shipped with Neko as an entertainment program.
+A port of Neko is used as a demo program for the XCB library.
+Oneko is a port based on Xneko, for Linux and BSD systems.
+A port named NekoCat was made by Laurent Duveau for Palm OS.
+A Neko character is available for the Linux toy AMOR (Amusing Misuse Of Resources).
+A port named WebNeko is available for the iPhone.
+There is an Xneko live wallpaper for Android called Xnekodroid.[5]
+Another Android port is called ANeko, and runs on top of any applications, not just as a live wallpaper.[6] Several skins are also available as separate applications by a different developer.[7]
+An Opera widget is available.[8]
+A Windows Mobile 6.5 port was made by Jayson Ragasa.[9]
+There are some ports of Neko by fans to the Arduino micro controller boards.[10]
+A Java Swing port is available.[11]
+A Spicetify extension named spicetify-neko is available for Spotify[12]
+A Neko desktop accessory for the Apple II Desktop v1.3 is available[13]
+Neko appears as an animated, directional paintbrush in Tux Paint.
+In the 2000s (decade), after Todd Goldman admitted to committing plagiarism by copying a webcomic panel into a painting and labeling the painting as his work, other bloggers accused Goldman of copying Neko and using it as "Goodbye Kitty." Goldman denies these allegations.[14][15][16]
+See also[edit]
+XBill
+Xsnow
+Xwap
+References[edit]
+^ Bankstahl, Michael (1991). "wNeko". Archive.
+^ "util/wb/Ameko.lha". Aminet. Retrieved 2013-10-06.
+^ "Neko". Splook.com. Retrieved 2013-10-06.
+^ "Neko the Replicat". BeBits. Archived from the original on 2013-01-18. Retrieved 2013-10-06.
+^ "Xnekodroid (Neko for Android) - Android-apps op Google Play". Market.android.com. Archived from the original on 2012-12-18. Retrieved 2013-10-06.
+^ "ANeko - Apps on Google Play".
+^ "ANeko skin black2 - Apps on Google Play".
+^ "Extensions - Opera add-ons". Widgets.opera.com. Archived from the original on 2013-01-30. Retrieved 2013-10-06.
+^ "Neko for Windows Mobile 6.5 (ONLY!!)". Archived from the original on 2014-05-02. Retrieved 2014-05-01.
+^ "Arduino Neko Touchscreen Program" Archived 2016-08-11 at the Wayback Machine, ee.walfas.org
+^ "Screenmate "Neko" in Java | Werner Randelshofer's Blog". Randelshofer.ch. 2010-07-16. Retrieved 2013-10-06.
+^ Anh, Nam (2023-09-14), Spicetify Oneko, retrieved 2023-09-18
+^ "A2Desktop 1.3 Release Notes". 2023-07-01.
+^ Peterson, Kristen (April 12, 2007). "Fur flies over squirrel". The Las Vegas Sun. Retrieved 2007-05-08.
+^ "Todd Goldman issues apology." Archived "The Beat." Publishers Weekly. April 12, 2007.
+^ Rosenbaum, S.I. (May 8, 2007). "Artist's work looked familiar". The St. Petersburg Times. Retrieved 2007-05-16.
+External links[edit]
+https://www.clubic.com/telechargement-en-cours/55398-0-neko.html - Neko Windows Version running under Windows 10
+WebNeko.net - Neko in JavaScript.
+Original Mac version (WayBack Machine link due to GeoCities closing)
+Masayuki Koba's X11 version
+iPhone version
+Neko games - Online games employing Neko
+Neko x64 - Links to Windows x64, Dec Alpha & MIPS version of Neko
+http://users.frii.com/suzannem/neko/ - A Neko kitty collection (and download)

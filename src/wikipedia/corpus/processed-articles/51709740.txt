@@ -1,0 +1,229 @@
+Senior cat diet
+A senior tabby cat
+A senior cat diet is generally considered to be a diet for cats that are mature (7–10 years old), senior (11–15 years old), or geriatric (over 15 years old).[1] Nutritional considerations arise when choosing an appropriate diet for a healthy senior cat.[2] Dietary management of many conditions becomes more important in senior cats because changes in their physiology and metabolism may alter how their system responds to medications and treatments.[3][4]
+Energy and macronutrient requirements[edit]
+Diets should be managed for each individual cat to ensure that they maintain an ideal body and muscle condition.[5][6] Unlike many other species, the energy requirements for cats do not decrease with age, but may even increase, therefore seniors require the same or more energy than adults.[7][8]
+Scientific studies have indicated that after 12 years of age, and again after 13 years of age, energy requirements for cats increase significantly.[9]
+Obesity is common in adult cats, but much less so in senior cats.[4] Of all feline life stages it has been demonstrated that senior cats are the most often underweight.[9]
+Research has shown that fat and protein digestibility decrease with age in cats, causing seniors to have a higher dietary requirement for these macronutrients.[8] The fat and protein sources need to be highly digestible to maximize energy capture from the food.[4] This may help to explain the body condition differences between adult and senior cats given the consistency of food intake.
+There is little research on the reasons for decreased fat and protein digestibility, however some speculations have been made based on age-related changes observed in other species.[10] Decreased secretion of digestive enzymes may be related to decreased digestive function in humans and rats, however more research into this is required to explain this in cats.[10] Vitamin B12 is important in methionine synthesis, DNA synthesis, and is a vital part of an enzyme important for metabolic pathways.[11] Lower nutrient digestibility may be due to gastrointestinal disease, including pancreatic and intestinal disease, which are often found with low levels of vitamin B12.[11] One study has shown that fat digestibility in senior cats could be reduced by as much as 9% when associated with B12 deficiency and pancreatic disease.[11]
+Due to this lower digestibility seen in seniors, it is important to look at metabolizable energy values, which provide a more accurate assessment of nutrient availability than a gross energy calculation.[12] The metabolizable energy of food is determined by the Atwater system and calculates the amount of energy available to the animal after digestion and absorption.[12] A gross energy calculation may overestimate digested energy, as it provides the total available energy in the food rather than what is actually being utilized by the cat.[12]
+Age-related disorders and dietary considerations[edit]
+Senior cats are often prone to arthritis,[13][14] periodontal disease,[4] and a decline in cognitive and sensory function.[15]
+What an owner may perceive as a normal age-related change could actually be subtle signs of arthritis, such as increased inactivity and reluctance to perform normal activities, such as stair climbing and descent.[13][14] Arthritis has been found in approximately 80-90% of senior cats showing little or no lameness; in many cases this is not a result of damage to the joints but natural degeneration specific to cats.[13][14] Cats that suffer from arthritis have been shown in some studies to display significant signs of improvement when chondroprotectants,[16] substances which help maintain the integrity of connective tissue, are added to the diet. Evidence for antioxidants (vitamin C and E, and beta-carotene),[17] omega-3 fatty acids such as eicosapentaenoic acid (f) and docosahexaenoic acid (DHA) for inflammation,[18] L‑carnitine[19] and lysine[20] has been shown to be beneficial in other species.
+Cognitive decline similar to that seen in humans and dogs has been observed in senior cats, with ongoing research into the causes and treatment.[15] Changes in the structure of the brain, including those similar to the causes of Alzheimer's disease in humans, are considered to be a significant factor in cognitive issues in cats.[21][22][23] Studies in other species have shown that supplementing dietary omega-3 and -6 fatty acids,[24] particularly EPA, DHA, and arachidonic acid, along with antioxidants such as beta-carotene and vitamin B12,[25] may aid in the prevention of decline of cognitive function, and slow the progression of symptoms.
+Senior cats tend to become particularly picky with their food as a reduced ability to taste and smell is associated with age, therefore, palatability is an important factor to consider.[26] Cats have shown a preference in studies for diets with a higher protein content regardless of the flavouring of the food.[27][28] Additionally, cats are unable to effectively regulate their water intake, and seniors are particularly prone to dehydration.[29] Wet diets should be considered to increase water intake and enhance palatability,[4] as well as to alleviate discomfort associated with periodontal disease, a common concern with senior cats.[4] Dry dental kibble could be considered to help prevent plaque buildup on teeth,[4] however as this has only been shown to be effective as the sole diet,[30] brushing of the teeth or dental chews would be a better alternative in combination with a canned food in order to optimize water intake, palatability and dental health.
+Holistic guidance[edit]
+As they do not digest as much energy per meal as an adult cat, it is important to feed senior cats smaller, more frequent meals of a highly digestible diet throughout the day.[29] It is also important to monitor the cat's health closely, with regular visits to the veterinarian, as they are very good at hiding symptoms of disease.[31] By carefully selecting a diet that considers a senior cat's changing needs, such as digestion, mobility, cognition, dental health and body condition, it may be possible to manage, or even prevent the progression of many of these age associated conditions.
+References[edit]
+^ Pittari, J.; Rodan, I. "Friends for life: Caring for your older cat" (PDF). American Association of Feline Practitioners. Retrieved December 21, 2016.
+^ Stewart, C. "Projected 2016 trends in the pet industry". Market Research. Retrieved November 4, 2016.
+^ Laflamme, D. P. (2013). "Discrepancy between use of lean body mass or nitrogen balance to determine protein requirements for adult cats". Journal of Feline Medicine and Surgery. 15 (8): 691–697. doi:10.1177/1098612X12474448. PMID 23362342. S2CID 28940808.
+^ a b c d e f g Little, S. (2012). The cat: Clinical medicine and management. St. Louis, MO: Saunders. pp. 1166–1174. ISBN 978-1-4377-0660-4 – via Elsevier Science Direct.
+^ Global Nutrition Committee (2013). "Body condition score" (PDF). World Small Animal Veterinary Association. Retrieved November 3, 2016.
+^ Global Nutrition Committee (2013). "Muscle condition score" (PDF). World Small Animal Veterinary Association. Retrieved December 14, 2016.
+^ Peachey, S. E.; Harper, E. J. (2002). "Aging does not influence feeding behaviour in cats". The Journal of Nutrition. 132 (6): 1735S–1739S. doi:10.1093/jn/132.6.1735s. PMID 12042511.
+^ a b Laflamme, D. P. (2005). "Nutrition for aging cats and dogs and the importance of body condition". Veterinary Clinics of North America: Small Animal Practice. 35 (3): 713–742. doi:10.1016/j.cvsm.2004.12.011. PMID 15833567.
+^ a b Laflamme, Dorothy (2005). "Nutrition for Aging Cats and Dogs and the importance of Body Condition". Vet Clin Small Anim. 35 (3): 713–742. doi:10.1016/j.cvsm.2004.12.011. PMID 15833567.
+^ a b Teshima, E.; Brunetto, M. A.; et al. (2010). "Nutrient digestibility, but not mineral absorption, is age-dependent in cats". Journal of Animal Physiology and Animal Nutrition. 94 (6): e251–e258. doi:10.1111/j.1439-0396.2009.00964.x. PMID 20455969.
+^ a b c Salas, A.; Manuelian, C.-L.; et al. (2014). "Fat digestibility reduced in old cats with subnormal cobalamin". Journal of Nutritional Science. 3: e62. doi:10.1017/jns.2014.59. PMC 4473153. PMID 26101630.
+^ a b c Sanders, T.; Emery, P. (2003). Molecular Basis of Human Nutrition. Taylor & Francis Group. pp. 13–16. ISBN 978-0748407538.
+^ a b c Slingerland, L. I.; Hazewinkel, H. A. W.; et al. (2011). "Cross-sectional study of the prevalence and clinical features of osteoarthritis in 100 cats". The Veterinary Journal. 187 (3): 304–309. doi:10.1016/j.tvjl.2009.12.014. PMID 20083417.
+^ a b c Kerwin, S. C. (2010). "Osteoarthritis in cats". Topics in Companion Animal Medicine. 25 (4): 218–223. doi:10.1053/j.tcam.2010.09.004. PMID 21147475.
+^ a b Landsberg, G.; Denenberg, S.; et al. (2010). "Cognitive dysfunction in cats: A syndrome we used to dismiss as 'old age'". Journal of Feline Medicine and Surgery. 12 (11): 837–848. doi:10.1016/j.jfms.2010.09.004. PMID 20974401. S2CID 27693875.
+^ Lascelles, B. D. X.; DePuy, V.; et al. (2010). "Evaluation of a therapeutic diet for feline degenerative joint disease". Journal of Veterinary Internal Medicine. 24 (3): 487–495. doi:10.1111/j.1939-1676.2010.0495.x. PMID 20337921.
+^ Tiku, M. L.; Gupta, S.; et al. (1999-01-01). "Aggrecan degradation in chondrocytes is mediated by reactive oxygen species and protected by antioxidants". Free Radical Research. 30 (5): 395–405. doi:10.1080/10715769900300431. ISSN 1071-5762. PMID 10342332.
+^ Alexander, J. W. (1998). "Immunonutrition: the role of ω-3 fatty acids". Nutrition. 14 (7–8): 627–633. doi:10.1016/s0899-9007(98)00004-5. PMID 9684267.
+^ Stoppoloni, D.; Politi, L.; et al. (2012-03-27). "l-Carnitine enhances extracellular matrix synthesis in human primary chondrocytes". Rheumatology International. 33 (9): 2399–2403. doi:10.1007/s00296-012-2373-9. ISSN 0172-8172. PMID 22451022. S2CID 20006917.
+^ Pelletier, J.-P.; Jovanovic, D. V.; et al. (2000-06-01). "Selective inhibition of inducible nitric oxide synthase reduces progression of experimental osteoarthritis in vivo: Possible link with the reduction in chondrocyte apoptosis and caspase 3 level". Arthritis & Rheumatism. 43 (6): 1290–1299. doi:10.1002/1529-0131(200006)43:6<1290::aid-anr11>3.0.co;2-r. ISSN 1529-0131. PMID 10857787.
+^ Zhang, C.; Hua, T.; et al. (2006). "Age-related changes of structures in cerebellar cortex of cat". Journal of Biosciences. 31 (1): 55–60. doi:10.1007/BF02705235. PMID 16595875. S2CID 22801916.
+^ Levine, M. S.; Lloyd, R. L.; et al. (1987-01-20). "Neurophysiological alterations in caudate neurons in aged cats". Brain Research. 401 (2): 213–230. doi:10.1016/0006-8993(87)91407-7. PMID 3028574. S2CID 31677262.
+^ Gunn-Moore, D.; McVee, J.; et al. (2006). "Ageing changes in cat brains demonstrated by β-amyloid and AT8-immunoreactive phosphorylated tau deposits". Journal of Feline Medicine and Surgery. 8 (4): 234–242. doi:10.1016/j.jfms.2006.01.003. PMID 16603401. S2CID 19867578.
+^ Youdim, K. A.; Martin, A.; Joseph, J. A. (2000-07-01). "Essential fatty acids and the brain: possible health implications". International Journal of Developmental Neuroscience. 18 (4–5): 383–399. CiteSeerX 10.1.1.455.99. doi:10.1016/S0736-5748(00)00013-7. PMID 10817922. S2CID 206084021.
+^ Hagen, T. M.; Liu, J.; et al. (2002). "Feeding Acetyl-L-Carnitine and Lipoic Acid to Old Rats Significantly Improves Metabolic Function while Decreasing Oxidative Stress". Proceedings of the National Academy of Sciences of the United States of America. 99 (4): 1870–1875. Bibcode:2002PNAS...99.1870H. doi:10.1073/pnas.261708898. JSTOR 3057885. PMC 122286. PMID 11854487.
+^ Zaghini, G.; Biagi, G. (2005). "Nutritional Peculiarities and Diet Palatability in the Cat". Veterinary Research Communications. 29 (2): 39–44. doi:10.1007/s11259-005-0009-1. ISSN 0165-7380. PMID 16244923. S2CID 23633719.
+^ Hewson-Hughes, A. K.; Hewson-Hughes, V. L.; et al. (2011-03-15). "Geometric analysis of macronutrient selection in the adult domestic cat, Felis catus". Journal of Experimental Biology. 214 (6): 1039–1051. doi:10.1242/jeb.049429. ISSN 0022-0949. PMID 21346132.
+^ Hewson-Hughes, A. K.; Colyer, A.; et al. (2016-06-01). "Balancing macronutrient intake in a mammalian carnivore: disentangling the influences of flavour and nutrition". Royal Society Open Science. 3 (6): 160081. Bibcode:2016RSOS....360081H. doi:10.1098/rsos.160081. ISSN 2054-5703. PMC 4929903. PMID 27429768.
+^ a b Pittari, J.; Rodan, I.; et al. (2009-09-01). "American Association of Feline Practitioners: Senior Care Guidelines". Journal of Feline Medicine and Surgery. 11 (9): 763–778. doi:10.1016/j.jfms.2009.07.011. PMID 19712895.
+^ Vrieling, H. E.; Theyse, L. F.; et al. (2005-03-01). "[Effectiveness of feeding large kibbles with mechanical cleaning properties in cats with gingivitis]". Tijdschrift voor Diergeneeskunde. 130 (5): 136–140. ISSN 0040-7453. PMID 15773760.
+^ Grant, D. (2001-11-01). "Recognising Pain in Small Animals". Veterinary Nursing Journal. 16 (6): 209–212. doi:10.1080/17415349.2001.11013184. ISSN 1741-5349. S2CID 72601752.
+vteDomestic catsFelinology
+Anatomy
+Genetics
+Dwarf cat
+Kitten
+Odd-eyed cat
+Squitten
+Coat genetics
+Bicolor cat
+Black cat
+Calico cat
+Tabby cat
+Tortoiseshell cat
+Health
+Aging
+Declawing
+Diet
+dental health
+senior
+Vaccination
+Behavior
+Cat–dog relationship
+Catfight
+Catnip
+valerian
+Communication
+Meow
+Purr
+Kneading
+Intelligence
+Play and toys
+Righting reflex
+Senses
+Human–catinteraction
+Ailurophobia
+Cat cafés
+Cat killers
+Cat massage
+Cat meat
+Cat-scratch disease
+Cat show
+Cats in ancient Egypt
+Cultural depictions
+fictional
+Internet
+Feral cat
+Cats and Islam
+Lolcat
+National Cat Day
+Pet cat
+Puppy cat
+Working cat
+Bodega cat
+Farm cat
+Library cat
+Ship's cat
+Zoonosis
+Registries
+American Cat Fanciers Association
+Associazione Nazionale Felina Italiana
+Canadian Cat Association
+Cat Aficionado Association
+Cat Fanciers' Association
+Fédération Internationale Féline
+Governing Council of the Cat Fancy
+New Zealand Cat Fancy
+Southern Africa Cat Council
+The International Cat Association
+World Cat Congress
+World Cat Federation
+Breeds(full list)(experimental)Fullydomestic
+Abyssinian
+American Curl
+American Shorthair
+Balinese
+Brazilian Shorthair
+British Shorthair
+Birman
+Bombay
+Burmese
+Burmilla
+California Spangled
+Chartreux
+Chinese Li Hua
+Colorpoint Shorthair
+Cornish Rex
+Cymric
+Devon Rex
+Donskoy
+Egyptian Mau
+European Shorthair
+Exotic Shorthair
+German Rex
+Himalayan
+Japanese Bobtail
+Javanese
+Khao Manee
+Korat
+Kurilian Bobtail
+Lykoi
+Maine Coon
+Manx
+Munchkin
+Neva Masquerade
+Norwegian Forest
+Ocicat
+Ojos Azules
+Oriental Shorthair
+Persian
+Peterbald
+Pixie-bob
+Ragdoll
+Ragamuffin
+Russian Blue
+Scottish Fold
+Selkirk Rex
+Siamese
+Siberian
+Singapura
+Snowshoe
+Somali
+Sphynx
+Thai
+Traditional Persian
+Tonkinese
+Toyger
+Turkish Angora
+Turkish Van
+Hybrid
+Bengal
+Chausie
+Highlander
+Savannah
+Serengeti
+Landraces
+Aegean
+Cyprus
+Domestic long-haired
+Domestic short-haired
+Kellas
+Sokoke
+Van
+Diseases anddisorders
+Acne
+Asthma
+Calicivirus
+Congenital sensorineural deafness
+Feline corneal sequestrum
+Flea
+Coccidia
+Heartworm
+Hepatic lipidosis
+Hypertrophic cardiomyopathy
+Immunodeficiency virus
+Infectious peritonitis
+Leukemia virus
+Lower urinary tract disease
+Panleukopenia
+Giardiasis
+Polydactyly
+Rabies
+Ringworm
+Tritrichomonas foetus
+Roundworm
+Skin disorders
+Tick
+Toxoplasmosis
+Viral rhinotracheitis
+Cats by country
+Australia
+Canada
+Japan
+New Zealand
+United Kingdom
+United States
+Related
+List of individual cats
+List of oldest cats
+Cats in folklore
+Category

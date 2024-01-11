@@ -1,0 +1,238 @@
+Styriofelis
+Extinct genus of carnivores
+StyriofelisTemporal range: Miocene, 20–9.5 Ma
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Grade:
+†Pseudaelurus
+Genus:
+†StyriofelisKretzoi, 1929a
+Type species
+†Styriofelis turnauensisHoernes, 1882
+Other Species
+?†Styriofelis romieviensis (Roman & Viret, 1934)
+Synonyms
+Miopanthera Kretzoi, 1938
+Schizailurus Viret, 1951
+S. turnauensis
+S. transitorius Deperet, 1892
+Styriofelis is an extinct genus of Felidae known from the Miocene of Europe.
+Taxonomy[edit]
+In 1882, a species of Pseudaelurus from Europe was described as Pseudaelurus turnauensis. Another species, Pseudaelurus lorteti, was described in 1899. The species Pseudaelurus transitorius was described in 1892, but most authors considered it a synonym of P. turnauensis.
+In 1929, Kretzoi proposed the genus Styriofelis for P. turnauensis,[1] but this proposal was largely ignored. Kretzoi also proposed the genus Miopanthera for P. lorteti,[2] but Beaumont, during his proposal of splitting Pseudaelurus, ignored Kretzoi and placed the two species in his own genus Schizailurus. Subsequently, Schizailurus has been considered a junior synonym of both Styriofelis and Miopanthera.[3]
+In 2010, a review of the family Felidae suggested that Pseudaelurus be split into three separate genera, including Styriofelis for P. turnauensis and P. lorteti. The status of Pseudaelurus romieviensis, the fourth European species, was left uncertain due to the fragmentary state of the specimens assigned to it.[4]
+In 2012, a new species of Pseudaelurus-grade felid found in Spain was described as Styriofelis vallesiensis.[5] In 2017, however, a review of the species concluded that it was sufficiently different as to require a separate genus, and was reassigned to the new genus Leptofelis as Leptofelis vallesiensis.[6]
+Also in 2017, a review of the species Felis pamiri concluded that F. pamiri and S. lorteti were closely related, and were also distinct enough to both be reassigned to the genus Miopanthera.[7]
+References[edit]
+^ Kretzoi, Miklós (1929). "Felida-Tanulmányok" [Felid Studies] (PDF). A Magyar Királyi Földtani Intézet Hazinyomdaja (in Hungarian). 24: 15.
+^ Kretzoi, Miklós (1938). "Die Raubtiere von Gombaszög nebst einer Übersicht der Gesamtfauna" [The predators of Gombaszög together with an overview of the overall fauna] (PDF). Annales historico-naturales Musei nationalis hungarici (in German). Budapest: Hungarian Natural History Museum. 31: 88–157. ISSN 0521-4726.
+^ Robles, J.M.; Madurell-Malapeira, J.; Abella, J.; Rotgers, C.; Carmona, R.; Almécija, S.; Balaguer, J.; Alba, D.M. (2013). "New Pseudaelurus and Styriofelis remains (Carnivora: Felidae) from the middle Miocene of Abocador de Can Mata (Vallès-Penedès Basin)". Comptes Rendus Palevol. 12 (2): 101–113. doi:10.1016/j.crpv.2013.02.001.
+^ Werdelin, Lars; O'Brien, Stephen J.; Johnson, Warren E.; Yamaguchi, Nobuyuki (2010). "Phylogeny and evolution of cats (Felidae)". In Macdonald, D.W.; Loveridge, A.J. (eds.). Biology and Conservation of Wild Felids. Oxford: Oxford University Press.
+^ Salesa, Manuel J.; Antón, Mauricio; Morales, Jorge; Peigné, Stéphane (2012). "Systematics and phylogeny of the small felines (Carnivora, Felidae) from the Late Miocene of Europe: a new species of Felinae from the Vallesian of Batallones (MN 10, Madrid, Spain)". Journal of Systematic Palaeontology. 10 (1): 87–102. doi:10.1080/14772019.2011.566584. ISSN 1477-2019. S2CID 84912711.
+^ Salesa, Manuel J.; Siliceo, Gema; Antón, Mauricio; Peigné, Stéphane; Morales, Jorge (2017). "Functional and Systematic Implications of the Postcranial Anatomy of a Late Miocene Feline (Carnivora, Felidae) from Batallones-1 (Madrid, Spain)". Journal of Mammalian Evolution. 26: 1–31. doi:10.1007/s10914-017-9414-9. hdl:10261/225344. S2CID 19719645.
+^ Geraads, Denis; Peigné, Stéphane (2017). "Re-appraisal of 'Felis' pamiri Ozansoy 1959 (Carnivora, Felidae) from the upper Miocene of Turkey: the earliest pantherin cat?". Journal of Mammalian Evolution. 24 (4): 415–425. doi:10.1007/s10914-016-9349-6. S2CID 207195894.
+vteGenera of civets, mongooses, hyenas, cats, and their extinct allies
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Carnivora
+Feliformia†Palaeogalidae
+†Palaeogale?
+†Nimravidae
+See Nimravidae
+Aeluroidea
+†Alagtsavbaatar
+†Anictis
+†Asiavorator
+†Shandgolictis
+Nandiniidae
+Nandinia
+ViverroideaViverridae
+†Africanictis
+†Dunictis
+†Forsythictis
+†Lufengictis
+†Ketketictis
+†Mioprionodon
+†Moghradictis
+†Progenetta
+Genettinae
+Genetta
+Poiana
+Hemigalinae
+Chrotogale
+Cynogale
+Diplogale
+Hemigalus
+Macrogalidia
+Paradoxurinae
+Arctictis
+Arctogalidia
+†Kanuites
+†Kichechia
+Paguma
+Paradoxurus
+†Siamictis
+†Tugenictis
+Viverrinae
+Civettictis
+†Semigenetta
+Viverra
+Viverricula
+HerpestoideaHerpestidae
+See below↓
+Hyaenidae
+See below↓
+Feloidea
+See below↓
+HerpestidaeEupleridaeEuplerinae
+Cryptoprocta
+Eupleres
+Fossa
+Galidiinae
+Galidia
+Galidictis
+Mungotictis
+Salanoia
+Herpestidae
+†Kichechia
+†Legetetia
+†Leptoplesictis
+†Ugandictis
+Herpestinae
+Atilax
+Bdeogale
+Cynictis
+Herpestes
+Ichneumia
+Paracynictis
+Urva
+Xenogale
+Mungotinae
+Crossarchus
+Dologale
+Helogale
+Liberiictis
+Mungos
+Suricata
+Hyaenidae†Percrocutidae?
+Dinocrocuta
+Percrocuta
+†Lophocyonidae
+Euboictis
+Izmirictis
+Lophocyon
+Sivanasua
+Hyaenidae
+†Allohyaena
+†Belbus
+†Metahyaena
+†Pliocrocuta
+†Tongxinictis
+†Werdelinus
+†Ictitheriinae
+Herpestides
+Hyaenotherium
+Ictitherium
+Lycyaena
+Miohyaenotherium
+Plioviverrops
+Protictitherium
+Thalassictis
+Tungurictis
+Protelinae
+†Gansuyaena
+Proteles
+Hyaeninae
+†Adcrocuta
+†Chasmaporthetes
+Crocuta
+Hyaena
+†Hyaenictis
+†Ikelohyaena
+†Leecyaena
+†Lycyaenops
+†Pachycrocuta
+†Palinhyaena
+Parahyaena
+FeloideaFeloidea
+†Pseudictis
+†Stenogale
+†Stenoplesictis
+†Viretictis
+†Barbourofelidae
+(See Barbourofelidae)
+Prionodontidae
+†Haplogale
+†Palaeoprionodon
+Prionodon
+Felidae
+†Asilifelis
+†Diamantofelis
+†Hyperailurictis
+†Katifelis
+†Namafelis
+†Miopanthera
+†Pseudaelurus
+†Sivaelurus
+†Styriofelis
+†Proailurinae
+Proailurus
+Vinayakia
+Felinae
+Acinonyx
+Catopuma
+Caracal
+Felis
+Herpailurus
+Leopardus
+Leptailurus
+†Leptofelis
+Lynx
+†Miracinonyx
+Otocolobus
+Pardofelis
+†Pratifelis
+Prionailurus
+†Pristifelis
+Puma
+†Sivapanthera
+†Sivapardus
+†Vishnufelis
+†Machairodontinae
+See Machairodontinae
+Pantherinae
+Neofelis
+Panthera
+†Leontoceryx
+Taxon identifiers
+Wikidata: Q3976409
+Wikispecies: Styriofelis
+Fossilworks: 379128
+GBIF: 11340086
+This felid-related article is a stub. You can help Wikipedia by expanding it.vteThis article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte

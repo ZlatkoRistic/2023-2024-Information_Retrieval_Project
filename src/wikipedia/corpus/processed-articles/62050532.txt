@@ -1,0 +1,99 @@
+Stenailurus
+Extinct genus of carnivores
+StenailurusTemporal range: Late Miocene (Turolian)
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+†Machairodontinae
+Tribe:
+†Metailurini
+Genus:
+†StenailurusCrusafont-Pairo & Aguirre, 1972
+Type species
+Stenailurus teilhardiCrusafont-Pairo & Aguirre, 1972
+Stenailurus is an extinct genus of metailurin machairodontine (saber-toothed) cat from the Late Miocene (the Turolian, specifically) of Spain. It contains a single species, Stenailurus teilhardi . It was described based on a piece of maxilla in 1972.[1]
+Discovery and naming[edit]
+The generic name Stenailurus honors Bl. Niels Steensen, considered the father of paleontology, combined with the Greek αἴλουρος/ailurus meaning "cat". The specific name teilhardi honors paleontologist Pierre Teilhard de Chardin.[1]
+Classification[edit]
+Position of Stenailurus in Metailurini according to a 2018 phylogenetic analysis:[2]
+Metailurini
+Fortunictis acerensis
+Adelphailurus kansensis
+Stenailurus teilhardi
+Metailurus mongoliensis
+Metailurus hengduanshanensis
+Metailurus obscurus
+Metailurus major
+Yoshi minor
+Yoshi garevskii
+Dinofelis
+References[edit]
+^ a b Crusafont-Pairo, M.; Aguirre, E. (1972). "Stenailurus, Félidé nouveau du Turolien d'Éspagne" [Stenailurus, A New Felid of the Turolian of Spain]. Annales de Paléontologie (in French). 58 (2): 211–223. OCLC 314072653.
+^ Piras, Paolo; Silvestro, Daniele; Carotenuto, Francesco; Castiglione, Silvia; Kotsakis, Anastassios; Maiorino, Leonardo; Melchionna, Marina; Mondanaro, Alessandro; Sansalone, Gabriele; Serio, Carmela; Vero, Veronica Anna; Raia, Pasquale (2018). "Evolution of the sabertooth mandible: A deadly ecomorphological specialization". Palaeogeography, Palaeoclimatology, Palaeoecology. 496: 166–174. Bibcode:2018PPP...496..166P. doi:10.1016/j.palaeo.2018.01.034.
+vteMachairodontinae
+Kingdom: Animalia
+Phylum: Chordata
+Clade: Synapsida
+Class: Mammalia
+Order: Carnivora
+Family: Felidae
+Homotherini
+Amphimachairodus
+Lokotunjailurus
+Homotherium
+Longchuansmilus
+Machairodus
+Nimravides
+Taowu
+Xenosmilus
+Metailurini
+Adelphailurus
+Dinofelis
+Fortunictis
+Stenailurus
+Metailurus
+Yoshi
+Smilodontini
+Megantereon
+Paramachaerodus
+Promegantereon
+Rhizosmilodon
+Smilodon
+Incertae sedis:
+Hemimachairodus
+Miomachairodus
+Tchadailurus
+Taxon identifiers
+Wikidata: Q21220510
+Wikispecies: Stenailurus
+Fossilworks: 129894
+GBIF: 4833920
+IRMNG: 1075861
+Paleobiology Database: 129894
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte

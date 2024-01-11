@@ -1,0 +1,36 @@
+Fel d 1
+Secretoglobin protein
+Allergen Fel d 1, chain 1 (P30438)IdentifiersSymbolAllergen_Fel_d_I_chain1InterProIPR006178
+Allergen Fel d 1, chain 2 (P30440)Crystallographic structure of the Fel d 1 dimer, the primary allergen present in cat saliva [1]IdentifiersSymbolFeld-I_BPfamPF09252Pfam clanCL0370InterProIPR015332SCOP21puo / SCOPe / SUPFAMAvailable protein structures:Pfam
+structures / ECOD
+PDBRCSB PDB; PDBe; PDBjPDBsumstructure summary
+Fel d 1 is a secretoglobin protein complex that, in cats, is encoded by the CH1 (chain 1/Fel d 1-A) and CH2 (chain 2/Fel d 1-B) genes.[2][3]
+Among cats, Fel d 1 is produced largely in their saliva and by the sebaceous glands located in their skin. It is the primary allergen present on cats and kittens.[1] [4] The function of the protein for cats is unknown, but it causes an IgG or IgE reaction in sensitive humans (either as an allergic or asthmatic response).
+Variation in cats[edit]
+Kittens produce less Fel d 1 than adult cats. Female cats produce a lower level of Fel d 1 than (unneutered) males,[5] while neutered males produce levels similar to those of females. Both intact and spayed females produce similar levels. Although females and neutered males produce Fel d 1 in lower levels, they still produce enough to cause allergic symptoms in sensitive individuals.
+Researchers have been investigating reports from cat owners that certain breeds of cats either do not produce Fel d 1 or are thought to do so at significantly lower levels than other breeds. For instance, individual cats from the naturally occurring Siberian breed, native to the Siberian region for which the breed is named, have been shown to have genetic variants that result in a lower production of Fel d 1.[6] Another breed thought to have a possible genetic disposition not to produce this allergen or to produce less of it is the Balinese, an offshoot of the Siamese breed.[7] Several other breeds are widely referenced as causing a diminished immune reaction in cat allergy sufferers, including Sphynx, Russian Blue, Cornish Rex, Devon Rex, Siamese, Javanese, Oriental shorthair, Burmese, and Laperm.
+Fairly reliable tests for their Fel d 1 protein production is available for individual cats, but research regarding entire breeds continues, hampered by the lack of a thoroughly accessible and accurate genetic test for production of the antigen.
+Structure[edit]
+The complete quaternary structure of Fel d 1 has been determined.[1] The allergen is a tetrameric glycoprotein consisting of two disulfide-linked heterodimers of chains 1 and 2. Fel d 1 chains 1 and 2 share structural similarity with uteroglobin, a secretoglobin superfamily member; chain 2 is a glycoprotein with N-linked oligosaccharides. Both chains share an all alpha-helical structure.[1]
+Presence in other species[edit]
+Proteins matching the InterPro family signature for Fel d 1 parts is widespread among Theria, a subclass of mammals[8] amongst the Theriiformes (the sister taxon to Yinotheria.) Theria includes the eutherians that includes the placental mammals and the metatherians that includes the marsupials. More specifically, the InterPro profiles link the two components of Fel d 1 to the rodent androgen-binding protein (ABP; not to be confused with the human SHBG), a salivary pheromone.[9][10]
+A homolog of Fel d 1 protein is also present in the venom of the slow loris (Primate: Nycticebus). Slow lorises are one of only a few venomous mammals and the only known venomous primate. They possess a dual-composite venom of saliva and brachial gland exudate (BGE).[11] The BGE possesses a protein resembling Fel d 1, which may affect host species as an allergen as a constituent of the venom. It possess a communicative function.
+See also[edit]
+Allergy to cats
+Fel d 4
+Slow loris
+References[edit]
+^ a b c d PDB: 1PUO​; Kaiser L, Grönlund H, Sandalova T, Ljunggren HG, van Hage-Hamsten M, Achour A, Schneider G (September 2003). "The crystal structure of the major cat allergen Fel d 1, a member of the secretoglobin family". The Journal of Biological Chemistry. 278 (39): 37730–5. doi:10.1074/jbc.M304740200. PMID 12851385.
+^ Morgenstern JP, Griffith IJ, Brauer AW, Rogers BL, Bond JF, Chapman MD, Kuo MC (November 1991). "Amino acid sequence of Fel dI, the major allergen of the domestic cat: protein sequence analysis and cDNA cloning". Proceedings of the National Academy of Sciences of the United States of America. 88 (21): 9690–4. Bibcode:1991PNAS...88.9690M. doi:10.1073/pnas.88.21.9690. PMC 52784. PMID 1946388.
+^ Griffith IJ, Craig S, Pollock J, Yu XB, Morgenstern JP, Rogers BL (April 1992). "Expression and genomic structure of the genes encoding FdI, the major allergen from the domestic cat". Gene. 113 (2): 263–8. doi:10.1016/0378-1119(92)90405-E. PMID 1572548.
+^ Dabrowski AJ, Van der Brempt X, Soler M, Seguret N, Lucciani P, Charpin D, Vervloet D (October 1990). "Cat skin as an important source of Fel d I allergen". The Journal of Allergy and Clinical Immunology. 86 (4 Pt 1): 462–5. doi:10.1016/S0091-6749(05)80200-3. PMID 2229808.
+^ Jalil-Colome J, de Andrade AD, Birnbaum J, Casanova D, Mège JL, Lanteaume A, Charpin D, Vervloet D (July 1996). "Sex difference in Fel d 1 allergen production". The Journal of Allergy and Clinical Immunology. 98 (1): 165–8. doi:10.1016/s0091-6749(96)70238-5. PMID 8765830.
+^ Sartore S, Landoni E, Maione S, Tarducci A, Borrelli A, Soglia D, et al. (December 2017). "Polymorphism Analysis of Ch1 and Ch2 Genes in the Siberian Cat". Veterinary Sciences. 4 (4): 63. doi:10.3390/vetsci4040063. PMC 5753643. PMID 29194349.
+^ "Allergy to Cats - Cat DNA Test Kit | Basepaws". Allergy to Cats - Cat DNA Test Kit | Basepaws. Retrieved 2018-08-07.
+^ Myers, P.; R. Espinosa; C. S. Parr; T. Jones; G. S. Hammond & T. A. Dewey. "Subclass Theria". Animal Diversity Web.
+^ InterPro taxonomy view, IPR006178 and IPR015332
+^ Durairaj R, Pageat P, Bienboire-Frosini C (2018). "Another cat and mouse game: Deciphering the evolution of the SCGB superfamily and exploring the molecular similarity of major cat allergen Fel d 1 and mouse ABP using computational approaches". PLOS ONE. 13 (5): e0197618. Bibcode:2018PLoSO..1397618D. doi:10.1371/journal.pone.0197618. PMC 5957422. PMID 29771985.
+^ Nekaris KA, Moore RS, Rode EJ, Fry BG (September 2013). "Mad, bad and dangerous to know: the biochemistry, ecology and evolution of slow loris venom". The Journal of Venomous Animals and Toxins Including Tropical Diseases. 19 (1): 21. doi:10.1186/1678-9199-19-21. PMC 3852360. PMID 24074353.
+Further reading[edit]
+Bonnet B, Messaoudi K, Jacomet F, Michaud E, Fauquert JL, Caillaud D, Evrard B (2018). "An update on molecular cat allergens: Fel d 1 and what else? Chapter 1: Fel d 1, the major cat allergen". Allergy, Asthma, and Clinical Immunology. 14: 14. doi:10.1186/s13223-018-0239-8. PMC 5891966. PMID 29643919.
+This article incorporates text from the public domain Pfam and InterPro: IPR015332

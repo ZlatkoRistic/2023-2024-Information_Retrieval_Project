@@ -1,0 +1,491 @@
+Toxoplasma gondii
+Type of protozoan parasite
+Toxoplasma gondii
+Giemsa stained T. gondii tachyzoites, 1000× magnification
+Scientific classification
+Domain:
+Eukaryota
+Clade:
+Diaphoretickes
+Clade:
+SAR
+Clade:
+Alveolata
+Phylum:
+Apicomplexa
+Class:
+Conoidasida
+Order:
+Eucoccidiorida
+Family:
+Sarcocystidae
+Subfamily:
+Toxoplasmatinae
+Genus:
+ToxoplasmaNicolle & Manceaux, 1909[2]
+Species:
+T. gondii
+Binomial name
+Toxoplasma gondii(Nicolle & Manceaux, 1908)[1]
+Dividing T. gondii parasites
+Toxoplasma gondii (/ˈtɒksəˌplæzmə ˈɡɒndi.aɪ, -iː/) is a parasitic protozoan (specifically an apicomplexan) that causes toxoplasmosis.[3] Found worldwide, T. gondii is capable of infecting virtually all warm-blooded animals,[4]: 1  but felids are the only known definitive hosts in which the parasite may undergo sexual reproduction.[5][6]
+In rodents, T. gondii alters behavior in ways that increase the rodents' chances of being preyed upon by felids.[7][8][9]
+Support for this "manipulation hypothesis" stems from studies showing that T. gondii-infected rats have a decreased aversion to cat urine while infection in mice lowers general anxiety, increases explorative behaviors and increases a loss of aversion to predators in general.[7][10] Because cats are one of the only hosts within which T. gondii can sexually reproduce, such behavioral manipulations are thought to be evolutionary adaptations that increase the parasite's reproductive success since rodents that do not avoid cat habitations will more likely become cat prey.[7] The primary mechanisms of T. gondii–induced behavioral changes in rodents occur through epigenetic remodeling in neurons that govern the relevant behaviors (e.g. hypomethylation of arginine vasopressin-related genes in the medial amygdala, which greatly decrease predator aversion).[11][12]
+In humans, particularly infants and those with weakened immunity, T. gondii infection is generally asymptomatic but may lead to a serious case of toxoplasmosis.[13][4] T. gondii can initially cause mild, flu-like symptoms in the first few weeks following exposure, but otherwise, healthy human adults are asymptomatic.[14][13][4] This asymptomatic state of infection is referred to as a latent infection, and it has been associated with numerous subtle behavioral, psychiatric, and personality alterations in humans.[14][15][16] Behavioral changes observed between infected and non-infected humans include a decreased aversion to cat urine (but with divergent trajectories by gender) and an increased risk of several psychiatric disorders – particularly schizophrenia and bipolar disorder.[17] Preliminary evidence has suggested that T. gondii infection may induce some of the same alterations in the human brain as those observed in rodents.[18][19][9][20][21][22] Many of these associations have been strongly debated and newer studies have found them to be weak, concluding:[23]
+On the whole, there was little evidence that T. gondii was related to increased risk of psychiatric disorder, poor impulse control, personality aberrations, or neurocognitive impairment.
+T. gondii is one of the most common parasites in developed countries;[24][25] serological studies estimate that up to 50% of the global population has been exposed to, and may be chronically infected with, T. gondii; although infection rates differ significantly from country to country.[14][26] Estimates have shown the highest IgG seroprevalence to be in Ethiopia, at 64.2%, as of 2018.[27]
+Structure[edit]
+Diagram of T. gondii structure
+T. gondii contains organelles called rhoptries and micronemes, as well as other organelles.
+Life cycle[edit]
+Life cycle of Toxoplasma gondii
+More detailed diagram.
+The feces of infected cats infects rodents hunted by cats, which rodents are more likely to be eaten by cats; it also infects animals bred for meat, which is a vector depending on how the meat is treated
+The life cycle of T. gondii may be broadly summarized into two components: a sexual component that occurs only within cats (felids, wild or domestic), and an asexual component that can occur within virtually all warm-blooded animals, including humans, cats, and birds.[28]: 2  Because T. gondii can sexually reproduce only within cats, cats are therefore the definitive host of T. gondii. All other hosts – in which only asexual reproduction can occur – are intermediate hosts.
+Sexual reproduction in the feline definitive host[edit]
+When a feline is infected with T. gondii (e.g. by consuming an infected mouse carrying the parasite's tissue cysts), the parasite survives passage through the stomach, eventually infecting epithelial cells of the cat's small intestine.[28]: 39  Inside these intestinal cells, the parasites undergo sexual development and reproduction, producing millions of thick-walled, zygote-containing cysts known as oocysts. Felines are the only definitive host because they lack expression of the enzyme delta-6-desaturase (D6D) in their intestine. This enzyme converts linoleic acid; the absence of expression allows systemic linoleic acid accumulation. Recent findings showed that this excess of linoleic acid is essential for T. gondii sexual reproduction.[6]
+T. gondii oocysts in a fecal flotation
+Feline shedding of oocysts[edit]
+Infected epithelial cells eventually rupture and release oocysts into the intestinal lumen, whereupon they are shed in the cat's feces.[4]: 22
+Oocysts can then spread to soil, water, food, or anything potentially contaminated with the feces. Highly resilient, oocysts can survive and remain infective for many months in cold and dry climates.[29]
+Ingestion of oocysts by humans or other warm-blooded animals is one of the common routes of infection.[30]
+Humans can be exposed to oocysts by, for example, consuming unwashed vegetables or contaminated water, or by handling the feces (litter) of an infected cat.[28]: 2 [31]
+Although cats can also be infected by ingesting oocysts, they are much less sensitive to oocyst infection than are intermediate hosts.[32][4]: 107
+Initial infection of the intermediate host[edit]
+Intermediate hosts found include pigs, chickens, goats, sheep[28]: 2  and Macropus rufus by Moré et al. 2010.[33]: 162  Cattle and horses are resistant and thought to be incapable of significant infection.[28]: 11  T. gondii is considered to have three stages of infection; the tachyzoite stage of rapid division, the bradyzoite stage of slow division within tissue cysts, and the oocyst environmental stage.[34] Tachyzoites are also known as "tachyzoic merozoites" and bradyzoites as "bradyzoic merozoites".[35] When an oocyst or tissue cyst is ingested by a human or other warm-blooded animal, the resilient cyst wall is dissolved by proteolytic enzymes in the stomach and small intestine, freeing sporozoites from within the oocyst.[30][34]
+The parasites first invade cells in and surrounding the intestinal epithelium, and inside these cells, the parasites differentiate into tachyzoites, the motile and quickly multiplying cellular stage of T. gondii.[28]: 39
+Tissue cysts in tissues such as brain and muscle tissue, form about 7–10 days after initial infection.[34] Although severe infection of M. rufus has been observed it is unknown whether this is common.[33]
+Asexual reproduction in the intermediate host[edit]
+Inside host cells, the tachyzoites replicate inside specialized vacuoles (called the parasitophorous vacuoles) created from host cell membrane during invasion into the cell.[28]: 23–39
+Tachyzoites multiply inside this vacuole until the host cell dies and ruptures, releasing and spreading the tachyzoites via the bloodstream to all organs and tissues of the body, including the brain.[28]: 39–40
+Growth in tissue culture[edit]
+The parasite can be easily grown in monolayers of mammalian cells maintained in vitro in tissue culture. It readily invades and multiplies in a wide variety of fibroblast and monocyte cell lines. In infected cultures, the parasite rapidly multiplies and thousands of tachyzoites break out of infected cells and enter adjacent cells, destroying the monolayer in due course. New monolayers can then be infected using a drop of this infected culture fluid and the parasite indefinitely maintained without the need of animals.
+T. gondii tissue cyst in a mouse brain, individual bradyzoites can be seen within
+Formation of tissue cysts[edit]
+Following the initial period of infection characterized by tachyzoite proliferation throughout the body, pressure from the host's immune system causes T. gondii tachyzoites to convert into bradyzoites, the semidormant, slowly dividing cellular stage of the parasite.[36]
+Inside host cells, clusters of these bradyzoites are known as tissue cysts. The cyst wall is formed by the parasitophorous vacuole membrane.[28]: 343
+Although bradyzoite-containing tissue cysts can form in virtually any organ, tissue cysts predominantly form and persist in the brain, the eyes, and striated muscle (including the heart).[28]: 343
+However, specific tissue tropisms can vary between intermediate host species; in pigs, the majority of tissue cysts are found in muscle tissue, whereas in mice, the majority of cysts are found in the brain.[28]: 41
+Cysts usually range in size between five and 50 µm in diameter,[37] (with 50 µm being about two-thirds the width of the average human hair).[38]
+Consumption of tissue cysts in meat is one of the primary means of T. gondii infection, both for humans and for meat-eating, warm-blooded animals.[28]: 3
+Humans consume tissue cysts when eating raw or undercooked meat (particularly pork and lamb).[39] Tissue cyst consumption is also the primary means by which cats are infected.[4]: 46
+An exhibit at the San Diego Natural History Museum states urban runoff with cat feces transports Toxoplasma gondii into the ocean, which can kill sea otters.[40]
+Chronic infection[edit]
+Tissue cysts can be maintained in host tissue for the lifetime of the animal.[28]: 580
+However, the perpetual presence of cysts appears to be due to a periodic process of cyst rupturing and re-encysting, rather than a perpetual lifespan of individual cysts or bradyzoites.[28]: 580
+At any given time in a chronically infected host, a very small percentage of cysts are rupturing,[28]: 45  although the exact cause of this tissue cyst rupture is, as of 2010, not yet known.[4]: 47
+Theoretically, T. gondii can be passed between intermediate hosts indefinitely via a cycle of consumption of tissue cysts in meat. However, the parasite's life cycle begins and completes only when the parasite is passed to a feline host, the only host within which the parasite can again undergo sexual development and reproduction.[30]
+Population structure in the wild[edit]
+In 2006, researchers reviewed evidence that T. gondii has an unusual population structure dominated by three clonal lineages called Types I, II and III that occur in North America and Europe, despite the occurrence of a sexual phase in its life cycle. They estimated that a common ancestor existed about 10,000 years ago.[41]
+Authors of a subsequent and larger study on 196 isolates from diverse sources including T. gondii in the bald eagle, gray wolf, Arctic fox and sea otter, also found that T. gondii strains infecting North American wildlife have limited genetic diversity with the occurrence of only a few major clonal types. They found that 85% of strains in North America were of one of three widespread genotypes II, III and Type 12. Thus T. gondii has retained the capability for sex in North America over many generations, producing largely clonal populations, and matings have generated little genetic diversity.[42]
+Cellular stages[edit]
+During different periods of its life cycle, individual parasites convert into various cellular stages, with each stage characterized by a distinct cellular morphology, biochemistry, and behavior. These stages include the tachyzoites, merozoites, bradyzoites (found in tissue cysts), and sporozoites (found in oocysts).
+Some stages are motile and some calcium-dependent protein kinases (TgCDPKs) are involved in this parasite's motility.[43][44] Gaji et al. 2015 find TgCDPK3 is required to begin the action of motility because it phosphorylates T. gondii's myosin A (TgMYOA).[43][44] TgCDPK3 is the functional orthologue of CDPK1 in this parasite.[44]
+Tachyzoites[edit]
+Two tachyzoites, transmission electron microscopy[45]
+Motile, and quickly multiplying, tachyzoites are responsible for expanding the population of the parasite in the host.[45][28]: 19
+When a host consumes a tissue cyst (containing bradyzoites) or an oocyst (containing sporozoites), the bradyzoites or sporozoites stage-convert into tachyzoites upon infecting the intestinal epithelium of the host.[28]: 359  During the initial acute period of infection, tachyzoites spread throughout the body via the blood stream.[28]: 39–40  During the later, latent (chronic) stages of infection, tachyzoites stage-convert to bradyzoites to form tissue cysts.
+Merozoites[edit]
+An unstained T. gondii tissue cyst, bradyzoites can be seen within
+Like tachyzoites, merozoites divide quickly, and are responsible for expanding the population of the parasite inside the cat's intestine before sexual reproduction.[28]: 19  When a feline definitive host consumes a tissue cyst (containing bradyzoites), bradyzoites convert into merozoites inside intestinal epithelial cells. Following a brief period of rapid population growth in the intestinal epithelium, merozoites convert into the noninfectious sexual stages of the parasite to undergo sexual reproduction, eventually resulting in zygote-containing oocysts.[28]: 306
+Bradyzoites[edit]
+Bradyzoites are the slowly dividing stage of the parasite that make up tissue cysts. When an uninfected host consumes a tissue cyst, bradyzoites released from the cyst infect intestinal epithelial cells before converting to the proliferative tachyzoite stage.[28]: 359  Following the initial period of proliferation throughout the host body, tachyzoites then convert back to bradyzoites, which reproduce inside host cells to form tissue cysts in the new host.
+Sporozoites[edit]
+Sporozoites are the stage of the parasite residing within oocysts. When a human or other warm-blooded host consumes an oocyst, sporozoites are released from it, infecting epithelial cells before converting to the proliferative tachyzoite stage.[28]: 359
+Immune response[edit]
+Initially, a T. gondii infection stimulates production of IL-2 and IFN-γ by the innate immune system.[36] Continuous IFN-γ production is necessary for control of both acute and chronic T. gondii infection.[36] These two cytokines elicit a CD4+ and CD8+ T-cell mediated immune response.[36] Thus, T-cells play a central role in immunity against Toxoplasma infection. T-cells recognize Toxoplasma antigens that are presented to them by the body's own Major Histocompatibility Complex (MHC) molecules. The specific genetic sequence of a given MHC molecule differs dramatically between individuals, which is why these molecules are involved in transplant rejection. Individuals carrying certain genetic sequences of MHC molecules are much more likely to be infected with Toxoplasma. One study of >1600 individuals found that Toxoplasma infection was especially common among people who expressed certain MHC alleles (HLA-B*08:01, HLA-C*04:01, HLA-DRB 03:01, HLA-DQA*05:01 and HLA-DQB*02:01).[46]
+IL-12 is produced during T. gondii infection to activate natural killer (NK) cells.[36] Tryptophan is an essential amino acid for T. gondii, which it scavenges from host cells. IFN-γ induces the activation of indole-amine-2,3-dioxygenase (IDO) and tryptophan-2,3-dioxygenase (TDO), two enzymes that are responsible for the degradation of tryptophan.[47] Immune pressure eventually leads the parasite to form cysts that normally are deposited in the muscles and in the brain of the hosts.[36]
+Immune response and behavior alterations[edit]
+The IFN-γ-mediated activation of IDO and TDO is an evolutionary mechanism that serves to starve the parasite, but it can result in depletion of tryptophan in the brain of the host.
+IDO and TDO degrade tryptophan to N-formylkynurenine.
+Administration of L-kynurenine is capable of inducing depressive-like behavior in mice.[47] T. gondii infection has been demonstrated to increase the levels of kynurenic acid (KYNA) in the brains of infected mice and in the brain of schizophrenic persons.[47] Low levels of tryptophan and serotonin in the brain were already associated with depression.[48]
+Risk factors for human infection[edit]
+The following have been identified as being risk factors for T. gondii infection in humans and warm-blooded animals:
+by consuming raw or undercooked meat containing T. gondii tissue cysts.[31][49][50][51][52] The most common threat to citizens in the United States is from eating raw or undercooked pork.[53]
+by ingesting water, soil, vegetables, or anything contaminated with oocysts shed in the feces of an infected animal.[49] Cat fecal matter is particularly dangerous: Just one cyst consumed by a cat can result in thousands of oocysts. This is why physicians recommend pregnant or ill persons do not clean the cat's litter box at home.[53]
+These oocysts are resilient to harsh environmental conditions and can survive over a year in contaminated soil.[34][54]
+from a blood transfusion or organ transplant[55]
+from transplacental transmission from mother to fetus, particularly when T. gondii is contracted during pregnancy[49]
+from drinking unpasteurized goat milk[50]
+from raw and treated sewage and bivalve shellfish contaminated by treated sewage[56][57][58][59]
+A common argument in the debate about whether cat ownership is ethical involves the question of Toxoplasma gondii transmission to humans.[60] Even though "living in a household with a cat that used a litter box was strongly associated with infection,"[31] and that living with several kittens or any cat under one year of age has some significance,[50] several other studies claim to have shown that living in a household with a cat is not a significant risk factor for T. gondii infection.[51][61]
+Specific vectors for transmission may also differ based on geographic location. "The seawater in California is thought to be contaminated by T. gondii oocysts that originate from cat feces, survive or bypass sewage treatment, and travel to the coast through river systems. T. gondii has been identified in a California mussel by polymerase chain reaction and DNA sequencing. In light of the potential presence of T. gondii, pregnant women and immunosuppressed persons should be aware of this potential risk associated with eating raw oysters, mussels, and clams."[50]
+In warm-blooded animals, such as brown rats, sheep, and dogs, T. gondii has also been shown to be sexually transmitted.[62][63][64] Although T. gondii can infect, be transmitted by, and asexually reproduce within humans and virtually all other warm-blooded animals, the parasite can sexually reproduce only within the intestines of members of the cat family (felids).[30]
+Felids are therefore the definitive hosts of T. gondii; all other hosts (such as human or other mammals) are intermediate hosts.
+Preventing infection[edit]
+The following precautions are recommended to prevent or greatly reduce the chances of becoming infected with T. gondii. This information has been adapted from the websites of United States Centers for Disease Control and Prevention[65] and the Mayo Clinic.[66]
+From food[edit]
+Basic food-handling safety practices can prevent or reduce the chances of becoming infected with T. gondii, such as washing unwashed fruits and vegetables, and avoiding raw or undercooked meat, poultry, and seafood. Other unsafe practices such as drinking unpasteurized milk or untreated water can increase odds of infection.[65] As T. gondii is commonly transmitted through ingesting microscopic cysts in the tissues of infected animals, meat that is not prepared to destroy these presents a risk of infection. Freezing meat for several days at subzero temperatures (0 °F or −18 °C) before cooking may break down all cysts, as they rarely survive these temperatures.[4]: 45  During cooking, whole cuts of red meat should be cooked to an internal temperature of at least 145 °F (63 °C).
+Medium rare meat is generally cooked between 130 and 140 °F (55 and 60 °C),[67] so cooking meat to at least medium is recommended. After cooking, a rest period of 3 min should be allowed before consumption. However, ground meat should be cooked to an internal temperature of at least 160 °F (71 °C) with no rest period. All poultry should be cooked to an internal temperature of at least 165 °F (74 °C). After cooking, a rest period of 3 min should be allowed before consumption.
+From environment[edit]
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources in this section. Unsourced material may be challenged and removed.Find sources: "Toxoplasma gondii" – news · newspapers · books · scholar · JSTOR (February 2023) (Learn how and when to remove this template message)
+Oocysts in cat feces take at least a day to sporulate (to become infectious after they are shed), so disposing of cat litter daily greatly reduces the chance of infectious oocysts developing. As these can spread and survive in the environment for months, humans should wear gloves when gardening or working with soil, and should wash their hands promptly after disposing of cat litter. These precautions apply to outdoor sandboxes/play sand pits, which should be covered when not in use. Cat feces should never be flushed down a toilet.
+Pregnant women are at higher risk of transmitting the parasite to their unborn child and immunocompromised people of acquiring a lingering infection. Because of this, they should not change or handle cat litter boxes. Ideally, cats should be kept indoors and fed only food that has low to no risk of carrying oocysts, such as commercial cat food or well-cooked table food.
+Vaccination[edit]
+No approved human vaccine exists against Toxoplasma gondii.[68] Research on human vaccines is ongoing.[69]
+For sheep, an approved live vaccine sold as Toxovax (from MSD Animal Health) provides lifetime protection.[70]
+Treatment[edit]
+In humans, active toxoplasmosis can be treated with a combination of drugs such as pyrimethamine and sulfadiazine, plus folinic acid. Immune-compromised patients may need continuous treatment until/unless their immune system is restored.[71]
+Environmental effects[edit]
+In many parts of the world, where there are high populations of feral cats, there is an increased risk to the native wildlife due to increased infection of Toxoplasma gondii. It has been found that the serum concentrations of T. gondii in the wildlife population were increased where there are high amounts of cat populations. This creates a dangerous environment for organisms that have not evolved in cohabitation with felines and their contributing parasites.[72]
+Impact on marine species[edit]
+Minks and otters[edit]
+Toxoplasmosis is one of the contributing factors toward mortality in southern sea otters, especially in areas where there is large urban run-off.[73] In their natural habitats, sea otters control sea urchin populations and, thus indirectly, control sea kelp forests. By enabling the growth of sea kelp, other marine populations are protected as well as CO2 emissions are reduced due to the kelp's ability to absorb atmospheric carbon.[74] An examination on 105 beachcast otters revealed that 38.1% had parasitic infections, and 28% of said infections had resulted in protozoal meningoencephalitis deaths.[73] Toxoplasma gondii was found to be the root cause in 16.2% of these deaths, while 6.7% of the deaths were due to a closely related protozoan parasite known as Sarcocystis neurona.[73]
+Minks, being semiaquatic, are also susceptible to infection and being antibody-positive toward Toxoplasma gondii.[75] Minks can follow a similar diet as otters and feasts on crustaceans, fish, and invertebrates, thus the transmission route follows a similar pattern to otters. Because of the mink's ability to transverse land more frequently, and often seen as an invasive species itself, minks are a bigger threat in transporting T. gondii to other mammalian species, rather than otters who have a more restrictive breadth.[75]
+Black-footed penguins[edit]
+Although under-studied, penguin populations, especially those that share an environment with the human population, are at-risk due to parasite infections, mainly Toxoplasmosis gondii.
+The main subspecies of penguins found to be infected by T. gondii include wild Magellanic and Galapagos penguins, as well as blue and African penguins in captivity.[76] In one study, 57 (43.2%) of 132 serum samples of Magellanic penguins were found to have T. gondii. The island that the penguin is located, Magdalena Island, is known to have no cat populations, but a very frequent human population, indicating the possibility of transmission.[76]
+Histopathology[edit]
+Examination of black-footed penguins with toxoplasmosis reveals hepatomegaly, splenomegaly, cranial hemorrhage, and necrotic kidneys.[77] Alveolar and hepatic tissue presents a high number of immune cells such as macrophages containing tachyzoites of T. gondii.[77]
+Histopathological features in other animals affected with toxoplasmosis had tachyzoites in eye structures such as the retina which lead to blindness.[77]
+Water transmission[edit]
+The transmission of oocysts has been unknown, even though there have many documented cases of infection in marine species. Researchers have found that the oocytes of T. gondii can survive in seawater for at least 6 months, with the amount of salt concentration not affecting its life cycle. There have been no studies on the ability of T. gondii oocysts life cycle within freshwater environments, although infections are still present. One possible hypothesis of transmission is via amoeba species, particularly Acanthamoeba spp., a species that is found in all water environments (fresh, brackish, and full-strength seawater). Normally, amoebas function as a natural filter, phagocytizing nutrients and bacteria found within the water. Some pathogens have used this to their advantage, however, and evolved to be able to avoid being broken down and, thus, survive encased in the amoeba – this includes Holosporaceae, Pseudomonaceae, Burkholderiacceae, among others.[78] Overall, this aids the pathogen in transportation but, also, protection from drugs and sterilizers that would, otherwise, cause death in the pathogen.[79] Studies have shown that T. gondii oocysts can live within amoebas after being engulfed for at least 14 days without significant obliteration of the parasite.[80] The ability of the microorganism to survive in vitro is dependent on the microorganism itself, but there are a few overarching mechanisms present. T. gondii oocysts have been found to resist an acidic pH and, thus, are protected by the acidification found in endocytic vacuoles and lysosomes.[80] Phagocytosis further increases with the carbohydrate-rich surface membrane located on the amoebae.[81] The pathogen can be released either by lysis of the amoebae or by exocytosis, but this is understudied [82]
+Impact on wild birds[edit]
+Almost all species of birds that have been tested for Toxoplasma gondii have shown to be positive. The only bird species not reported with clinical symptoms of toxoplasmosis would be wild ducks, and there has only been one report found on domesticated ducks occurring in 1962.[83] Species with resistance toward T. gondii include domestic turkeys,[84] owls, red tail hawks, and sparrows, depending on the strain of T. gondii.[85] T. gondii is considerably more severe in pigeons, particularly crown pigeons, ornamental pigeons, and pigeons originating from Australia and New Zealand. Typical onset is quick and usually results in death. Those that do survive often have chronic conditions of encephalitis and neuritis.[85] Similarly, canaries are observed to be just as severe as pigeons, but the clinical symptoms are more abnormal when compared to other species. Most of the infection affects the eye, causing blindness, choroidal lesions, conjunctivitis, atrophy of the eye, blepharitis, and chorioretinitis [85] Most of the time, the infection leads to death.
+Current environmental efforts[edit]
+Urbanization and global warming are extremely influential in the transmission of T. gondii.[86] Temperature and humidity are huge factors in the sporulation stage: low humidity is always fatal to the oocysts, and they are also vulnerable to extreme temperatures.[86] Rainfall is also an important factor for survival of waterborne pathogens.
+Because increased rainfall directly increases the flow rate in rivers, the amount of flow into coastal areas is increased as well.
+This can spread waterborne pathogens over wide areas.
+There is no effective vaccine for T. gondii, and research on a live vaccine is ongoing. Feeding cats commercially available food, rather than raw, undercooked meat, prevents felines from becoming a host for oocysts, as higher prevalence is in areas where raw meat is fed.[87] Researchers also suggest that owners restrict cats to live indoors and to be neutered or spayed to decrease stray cat populations and to reduce intermediate host interactions. It is suggested that fecal matter from litter boxes be collected daily, placed in a sealable bag, and disposed of in the trash rather than flushed in the toilet, so that water contamination is limited.[88]
+Studies have found that wetlands with a high density of vegetation decrease the concentration of oocysts in water through two possible mechanisms. Firstly, vegetation decreases flow velocities, which enables more settling because of increased transport time.[88] Secondly, the vegetation can remove oocysts through its ability to mechanically strain the water, as well as through the process of adhesion (i.e. attachment to biofilms). Areas of erosion and destruction of coastal wetlands have been found to harbour increased concentrations of T. gondii oocysts, which then flow into open coastal waters. Current physical and chemical treatments typically utilized in water treatment facilities have been proven to be ineffective against T. gondii.
+Research has shown that UV-C disinfection of water containing oocysts results in inactivation and possible sterilization.[89]
+Genome[edit]
+The genomes of more than 60 strains of T. gondii have been sequenced. Most are 60–80 Mb in size and consist of 11–14 chromosomes.[90][91] The major strains encode 7,800–10,000 proteins, of which about 5,200 are conserved across RH, GT1, ME49, VEG.[90] A database, ToxoDB, has been established to document genomic information on Toxoplasma.[92][93][94]
+History[edit]
+In 1908, while working at the Pasteur Institute in Tunis, Charles Nicolle and Louis Manceaux discovered a protozoan organism in the tissues of a hamster-like rodent known as the gundi, Ctenodactylus gundi.[30]
+Although Nicolle and Manceaux initially believed the organism to be a member of the genus Leishmania that they described as "Leishmania gondii", they soon realized they had discovered a new organism entirely; they renamed it Toxoplasma gondii. The new genus name Toxoplasma is a reference to its morphology: Toxo, from Greek τόξον (toxon, 'arc, bow'), and πλάσμα (plasma, 'shape, form') and the host in which it was discovered, the gundi (gondii).[95] The same year Nicolle and Mancaeux discovered T. gondii, Alfonso Splendore identified the same organism in a rabbit in Brazil. However, he did not give it a name.[30] In 1914, Italian tropicalist Aldo Castellani "was first to suspect that toxoplasmosis could affect humans".[96]
+The first conclusive identification of T. gondii in humans was in an infant girl delivered full term by Caesarean section on May 23, 1938, at Babies' Hospital in New York City.[30]
+The girl began having seizures at three days of age, and doctors identified lesions in the maculae of both of her eyes. When she died at one month of age, an autopsy was performed. Lesions discovered in her brain and eye tissue were found to have both free and intracellular T. gondii'.[30] Infected tissue from the girl was homogenized and inoculated intracerebrally into rabbits and mice; they then developed encephalitis. Later, congenital transmission was confirmed in many other species, particularly infected sheep and rodents.
+The possibility of T. gondii transmission via consumption of undercooked meat was first proposed by D. Weinman and A.H Chandler in 1954.[30] In 1960, the relevant cyst wall were shown to dissolve in the proteolytic enzymes found in the stomach, releasing infectious bradyzoites into the stomach (which pass into the intestine). The hypothesis of transmission via consumption of undercooked meat was tested in an orphanage in Paris in 1965; incidence of T. gondii rose from 10% to 50% after a year of adding two portions of cooked-rare beef or horse meat to many orphans' daily diets, and to 100% among those fed cooked-rare lamb chops.[30]
+A 1959 Mumbai-based study found there prevalence in strict vegetarians was similar to that of non-vegetarians. This raised the possibility of a third major route of infection, beyond congenital and non well-cooked meat carnivorous transmission.[30]
+In 1970, oocysts were found in (cat) feces. The fecal–oral route of infection via oocysts was demonstrated.[30] In the 1970s and 1980s feces of a vast range of infected animal species was tested to see if it contained oocysts — at least 17 species of felids shed oocysts, but no non-felid has been shown to allow T. gondii sexual reproduction (leading to oocyst shedding).[30]
+In 1984 Elmer R. Pfefferkorn published his discovery that treatment of human fibroblasts with human recombinant interferon gamma blocks the growth of T. gondii.[97]
+Behavioral differences of infected hosts[edit]
+There are many instances where behavioural changes were reported in rodents with T. gondii. The changes seen were a reduction in their innate dislike of cats, which made it easier for cats to prey on the rodents. In an experiment conducted by Berdoy and colleagues, the infected rats showed preference for the cat odour area versus the area with the rabbit scent, therefore making it easier for the parasite to take its final step in its definitive feline host.[7] This is an example of the extended phenotype concept, that is, the idea that the behaviour of the infected animal changes in order to maximize survival of the genes that increase predation of the intermediate rodent host.[98]
+Differences in sex-dependent behavior observed in infected hosts compared to non-infected individuals can be attributed to differences in testosterone. Infected males had higher levels of testosterone while infected females had significantly lower levels, compared to their non-infected equivalents.[99] Looking at humans, studies using the Cattell's 16 Personality Factor questionnaire found that infected men scored lower on Factor G (superego strength/rule consciousness) and higher on Factor L (vigilance) while the opposite pattern was observed for infected women.[100] Such men were more likely to disregard rules and were more expedient, suspicious, and jealous. On the other hand, women were more warm-hearted, outgoing, conscientious, and moralistic.[100] Mice infected with T. gondii have a worse motor performance than non-infected mice.[101][102] Thus, a computerized simple reaction test was given to both infected and non-infected adults. It was found that the infected adults performed much more poorly and lost their concentration more quickly than the control group. But, the effect of the infection only explains less than 10% of the variability in performance[100] (i.e., there could be other confounding factors). Correlation has also been observed between seroprevalence of T. gondii in humans and increased risk of traffic accidents. Infected subjects have a 2.65 times higher risk of getting into a traffic accident.[103] A Turkish study confirmed this holds true among drivers.[104] This parasite has been associated with many neurological disorders such as schizophrenia. In a meta-analysis of 23 studies that met inclusion criteria, the seroprevalence of antibodies to T. gondii in people with schizophrenia is significantly higher than in control populations (OR=2.73, P<0.000001).[105] A 2009 summary of studies found that suicide attempters had far more indicative (IgG) antibodies than mental health inpatients without a suicide attempt.[106] Infection was also shown to be associated with suicide in women over the age of 60. (P<0.005) [107]
+As mentioned before, these results of increased proportions of people seropositive for the parasite in cases of these neurological disorders do not necessarily indicate a causal relationship between the infection and disorder. It is also important to mention that in 2016 a population-representative birth cohort study which was done, to test a hypothesis that toxoplasmosis is related to impairment in brain and behaviour measured by a range of phenotypes including neuropsychiatric disorders, poor impulse control, personality and neurocognitive deficits. The results of this study did not support the results in the previously mentioned studies, more than marginally. None of the P-values showed significance for any outcome measure. Thus, according to this study, the presence of T. gondii antibodies is not correlated to increase susceptibility to any of the behaviour phenotypes (except possibly to a higher rate of unsuccessful attempted suicide). This team did not observe any significant association between T. gondii seropositivity and schizophrenia. The team notes that the null findings might be a false negative due to low statistical power because of small sample sizes but against this weights that their setup should avoid some possibilities for errors in the about 40 studies that did show a positive correlation. They concluded that further studies should be performed.[108] Another population-representative study with 7440 people in the United States found that Toxoplasma infection was 2.4 fold more common in people who had a history of manic and depression symptoms (bipolar disorder Type 1) compared to the general population.[109]
+Research on the linkage between T. gondii infection and entrepreneurial behavior showed that students who tested positive for T. gondii exposure were 1.4 times more likely to major in business and 1.7 times more likely to have an emphasis in "management and entrepreneurship". Among 197 participants of entrepreneurship events, T. gondii exposure was correlated with being 1.8 times more likely to have started their own business.[110]
+Published research has also indicated that T. gondii infection could potentially promote changes in a person's political beliefs and values. Those who are infected with the parasite tend to exhibit a higher degree of "us versus them" thinking.[111][112][113]
+The mechanism behind behavioral changes is partially attributed to increased dopamine metabolism,[114] which can be neutralized by dopamine antagonist medications.[115] T. gondii has two genes that code for a bifunctional phenylalanine and tyrosine hydroxylase, two important and rate-limiting steps of dopamine biosynthesis. One of the genes is constitutively expressed, while the other is only produced during cyst development.[116][117] In addition to additional dopamine production, T. gondii infection also produces long-lasting epigenetic changes in animals that increase the expression of vasopressin, a probable cause of alterations that persist after the clearance of the infection.[118]
+In 2022, a study published in Nature of a well-documented population of wolves studied throughout their lives, suggested that T. gondii also may have a significant effect on their behavior. It suggested that infection with this parasite emboldened infected wolves into behavior that determined leadership roles and influenced risk-taking behavior, perhaps even motivating establishment of new independent packs that they would establish and lead in behavior patterns differing from that of the packs into which they were born. The study determined that at times, an infected wolf would become the only breeding male in a pack,[119] leading to a significant effect on another species by T. gondii.
+See also[edit]
+Toxoplasma lactate dehydrogenase 1 regulatory UTR
+References[edit]
+^ Nicolle, C.; Manceaux, L. (1908). "Sur une infection à corps de Leishman (ou organismes voisins) du Gondi". Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences (in French). 147 (2): 763–66.
+^ Nicolle, C.; Manceaux, L. (1909). "Sur un Protozoaire nouveau du Gondi". Comptes Rendus Hebdomadaires des Séances de l'Académie des Sciences (in French). 148 (1): 369–72.
+^ Dardé, M. L.; Ajzenberg, D.; Smith, J. (2011). "Population structure and epidemiology of Toxoplasma gondii". In Weiss, L. M.; Kim, K. (eds.). Toxoplasma Gondii: The Model Apicomplexan. Perspectives and Methods. Amsterdam, Boston, Heidelberg, London, New York: Elsevier. pp. 49–80. doi:10.1016/B978-012369542-0/50005-2. ISBN 9780123695420.
+^ a b c d e f g h Dubey, J. P. (2010). "General Biology". Toxoplasmosis of Animals and Humans (2nd ed.). Boca Raton / London / New York: Taylor and Francis Group. pp. 1–20. ISBN 9781420092370. Retrieved 1 February 2019.
+^ "CDC - Toxoplasmosis - Biology". 17 March 2015. Retrieved 14 June 2015.
+^ a b Knoll, Laura J.; Dubey, J. P.; Wilson, Sarah K.; Genova, Bruno Martorelli Di (1 July 2019). "Intestinal delta-6-desaturase activity determines host range for Toxoplasma sexual reproduction". bioRxiv. 17 (8): 688580. doi:10.1101/688580. PMC 6701743. PMID 31430281.
+^ a b c d Berdoy, M.; Webster, J. P.; Macdonald, D. W. (August 2000). "Fatal attraction in rats infected with Toxoplasma gondii". Proceedings of the Royal Society of London B: Biological Sciences. 267 (1452): 1591–94. doi:10.1098/rspb.2000.1182. PMC 1690701. PMID 11007336.
+^ Webster, J. P. (May 2007). "The effect of Toxoplasma gondii on animal behavior: playing cat and mouse". Schizophrenia Bulletin. 33 (3): 752–756. doi:10.1093/schbul/sbl073. PMC 2526137. PMID 17218613.
+^ a b Webster, J. P.; Kaushik, M.; Bristow, G. C.; McConkey, G. A. (January 2013). "Toxoplasma gondii infection, from predation to schizophrenia: can animal behaviour help us understand human behaviour?". The Journal of Experimental Biology. 216 (Pt 1): 99–112. doi:10.1242/jeb.074716. PMC 3515034. PMID 23225872.
+^ Boillat, M.; Hammoudi, P. M.; Dogga, S. K.; Pagès, S.; Goubran, M.; Rodriguez, I.; Soldati-Favre, D. (2020). "Neuroinflammation-associated Aspecific Manipulation of Mouse Predator Fear by Toxoplasma gondii". Cell Reports. 30 (2). pp. 320–334.e6. doi:10.1016/j.celrep.2019.12.019. PMID 31940479.
+^ Hari Dass, S. A.; Vyas, A. (December 2014). "Toxoplasma gondii infection reduces predator aversion in rats through epigenetic modulation in the host medial amygdala". Molecular Ecology. 23 (24): 6114–22. Bibcode:2014MolEc..23.6114H. doi:10.1111/mec.12888. PMID 25142402. S2CID 45290208.
+^ Flegr, J.; Markoš, A. (December 2014). "Masterpiece of epigenetic engineering – how Toxoplasma gondii reprogrammes host brains to change fear to sexual attraction". Molecular Ecology. 23 (24): 5934–5936. Bibcode:2014MolEc..23.5934F. doi:10.1111/mec.13006. PMID 25532868. S2CID 17253786.
+^ a b "CDC Parasites – Toxoplasmosis (Toxoplasma infection) Disease". Retrieved 12 March 2013.
+^ a b c Flegr, J.; Prandota, J.; Sovičková, M.; Israili, Z. H. (March 2014). "Toxoplasmosis – a global threat. Correlation of latent toxoplasmosis with specific disease burden in a set of 88 countries". PLOS ONE. 9 (3): e90203. Bibcode:2014PLoSO...990203F. doi:10.1371/journal.pone.0090203. PMC 3963851. PMID 24662942. Toxoplasmosis is becoming a global health hazard as it infects 30–50% of the world human population. Clinically, the life-long presence of the parasite in tissues of a majority of infected individuals is usually considered asymptomatic. However, a number of studies show that this 'asymptomatic infection' may also lead to development of other human pathologies. ... The seroprevalence of toxoplasmosis correlated with various disease burden. Statistical associations does not necessarily mean causality. The precautionary principle suggests, however, that possible role of toxoplasmosis as a triggering factor responsible for development of several clinical entities deserves much more attention and financial support both in everyday medical practice and future clinical research.
+^ Cook, T. B.; Brenner, L. A.; Cloninger, C. R.; Langenberg, P.; Igbide, A.; Giegling, I.; Hartmann, A. M.; Konte, B.; Friedl, M.; Brundin, L.; Groer, M. W.; Can, A.; Rujescu, D.; Postolache, T. T. (January 2015). ""Latent" infection with Toxoplasma gondii: association with trait aggression and impulsivity in healthy adults". Journal of Psychiatric Research. 60: 87–94. doi:10.1016/j.jpsychires.2014.09.019. PMID 25306262.
+^ Flegr, J. (January 2013). "Influence of latent Toxoplasma infection on human personality, physiology and morphology: pros and cons of the Toxoplasma-human model in studying the manipulation hypothesis". The Journal of Experimental Biology. 216 (Pt 1): 127–33. doi:10.1242/jeb.073635. PMID 23225875.
+^ Burgdorf, K. S.; Trabjerg, B. B.; Pedersen, M. G.; Nissen, J.; Banasik, K.; Pedersen, O. B.; et al. (2019). "Large-scale study of Toxoplasma and Cytomegalovirus shows an association between infection and serious psychiatric disorders". Brain, Behavior, and Immunity. 79: 152–158. doi:10.1016/j.bbi.2019.01.026. PMID 30685531.
+^ Parlog, A.; Schlüter, D.; Dunay, I. R. (March 2015). "Toxoplasma gondii-induced neuronal alterations". Parasite Immunology. 37 (3): 159–70. doi:10.1111/pim.12157. hdl:10033/346575. PMID 25376390. S2CID 17132378.
+^ Blanchard, N.; Dunay, I. R.; Schlüter, D. (March 2015). "Persistence of Toxoplasma gondii in the central nervous system: a fine-tuned balance between the parasite, the brain and the immune system". Parasite Immunology. 37 (3): 150–58. doi:10.1111/pim.12173. hdl:10033/346515. PMID 25573476. S2CID 1711188.
+^ Pearce, B. D.; Kruszon-Moran, D.; Jones, J. L. (2012). "The Relationship Between Toxoplasma Gondii Infection and Mood Disorders in the Third National Health and Nutrition Survey". Biological Psychiatry. 72 (4): 290–95. doi:10.1016/j.biopsych.2012.01.003. PMC 4750371. PMID 22325983.
+^ de Barros, J. L.; Barbosa, I. G.; Salem, H.; Rocha, N. P.; Kummer, A.; Okusaga, O. O.; Soares, J. C.; Teixeira; A. L. (February 2017). "Is there any association between Toxoplasma gondii infection and bipolar disorder? A systematic review and meta-analysis". Journal of Affective Disorders. 209: 59–65. doi:10.1016/j.jad.2016.11.016. PMID 27889597.
+^ Flegr, J.; Lenochová, P.; Hodný, Z.; Vondrová, M (November 2011). "Fatal attraction phenomenon in humans: cat odour attractiveness increased for toxoplasma-infected men, but decreased for infected women". PLOS Neglected Tropical Diseases. 5 (11): e1389. doi:10.1371/journal.pntd.0001389. PMC 3210761. PMID 22087345.
+^ Sugden, Karen; Moffitt, Terrie E.; Pinto, Lauriane; Poulton, Richie; Williams, Benjamin S.; Caspi, Avshalom (17 February 2016). "Is Toxoplasma Gondii Infection Related to Brain and Behavior Impairments in Humans? Evidence from a Population-Representative Birth Cohort". PLOS ONE. 11 (2): e0148435. Bibcode:2016PLoSO..1148435S. doi:10.1371/journal.pone.0148435. PMC 4757034. PMID 26886853.
+^ "Cat parasite linked to mental illness, schizophrenia". CBS. 5 June 2015. Retrieved 23 September 2015.
+^ "CDC – About Parasites". Retrieved 12 March 2013.
+^ Pappas, G.; Roussos, N.; Falagas, M. E. (October 2009). "Toxoplasmosis snapshots: global status of Toxoplasma gondii seroprevalence and implications for pregnancy and congenital toxoplasmosis". International Journal for Parasitology. 39 (12): 1385–94. doi:10.1016/j.ijpara.2009.04.003. PMID 19433092.
+^ Bigna, Jean Joel; Tochie, Joel Noutakdie; Tounouga, Dahlia Noelle; Bekolo, Anne Olive; Ymele, Nadia S.; Youda, Emilie Lettitia; Sime, Paule Sandra; Nansseu, Jobert Richie (21 July 2020). "Global, regional, and country seroprevalence of Toxoplasma gondii in pregnant women: a systematic review, modelling and meta-analysis". Scientific Reports. 10 (1): 12102. Bibcode:2020NatSR..1012102B. doi:10.1038/s41598-020-69078-9. ISSN 2045-2322. PMC 7374101. PMID 32694844.
+^ a b c d e f g h i j k l m n o p q r s t u v Weiss LM, Kim K (2011). Toxoplasma Gondii: The Model Apicomplexan: Perspectives and Methods (2nd ed.). Academic Press. ISBN 9780080475011. Retrieved 12 March 2013.
+^ Dubey, J. P.; Ferreira, L. R.; Martins, J.; Jones, J. L. (October 2011). "Sporulation and survival of Toxoplasma gondii oocysts in different types of commercial cat litter". The Journal of Parasitology. 97 (5): 751–54. doi:10.1645/GE-2774.1. PMID 21539466. S2CID 41292680.
+^ a b c d e f g h i j k l m Dubey, J. P. (July 2009). "History of the discovery of the life cycle of Toxoplasma gondii". International Journal for Parasitology. 39 (8): 877–82. doi:10.1016/j.ijpara.2009.01.005. PMID 19630138.
+^ a b c Kapperud, G.; Jenum, P. A.; Stray-Pedersen, B.; Melby, K. K.; Eskild, A.; Eng, J. (August 1996). "Risk factors for Toxoplasma gondii infection in pregnancy. Results of a prospective case-control study in Norway". American Journal of Epidemiology. 144 (4): 405–12. doi:10.1093/oxfordjournals.aje.a008942. PMID 8712198.
+^ Dubey, J. P. (July 1998). "Advances in the life cycle of Toxoplasma gondii". International Journal for Parasitology. 28 (7): 1019–24. doi:10.1016/S0020-7519(98)00023-X. PMID 9724872.
+^ a b Moré, Gastón; Venturini, Maria Cecilia; Pardini, Lais; Unzaga, Juan Manuel (8 November 2017). Parasitic Protozoa of Farm Animals and Pets. Cham, Switzerland: Springer. ISBN 9783319701318.
+^ a b c d Robert-Gangneux, F.; Dardé, M. L. (April 2012). "Epidemiology of and diagnostic strategies for toxoplasmosis". Clinical Microbiology Reviews. 25 (2): 264–96. doi:10.1128/CMR.05013-11. PMC 3346298. PMID 22491772.
+^ Markus, M. B. (1987). "Terms for coccidian merozoites". Annals of Tropical Medicine & Parasitology. 81 (4): 463. doi:10.1080/00034983.1987.11812147. PMID 3446034.
+^ a b c d e f Miller, C. M.; Boulter, N. R.; Ikin, R. J.; Smith, N. C. (January 2009). "The immunobiology of the innate response to Toxoplasma gondii". International Journal for Parasitology. 39 (1): 23–39. doi:10.1016/j.ijpara.2008.08.002. PMID 18775432.
+^ "CDC Toxoplasmosis – Microscopy Findings". Archived from the original on 6 November 2013. Retrieved 13 March 2013.
+^ Robbins, Clarence R. (2012). Chemical and Physical Behavior of Human Hair. Springer. p. 585. ISBN 9783642256103. Retrieved 12 March 2013.
+^ Jones, J. L.; Dubey, J. P. (September 2012). "Foodborne toxoplasmosis". Clinical Infectious Diseases. 55 (6): 845–51. doi:10.1093/cid/cis508. PMID 22618566.
+^ "Parasite Shed in Cat Feces Kills Sea Otters – California Sea Grant" (PDF). www-csgc.ucsd.edu. Archived from the original (PDF) on 1 July 2010. Retrieved 14 March 2018.
+^ Khan, A.; Böhme, U.; Kelly, K. A.; Adlem, E.; Brooks, K.; Simmonds, M.; Mungall, K.; Quail, M. A.; Arrowsmith, C.; Chillingworth, T.; Churcher, C.; Harris, D.; Collins, M.; Fosker, N.; Fraser, A.; Hance, Z.; Jagels, K.; Moule, S.; Murphy, L.; O'Neil, S.; Rajandream, M. A.; Saunders, D.; Seeger, K.; Whitehead, S.; Mayr, T.; Xuan, X.; Watanabe, J.; Suzuki, Y.; Wakaguri, H.; Sugano, S.; Sugimoto, C.; Paulsen, I.; Mackey, A. J.; Roos, D. S.; Hall, N.; Berriman, M.; Barrell, B.; Sibley, L. D.; Ajioka, J. W. (2006). "Common inheritance of chromosome Ia associated with clonal expansion of Toxoplasma gondii". Genome Research. 16 (9): 1119–1125. doi:10.1101/gr.5318106. PMC 1557770. PMID 16902086.
+^ Dubey, J. P.; Velmurugan, G. V.; Rajendran, C.; Yabsley, M. J.; Thomas, N. J.; Beckmen, K. B.; Sinnett, D.; Ruid, D.; Hart, J.; Fair, P. A.; McFee, W. E.; Shearn-Bochsler, V.; Kwok, O. C.; Ferreira, L. R.; Choudhary, S.; Faria, E. B.; Zhou, H.; Felix, T. A.; Su, C. (2011). "Genetic characterisation of Toxoplasma gondii in wildlife from North America revealed widespread and high prevalence of the fourth clonal type". International Journal for Parasitology. 41 (11): 1139–1147. doi:10.1016/j.ijpara.2011.06.005. PMID 21802422. S2CID 16654819.
+^ a b Frénal, Karine; Dubremetz, Jean-François; Lebrun, Maryse; Soldati-Favre, Dominique (4 September 2017). "Gliding motility powers invasion and egress in Apicomplexa". Nature Reviews Microbiology. Nature Portfolio. 15 (11): 645–660. doi:10.1038/nrmicro.2017.86. ISSN 1740-1526. PMID 28867819. S2CID 23129560.
+^ a b c Brochet, Mathieu; Billker, Oliver (12 February 2016). "Calcium signalling in malaria parasites". Molecular Microbiology. Wiley. 100 (3): 397–408. doi:10.1111/mmi.13324. ISSN 0950-382X. PMID 26748879. S2CID 28504228.
+^ a b Rigoulet, J.; Hennache, A.; Lagourette, P.; George, C.; Longeart, L.; Le Net, J. L.; Dubey, J. P. (2014). "Toxoplasmosis in a bar-shouldered dove (Geopelia humeralis) from the Zoo of Clères, France". Parasite. 21: 62. doi:10.1051/parasite/2014062. PMC 4236686. PMID 25407506.
+^ Parks, S.; Avramopoulos, D.; Mulle, J.; McGrath, J.; Wang, R.; Goes, F. S.; Conneely, K.; Ruczinski, I.; Yolken, R.; Pulver, A. E. (May 2018). "HLA typing using genome wide data reveals susceptibility types for infections in a psychiatric disease enriched sample". Brain, Behavior, and Immunity. 70: 203–213. doi:10.1016/j.bbi.2018.03.001. PMID 29574260. S2CID 4482168.
+^ a b c Henriquez, S. A.; Brett, R.; Alexander, J.; Pratt, J.; Roberts, C. W. (2009). "Neuropsychiatric disease and Toxoplasma gondii infection". Neuroimmunomodulation. 16 (2): 122–133. doi:10.1159/000180267. PMID 19212132. S2CID 7382051.
+^ Konsman, J. P.; Parnet, P.; Dantzer, R. (March 2002). "Cytokine-induced sickness behaviour: mechanisms and implications". Trends in Neurosciences. 25 (3): 154–59. doi:10.1016/s0166-2236(00)02088-9. PMID 11852148. S2CID 29779184.
+^ a b c Tenter, A. M.; Heckeroth, A. R.; Weiss, L. M. (November 2000). "Toxoplasma gondii: from animals to humans". International Journal for Parasitology. 30 (12–13): 1217–58. doi:10.1016/S0020-7519(00)00124-7. PMC 3109627. PMID 11113252.
+^ a b c d Jones, J. L.; Dargelas, V.; Roberts, J.; Press, C.; Remington, J. S.; Montoya, J. G. (September 2009). "Risk factors for Toxoplasma gondii infection in the United States". Clinical Infectious Diseases. 49 (6): 878–84. doi:10.1086/605433. PMID 19663709.
+^ a b Cook, A. J.; Gilbert, R. E.; Buffolano, W.; Zufferey, J.; Petersen, E.; Jenum, P. A.; Foulon, W.; Semprini, A. E.; Dunn, D. T. (July 2000). "Sources of toxoplasma infection in pregnant women: European multicentre case-control study. European Research Network on Congenital Toxoplasmosis". BMJ. 321 (7254): 142–47. doi:10.1136/bmj.321.7254.142. PMC 27431. PMID 10894691.
+^ Sakikawa, M.; Noda, S.; Hanaoka, M.; Nakayama, H.; Hojo, S.; Kakinoki, S.; Nakata, M.; Yasuda, T.; Ikenoue, T.; Kojima, T. (March 2012). "Anti-Toxoplasma antibody prevalence, primary infection rate, and risk factors in a study of toxoplasmosis in 4,466 pregnant women in Japan". Clinical and Vaccine Immunology. 19 (3): 365–67. doi:10.1128/CVI.05486-11. PMC 3294603. PMID 22205659.
+^ a b Dubey, J. P.; Hill, D. E.; Jones, J. L.; Hightower, A. W.; Kirkland, E.; Roberts, J. M.; Marcet, P. L.; Lehmann, T.; Vianna, M. C.; Miska, K.; Sreekumar, C.; Kwok, O. C.; Shen, S. K.; Gamble, H. R. (October 2005). "Prevalence of viable Toxoplasma gondii in beef, chicken, and pork from retail meat stores in the United States: risk assessment to consumers". The Journal of Parasitology. 91 (5): 1082–93. doi:10.1645/ge-683.1. PMID 16419752. S2CID 26649961.
+^ Mai, K.; Sharman, P. A.; Walker, R. A.; Katrib, M.; De Souza, D.; McConville, M. J.; Wallach, M. G.; Belli, S. I.; Ferguson, D. J.; Smith, N. C. (March 2009). "Oocyst wall formation and composition in coccidian parasites". Memórias do Instituto Oswaldo Cruz. 104 (2): 281–89. doi:10.1590/S0074-02762009000200022. hdl:1807/57649. PMID 19430654.
+^ Siegel, S. E.; Lunde, M. N.; Gelderman, A. H.; Halterman, R. H.; Brown, J. A.; Levine, A. S.; Graw, R. G. (April 1971). "Transmission of toxoplasmosis by leukocyte transfusion". Blood. 37 (4): 388–94. doi:10.1182/blood.V37.4.388.388. PMID 4927414.
+^ Gallas-Lindemann, C.; Sotiriadou, I.; Mahmoodi, M. R.; Karanis, P. (February 2013). "Detection of Toxoplasma gondii oocysts in different water resources by Loop Mediated Isothermal Amplification (LAMP)". Acta Tropica. 125 (2): 231–36. doi:10.1016/j.actatropica.2012.10.007. PMID 23088835.
+^ Alvarado-Esquivel, C.; Liesenfeld, O.; Márquez-Conde, J. A.; Estrada-Martínez, S.; Dubey, J. P. (October 2010). "Seroepidemiology of infection with Toxoplasma gondii in workers occupationally exposed to water, sewage, and soil in Durango, Mexico". The Journal of Parasitology. 96 (5): 847–50. doi:10.1645/GE-2453.1. PMID 20950091. S2CID 23241017.
+^ Esmerini, P. O.; Gennari, S. M.; Pena, H. F. (May 2010). "Analysis of marine bivalve shellfish from the fish market in Santos city, São Paulo state, Brazil, for Toxoplasma gondii". Veterinary Parasitology. 170 (1–2): 8–13. doi:10.1016/j.vetpar.2010.01.036. PMID 20197214.
+^ Dattoli, V. C.; Veiga, R. V.; Cunha, S. S.; Pontes-de-Carvalho, L.; Barreto, M. L.; Alcantara-Neves, N. M. (December 2011). "Oocyst ingestion as an important transmission route of Toxoplasma gondii in Brazilian urban children". The Journal of Parasitology. 97 (6): 1080–84. doi:10.1645/GE-2836.1. PMC 7612830. PMID 21740247. S2CID 7170467.
+^ Gross, Rachel (20 September 2016). "The Moral Cost of Cats". Smithsonian Magazine. Smithsonian Institution. Retrieved 23 October 2020.
+^ Bobić, B.; Jevremović, I.; Marinković, J.; Sibalić, D.; Djurković-Djaković, O. (September 1998). "Risk factors for Toxoplasma infection in a reproductive age female population in the area of Belgrade, Yugoslavia". European Journal of Epidemiology. 14 (6): 605–10. doi:10.1023/A:1007461225944. PMID 9794128. S2CID 9423818.
+^ Dass, S. A.; Vasudevan, A.; Dutta, D.; Soh, L. J.; Sapolsky, R. M.; Vyas, A. (2011). "Protozoan parasite Toxoplasma gondii manipulates mate choice in rats by enhancing attractiveness of males". PLOS ONE. 6 (11): e27229. Bibcode:2011PLoSO...627229D. doi:10.1371/journal.pone.0027229. PMC 3206931. PMID 22073295.
+^ Arantes, T. P.; Lopes, W. D.; Ferreira, R. M.; Pieroni, J. S.; Pinto, V. M.; Sakamoto, C. A.; Costa, A. J. (October 2009). "Toxoplasma gondii: Evidence for the transmission by semen in dogs". Experimental Parasitology. 123 (2): 190–94. doi:10.1016/j.exppara.2009.07.003. PMID 19622353.
+^ J., Gutierrez; O'Donovan, J.; Williams, E.; Proctor, A.; Brady, C.; Marques, P. X.; Worrall, S.; Nally, J. E.; McElroy, M.; Bassett, H.; Sammin, D.; Buxton, D.; Maley, S.; Markey, B. K. (August 2010). "Detection and quantification of Toxoplasma gondii in ovine maternal and foetal tissues from experimentally infected pregnant ewes using real-time PCR". Veterinary Parasitology. 172 (1–2): 8–15. doi:10.1016/j.vetpar.2010.04.035. PMID 20510517.
+^ a b "CDC: Parasites – Toxoplasmosis (Toxoplasma infection) – Prevention & Control". Retrieved 13 March 2013.
+^ "Mayo Clinic – Toxoplasmosis – Prevention". Retrieved 13 March 2013.
+^ Green, Aliza (2005). Field Guide to Meat. Philadelphia, PA: Quirk Books. pp. 294–95. ISBN 9781594740176.
+^ Verma, R.; Khanna, P. (February 2013). "Development of Toxoplasma gondii vaccine: A global challenge". Human Vaccines & Immunotherapeutics. 9 (2): 291–93. doi:10.4161/hv.22474. PMC 3859749. PMID 23111123.
+^ "TOXPOX Result In Brief – Vaccine against Toxoplasmosis". CORDIS, European Commission. 14 January 2015. Retrieved 11 December 2015.
+^ "TOXOVAX®". MSD Animal Health. Archived from the original on 22 January 2016. Retrieved 10 November 2015.
+^ "CDC - Toxoplasmosis - Treatment". U.S. Centers for Disease Control. 28 February 2019. Retrieved 13 July 2021.
+^ Hollings, T.; Jones, M.; Mooney, N.; McCallum, H. (2013). "Wildlife disease ecology in changing landscapes: Mesopredator release and toxoplasmosis". International Journal for Parasitology: Parasites and Wildlife. 2: 110–118. doi:10.1016/j.ijppaw.2013.02.002. PMC 3862529. PMID 24533323.
+^ a b c Conrad, P. A.; Miller, M. A.; Kreuder, C.; James, E. R.; Mazet, J.; Dabritz, H.; Jessup, D. A.; Gulland, Frances; Grigg, M. E. (October 2005). "Transmission of Toxoplasma: Clues from the study of sea otters as sentinels of Toxoplasma gondii flow into the marine environment". International Journal for Parasitology. 35 (11–12): 1155–1168. doi:10.1016/j.ijpara.2005.07.002. PMID 16157341.
+^ "Sea Otter". Defenders of Wildlife. 2020.
+^ a b Ahlers, Adam A.; Mitchell, Mark A.; Dubey, Jitender P.; Schooley, Robert L.; Heske, Edward J. (1 April 2015). "Risk Factors for Toxoplasma gondii Exposure in Semiaquatic Mammals in a Freshwater Ecosystem". Wildlife Diseases. 51 (2): 488–492. doi:10.7589/2014-03-071. PMID 25574808.
+^ a b Acosta, I. C. L.; Souza-Filho, A. F.; Muñoz-Leal, S.; Soares, H. S.; Heinemann, M. B.; Moreno, L.; González-Acuña, D.; Gennari, S. M. (April 2019). "Evaluation of antibodies against Toxoplasma gondii and Leptospira spp. in Magellanic penguins (Speniscus magellanicus) on Magdalena Island, Chile". Veterinary Parasitology: Regional Studies and Reports. 16: 1–4. doi:10.1016/j.vprsr.2019.100282. PMID 31027597. S2CID 91996679.
+^ a b c Ploeg, M.; Ultee, T.; Kik, M. (2011). "Disseminated Toxoplasmosis in Black-footed Penguins (Spheniscus demersus)". Avian Diseases. 55 (4): 701–703. doi:10.1637/9700-030411-Case.1. PMID 22312996. S2CID 31105636.
+^ Greub, Gilbert; Raoult, Didier (April 2004). "Microorganisms Resistant to Free-living Amoebae". Clinical Microbiology Reviews. 17 (2): 413–433. doi:10.1128/CMR.17.2.413-433.2004. PMC 387402. PMID 15084508.
+^ Cirillo, Jeffrey D.; Falkow, Stanley; Tompkins, Lucy S.; Bermundez, Luiz E. (September 1997). "Interaction of Mycobacterium avium with environmental amoebae enhances virulence". Infection and Immunity. 65 (9): 3759–3767. doi:10.1128/iai.65.9.3759-3767.1997. PMC 175536. PMID 9284149.
+^ a b Winiecka-Krusnell, Jadwiga; Dellacasa-Lindberg, Isabel; Dubey, J. P.; Barragan, Antonio (February 2009). "Toxoplasma gondii: Uptake and survival of oocysts in free-living amoebae". Experimental Parasitology. 121 (2): 124–131. doi:10.1016/j.exppara.2008.09.022. PMID 18992742.
+^ Elloway, E. A. G.; Armstrong, R. A.; Bird, R. A.; Kelly, S. L.; Smith, S. N. (1 December 2004). "Analysis of Acanthamoeba polyphaga surface carbohydrate exposure by FITC-lectin binding and fluorescence evaluation". Journal of Applied Microbiology. 97 (6): 1319–1325. doi:10.1111/j.1365-2672.2004.02430.x. PMID 15546423. S2CID 23877072.
+^ Paquet, Valérie E.; Charette, Steve J. (8 February 2016). "Amoeba-resisting bacteria found in multilamellar bodies secreted by Dictyostelium discoideum: Social amoebae can also package bacteria". FEMS Microbiology Ecology. 92 (3): fiw025. doi:10.1093/femsec/fiw025. hdl:20.500.11794/313. PMID 26862140.
+^ Boehringer, Emilio Geronimo; Fornari, Oscar Elias; Boehringer, Irene K. (November 1962). "The first case of T. gondii in domestic ducks in Argentina". Avian Diseases. 6 (4): 391–396. doi:10.2307/1587913. JSTOR 1587913.
+^ Drobeck, Hans Peter; Manwell, Reginald D.; Bernstein, Emil; Dillon, Raymond D. (November 1953). "Further studies of toxoplasmosis in birds". American Journal of Epidemiology. 59 (3): 329–339. doi:10.1016/S0304-4017(02)00034-1.
+^ a b c Dubey, J. P. (June 2002). "A review of toxoplasmosis in wild birds". Veterinary Parasitology. 106 (2): 121–153. doi:10.1016/S0304-4017(02)00034-1. PMID 12031816.
+^ a b Yan, Chao; Liang, Li-Jun; Zheng, Kui-Yang; Zhu, Xing-Quan (10 March 2016). "Impact of environmental factors on the emergence, transmission and distribution of Toxoplasma gondii". Parasites & Vectors. 9: 137. doi:10.1186/s13071-016-1432-6. PMC 4785633. PMID 26965989.
+^ Elmore, Stacey A.; Jones, Jeffrey L.; Conrad, Patricia A.; Patton, Sharon; Lindsay, David S.; Dubey, J. P. (April 2010). "Toxoplasma gondii: Epidemiology, feline clinical aspects, and prevention". Trends in Parasitology. 26 (4): 190–196. doi:10.1016/j.pt.2010.01.009.
+^ a b Shapiro, Karen; Bahia-Oliveira, Lillian; Dixon, Brent; Dumètre, Aurélien; de Wit, Luiz A.; VanWormer, Elizabeth; Villena, Isabelle (April 2019). "Environmental transmission of Toxoplasma gondii: Oocysts in water, soil and food". Food and Waterborne Parasitology. 12: e00049. doi:10.1016/j.fawpar.2019.e00049. PMC 7033973.
+^ Dumètre, Aurélien; Le Bras, Caroline; Baffet, Maxime; Meneceur, Pascale; Dubey, J. P.; Derouin, Francis; Duguet, Jean-Pierre; Joveux, Michel; Moulin, Laurent (May 2008). "Effects of ozone and ultraviolet radiation treatments on the infectivity of Toxoplasma gondii oocysts". Veterinary Parasitology. 153 (3–4): 209–213. doi:10.1016/j.vetpar.2008.02.004. PMID 18355965.
+^ a b Lau, Y. L.; Lee, W. C.; Gudimella, R.; Zhang, G.; Ching, X. T.; Razali, R.; Aziz, F.; Anwar, A.; Fong, M. Y. (29 June 2016). "Deciphering the Draft Genome of Toxoplasma gondii RH Strain". PLOS ONE. 11 (6): e0157901. Bibcode:2016PLoSO..1157901L. doi:10.1371/journal.pone.0157901. PMC 4927122. PMID 27355363.
+^ Bontell, I. L.; Hall, N.; Ashelford, K. E.; Dubey, J. P.; Boyle, J. P.; Lindh, J.; Smith, J. E. (20 May 2009). "Whole genome sequencing of a natural recombinant Toxoplasma gondii strain reveals chromosome sorting and local allelic variants". Genome Biology. 10 (5): R53. doi:10.1186/gb-2009-10-5-r53. PMC 2718519. PMID 19457243.
+^ Kissinger, J. C.; Gajria, B.; Li, L.; Paulsen, I. T.; Roos, D. S. (January 2003). "ToxoDB: accessing the Toxoplasma gondii genome". Nucleic Acids Research. 31 (1): 234–36. doi:10.1093/nar/gkg072. PMC 165519. PMID 12519989.
+^ Gajria, B.; Bahl, A.; Brestelli, J.; Dommer, J.; Fischer, S.; Gao, X.; Heiges, M.; Iodice, J.; Kissinger, J. C.; Mackey, A. J.; Pinney, D. F.; Roos, D. S.; Stoeckert, C. J.; Wang, H.; Brunk, B. P. (January 2008). "ToxoDB: An integrated Toxoplasma gondii database resource". Nucleic Acids Research. 36 (Database issue): D553–56. doi:10.1093/nar/gkm981. PMC 2238934. PMID 18003657.
+^ "ToxoDB: The Toxoplasma Genomics Resource". toxodb.org. Retrieved 1 March 2018.
+^ Flegr, Jaroslav; Prandota, Joseph; Sovičková, Michaela; Israili, Zafar H. (24 March 2014). "Toxoplasmosis – A Global Threat. Correlation of Latent Toxoplasmosis with Specific Disease Burden in a Set of 88 Countries". PLOS ONE. 9 (3): e90203. Bibcode:2014PLoSO...990203F. doi:10.1371/journal.pone.0090203. ISSN 1932-6203. PMC 3963851. PMID 24662942.
+^ Norman, Jeremy M., ed. (1991). Morton's Medical Bibliography: An Annotated Check-list of Texts Illustrating the History of Medicine (5th ed.). Aldershot: Garrison and Morton / Scolar Press. p. 860 (§ 5535.1).
+^ Pfefferkorn, E. R. (1984). "Interferon gamma blocks the growth of Toxoplasma gondii in human fibroblasts by inducing the host cells to degrade tryptophan". Proceedings of the National Academy of Sciences. 81 (3): 908–912. Bibcode:1984PNAS...81..908P. doi:10.1073/pnas.81.3.908. PMC 344948. PMID 6422465.
+^ McConkey, G. A.; Martin, H. L.; Bristow, G. C.; Webster, J. P. (January 2013). "Toxoplasma gondii infection and behaviour – location, location, location?". The Journal of Experimental Biology. 216 (Pt 1): 113–19. doi:10.1242/jeb.074153. PMC 3515035. PMID 23225873.
+^ Flegr, J.; Lindová, J.; Kodym, P. (April 2008). "Sex-dependent toxoplasmosis-associated differences in testosterone concentration in humans". Parasitology. 135 (4): 427–31. doi:10.1017/S0031182007004064. PMID 18205984. S2CID 18829116.
+^ a b c Flegr, J. (May 2007). "Effects of toxoplasma on human behavior". Schizophrenia Bulletin. 33 (3): 757–60. doi:10.1093/schbul/sbl074. PMC 2526142. PMID 17218612.
+^ Hrdá, S.; Votýpka, J.; Kodym, P.; Flegr, J. (August 2000). "Transient nature of Toxoplasma gondii-induced behavioral changes in mice". The Journal of Parasitology. 86 (4): 657–63. doi:10.1645/0022-3395(2000)086[0657:TNOTGI]2.0.CO;2. PMID 10958436. S2CID 2004169.
+^ Hutchison, W. M.; Aitken, P. P.; Wells, B. W. (October 1980). "Chronic Toxoplasma infections and motor performance in the mouse". Annals of Tropical Medicine and Parasitology. 74 (5): 507–10. doi:10.1080/00034983.1980.11687376. PMID 7469564.
+^ Flegr, J.; Havlícek, J.; Kodym, P.; Malý, M.; Smahel, Z. (July 2002). "Increased risk of traffic accidents in subjects with latent toxoplasmosis: a retrospective case-control study". BMC Infectious Diseases. 2: 11. doi:10.1186/1471-2334-2-11. PMC 117239. PMID 12095427.
+^ Kocazeybek, B.; Oner, Y. A.; Turksoy, R.; Babur, C.; Cakan, H.; Sahip, N.; Unal, A.; Ozaslan, A.; Kilic, S.; Saribas, S.; Aslan, M.; Taylan, A.; Koc, S.; Dirican, A.; Uner, H. B.; Oz, V.; Ertekin, C.; Kucukbasmaci, O.; Torun, M. M. (May 2009). "Higher prevalence of toxoplasmosis in victims of traffic accidents suggest increased risk of traffic accident in Toxoplasma-infected inhabitants of Istanbul and its suburbs". Forensic Science International. 187 (1–3): 103–08. doi:10.1016/j.forsciint.2009.03.007. PMID 19356869.
+^ Torrey, E. F.; Bartko, J. J.; Lun, Z. R.; Yolken, R. H. (May 2007). "Antibodies to Toxoplasma gondii in patients with schizophrenia: a meta-analysis". Schizophrenia Bulletin. 33 (3): 729–36. doi:10.1093/schbul/sbl050. PMC 2526143. PMID 17085743.
+^ Arling, T. A.; Yolken, R. H.; Lapidus, M.; Langenberg, P.; Dickerson, F. B.; Zimmerman, S. A.; Balis, T.; Cabassa, J. A.; Scrandis, D. A.; Tonelli, L. H.; Postolache, T. T. (December 2009). "Toxoplasma gondii antibody titers and history of suicide attempts in patients with recurrent mood disorders". The Journal of Nervous and Mental Disease. 197 (12): 905–08. doi:10.1097/nmd.0b013e3181c29a23. PMID 20010026. S2CID 33395780.
+^ Ling, V. J.; Lester, D.; Mortensen, P. B.; Langenberg, P. W.; Postolache, T. T. (July 2011). "Toxoplasma gondii seropositivity and suicide rates in women". The Journal of Nervous and Mental Disease. 199 (7): 440–44. doi:10.1097/nmd.0b013e318221416e. PMC 3128543. PMID 21716055.
+^ Sugden, K.; Moffitt, T. E.; Pinto, L.; Poulton, R.; Williams, B. S.; Caspi, A. (2016). "Is Toxoplasma gondii Infection Related to Brain and Behavior Impairments in Humans? Evidence from a Population-representative Birth Cohort". PLOS ONE. 11 (2): e0148435. Bibcode:2016PLoSO..1148435S. doi:10.1371/journal.pone.0148435. PMC 4757034. PMID 26886853.
+^ Pearce, B. D.; Kruszon-Moran, D.; Jones, J. L. (2012). "The Relationship Between Toxoplasma gondii Infection and Mood Disorders in the Third National Health and Nutrition Survey". Biological Psychiatry. 72 (4): 290–95. doi:10.1016/j.biopsych.2012.01.003. PMC 4750371. PMID 22325983.
+^ Johnson, S. K.; Fitza, M. A.; Lerner, D. A.; Calhoun, D. M.; Beldon, M. A.; Chan, E. T.; Johnson, P. T. (2018). "Risky business: linking Toxoplasma gondii infection and entrepreneurship behaviours across individuals and countries". Proceedings of the Royal Society B: Biological Sciences. 285 (1883): 20180822. doi:10.1098/rspb.2018.0822. PMC 6083268. PMID 30051870.
+^ Kopecky, R.; Příplatová, L.; Boschetti, S.; Talmont-Kaminski, K.; Flegr, J. (2022). "Le Petit Machiavellian Prince: Effects of Latent Toxoplasmosis on Political Beliefs and Values". Evolutionary Psychology. 20 (3): 1–13. doi:10.1177/14747049221112657. PMC 10303488. PMID 35903902.
+^ Ellwood, Beth (5 October 2022). "A common parasitic disease called toxoplasmosis might alter a person's political beliefs". PsyPost. Retrieved 30 November 2022.
+^ Singh, Ananya (10 October 2022). "A Common Parasite Could Be Altering People's Political Beliefs, Suggests Study". The Swaddle. Retrieved 30 November 2022.
+^ Prandovszky, E.; Gaskell, E.; Martin, H.; Dubey, J. P.; Webster, J. P.; McConkey, G. A. (2011). "The neurotropic parasite Toxoplasma gondii increases dopamine metabolism". PLOS ONE. 6 (9): e23866. Bibcode:2011PLoSO...623866P. doi:10.1371/journal.pone.0023866. PMC 3177840. PMID 21957440.
+^ Webster, J. P.; Lamberton, P. H.; Donnelly, C. A.; Torrey, E. F. (22 April 2006). "Parasites as causative agents of human affective disorders? The impact of anti-psychotic, mood-stabilizer and anti-parasite medication on Toxoplasma gondii's ability to alter host behaviour". Proceedings. Biological Sciences. 273 (1589): 1023–30. doi:10.1098/rspb.2005.3413. PMC 1560245. PMID 16627289.
+^ Gaskell, E. A.; Smith, J. E.; Pinney, J. W.; Westhead, D. R.; McConkey, G. A. (2009). "A unique dual activity amino acid hydroxylase in Toxoplasma gondii". PLOS ONE. 4 (3): e4801. Bibcode:2009PLoSO...4.4801G. doi:10.1371/journal.pone.0004801. PMC 2653193. PMID 19277211.
+^ Sangrador, Amaia; Mitchell, Alex (6 November 2014). "Protein focus: Don't blame the cat – the toxoplasmosis effect". InterPro database blog. Archived from the original on 22 September 2016. Retrieved 27 May 2019.
+^ Hari Dass, S. A.; Vyas, A. (December 2014). "Toxoplasma gondii infection reduces predator aversion in rats through epigenetic modulation in the host medial amygdala". Molecular Ecology. 23 (24): 6114–22. Bibcode:2014MolEc..23.6114H. doi:10.1111/mec.12888. PMID 25142402. S2CID 45290208.
+^ Marris, Emma (24 November 2022). "Parasite gives wolves what it takes to be pack leaders". Nature. 612 (7939): 202. Bibcode:2022Natur.612..202M. doi:10.1038/d41586-022-03836-9. S2CID 253878990.
+External links[edit]
+Scholia has a topic profile for Toxoplasma gondii.
+ToxoDB : The Toxoplasma gondii genome resource
+at the VEuPathDB Bioinformatics Resource Center
+Parasites - Toxoplasmosis (Toxoplasma infection) by the Centers for Disease Control and Prevention
+Taking out Toxo and the Toxoplasmosis Research Institute and Center at the University of Chicago
+Anti-Toxo : A Toxoplasma news blog and list of research laboratories by Bill Sullivan of the School of Medicine at the Indiana University
+vteEukaryota: SAR: Alveolata
+Domain
+Archaea
+Bacteria
+Eukaryota
+(Major groups
+Diaphoretickes
+Plant
+Stramenopiles
+Alveolata
+Rhizaria
+Amorphea
+Amoebozoa
+Opisthokonta
+Animal
+Fungi)
+AcavomonidiaAcavomonadeaAcavomonadida (Acavomonas)CiliophoraIntramacronucleata
+Armophorea (Metopus)
+Cariacotrichea (Cariacothrix caudata)
+Colpodea (Colpoda)
+Litostomatea (Balantidium, Dileptus)
+Muranotrichea (Muranothrix)
+Nassophorea (Nassula)
+Oligohymenophorea (Ichthyophthirius, Paramecium, Tetrahymena, Vorticella)
+Parablepharismea (Parablepharisma)
+Phyllopharyngea (Chilodonella, Tokophrya)
+Plagiopylea (Plagiopyla)
+Prostomatea (Coleps, Holophrya)
+Protocruziea (Protocruzia)
+Spirotrichea (Euplotes, Stylonychia)
+Postciliodesmatophora
+Heterotrichea (Stentor, Climacostomum, Blepharisma)
+Karyorelictea (Loxodes, Tracheloraphis)
+Mesodiniea (Mesodinium, Myrionecta)ColponemidiaColponemadeaColponemadida (Colponema)MyzozoaApicomplexaAconoidasidaHaemospororida
+Garniidae (Garnia)
+Haemoproteidae (Haemoproteus)
+Leucocytozoidae (Leucocytozoon)
+Plasmodiidae (Plasmodium)
+Piroplasmida
+Babesiidae (Babesia)
+Theileriidae (Theileria)
+Cardiosporidium
+Nephromyces
+ConoidasidaCoccidiaAgamococcidiorida
+Gemmocystidae (Gemmocystis)
+Rhytidocystidae (Rhytidocystis)
+EucoccidioridaAdeleorina
+Adeleidae
+Dactylosomatidae (Babesiosoma, Dactylosoma)
+Haemogregarinidae (Haemogregarina)
+Hepatozoidae (Hepatozoon)
+Karyolysidae (Karyolysus)
+Klossiellidae (Klossiella)
+Legerellidae (Legerella)
+Eimeriorina
+Aggregatidae (Aggregata, Grasseella, Merocystis, Ovivora, Pseudoklossia, Selysina)
+Atoxoplasmatidae
+Barrouxiidae
+Calyptosporiidae
+Caryotrophidae
+Cryptosporidiidae (Cryptosporidium)
+Eimeriidae (Cyclospora, Eimeria, Isospora)
+Elleipsisomatidae
+Lankesterellidae
+Selenococcidiidae
+Sarcocystidae
+Sarcocystinae (Frenkelia, Sarcocystis)
+Toxoplasmatinae (Besnoitia, Hammondia, Hyaloklossia, Nephroisospora, Neospora, Toxoplasma)
+Ixorheorida
+Ixorheidae (Ixorheis)
+Protococcidiorida
+Angeiocystidae (Angeiocystis)
+Eleutheroschizonidae (Coelotropha, Defretinella, Eleutheroschizon)
+Grelliidae (Coelotropha, Grellia)
+Mackinnoniidae (Mackinnonia)
+Myriosporidae (Myriosporides, Myriospora)
+GregarinasinaArchigregarinorida
+Exoschizonidae (Exoschizon)
+Selenidioididae (Merogregarina, Meroselenidium, Selenidioides, Veloxidium)
+EugregarinoridaAseptatorina
+Aikinetocystidae
+Allantocystidae
+Diplocystidae
+Enterocystidae
+Ganymedidae
+Lecudinidae
+Monocystidae (Monocystinae, Oligochaetocystinae, Rhynchocystinae, Stomatophorinae, Zygocystinae)
+Schaudinnellidae
+Selenidiidae
+Thiriotiidae
+Urosporidae
+Blastogregarinorina
+Siedleckiidae (Siedleckia)
+Septatorina
+Fusionicae (Fusionidae)
+Gregarinicae (Cephaloidophoridae, Cephalolobidae, Didymophoridae, Gregarinidae, Hirmocystidae, Metameridae, Uradiophoridae)
+Porosporicae (Porosporidae)
+Stenophoricae (Acutidae, Amphiplatysporidae, Brustiophoridae, Cnemidosporidae, Dactylophoridae, Leidyanidae, Monoductidae, Monoicidae, Sphaerocystidae, Stenophoridae, Trichorhynchidae)
+Stylocephaloidea (Actinocephalidae, Stylocephalidae)
+Blabericolidae
+Neogregarinorida
+Schizogregarinina (Caulleryellidae, Ophryocystidae)
+Gigaductidae (Gigaductus)
+Lipotrophidae (Apicystis, Farinocystis, Lipotropha, Lipocystis, Mattesia, Menzbieria)
+Schizocystidae (Lymphotropha, Machadoella, Schizocystis)
+Syncystidae (Syncystis)
+ApicomonadeaChromerida
+Chromeraceae (Chromera velia)
+Vitrellaceae (Vitrella brassicaformis)
+Colpodellida
+Colpodellidae (Colpodella)
+Voromonadida
+Alphamonadidae (Alphamonas)
+Voromonadidae (Voromonas)
+DinoflagellataDinokaryota
+With a theca: Dinophysiales (Dinophysis, Histioneis, Ornithocercus, Oxyphysis)
+Gonyaulacales (Ceratium, Gonyaulax)
+Peridiniales (Pfiesteria, Peridinium)
+Prorocentrales (Prorocentrum)
+Without theca: Gymnodiniales (Amphidinium, Gymnodinium, Karenia, Karlodinium)
+Suessiales (Polarella, Symbiodinium)
+Noctilucea
+Noctilucales (Noctiluca)
+Syndinea
+Syndiniales: Amoebophryaceae (Amoebophyra)
+Duboscquellaceae (Duboscquella)
+Syndiniaceae (Hematodinium, Syndinium)
+Other
+Acrocoelidae (Acrocoelus)
+Ichthyodinium
+Oxyrrhinaceae (Oxyrrhis)
+Pronoctilucidae (Pronoctiluca)
+Psammosidae
+(Psammosa)
+PerkinsozoaPerkinsea
+Perkinsidae (Perkinsus)
+Phagodinida (Phagodinium)
+Rastromonadida (Parvilucifera, Rastrimonas)
+ProtoalveolataEllobiopsea
+Ellobiopsidae (Elliobiocystis, Ellobiopsis, Parallobiopsis, Thalassomyces, Rhizellobiopsis)
+MyzomonadeaAlgovorida
+Algovoridae (Algovora)
+Chilovorida
+Chilovoridae (Chilovora)
+Squirmidea
+Squirmidae (Filipodium, Platyproteum)
+vteProtozoan infection: SAR and ArchaeplastidaSARAlveolateApicomplexaConoidasida/Coccidia
+Coccidia: Cryptosporidium hominis/Cryptosporidium parvum
+Cryptosporidiosis
+Cystoisospora belli
+Isosporiasis
+Cyclospora cayetanensis
+Cyclosporiasis
+Toxoplasma gondii
+Toxoplasmosis
+Aconoidasida
+Plasmodium falciparum/vivax/ovale/malariae/knowlesi
+Malaria
+Blackwater fever
+Babesia
+Babesiosis
+Ciliophora
+Balantidium coli
+Balantidiasis
+Heterokont
+Blastocystis
+Blastocystosis
+Pythium insidiosum
+Pythiosis
+Archaeplastida
+Algaemia: Prototheca wickerhamii
+Protothecosis
+Taxon identifiersToxoplasma gondii
+Wikidata: Q131003
+Wikispecies: Toxoplasma gondii
+AFD: Toxoplasma_gondii
+BOLD: 705821
+EoL: 2908714
+EPPO: TOXPGO
+GBIF: 8014281
+iNaturalist: 366905
+IRMNG: 11736205
+ISC: 61379
+NCBI: 5811
+NZOR: 05ed8648-da26-46fc-8ea4-98f3e7824e93
+WoRMS: 563542
+Leishmania gondii
+Wikidata: Q78187637
+GBIF: 10402874
+Authority control databases: National
+Israel
+Czech Republic

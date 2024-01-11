@@ -1,0 +1,246 @@
+Night in the Woods
+2017 video game
+This article is about the 2017 video game. For the 2012 horror film, see A Night in the Woods.
+"Gregg Lee" redirects here. For other people, see Greg Lee (disambiguation).
+2017 video gameNight in the WoodsDigital storefront artworkDeveloper(s)
+Infinite Fall
+Secret Lab
+Publisher(s)FinjiDesigner(s)
+Alec Holowka
+Scott Benson
+Bethany Hockenberry
+Programmer(s)
+Alec Holowka
+Jon Manning
+Paris Buttfield-Addison
+Artist(s)
+Scott Benson
+Charles Huettner
+Sven Ruthner
+Writer(s)
+Bethany Hockenberry
+Scott Benson
+Composer(s)
+Alec Holowka
+Scott Benson
+EngineUnityPlatform(s)WindowsMacLinuxPlayStation 4Xbox OneNintendo SwitchiOSRelease
+February 21, 2017
+Windows, Mac, LinuxNA: February 21, 2017EU: February 28, 2017JP: April 1, 2019PS4NA: February 21, 2017EU: February 28, 2017JP: March 28, 2019Xbox OneWW: December 13, 2017SwitchWW: February 1, 2018JP: March 28, 2019iOSWW: September 9, 2021
+Genre(s)AdventureMode(s)Single-player
+Night in the Woods is a 2017 single-player adventure video game developed by Infinite Fall and published by Finji. The story follows a young woman named Mae Borowski,[1] who drops out of college and returns to her hometown to find unexpected changes. The game was funded via Kickstarter, where it earned over 400% of its initial US$50,000 funding goal.[2]
+Prior to the release of Night in the Woods, a companion game titled Longest Night was released in December 2013 by Holowka and Benson, along with co-writer Bethany Hockenberry.[3] In December 2014, a second supplemental game was released, titled Lost Constellation.[4]
+The game was released on February 21, 2017, for Microsoft Windows, Mac, Linux, and PlayStation 4, after a pushed-back original release date of January 10. The Xbox One version was released on December 13, 2017.[5] An extended version of the game, titled the Weird Autumn edition, was released for Windows, Mac, Linux, PlayStation 4, and Xbox One on December 13, 2017, and also for Nintendo Switch on February 1, 2018. It features new content not seen in the first release, as well as the supplemental games.[6] A version for iOS was released later on September 9, 2021.
+Night in the Woods received critical praise for the soundtrack, story, dialogue, and characters.
+Overview and gameplay[edit]
+Mae has returned home to Possum Springs, a town populated by zoomorphic humans.[1] Now living in her parents' attic, she discovers how much times have changed since the closing of the town's coal mines. She is forced to confront a horrible secret the town has hidden for decades involving not only the town's mine, but also the recent disappearance of her longtime friend Casey. Mae's friends also include Bea, a cigarette-smoking crocodile and Mae's childhood friend; Gregg, a hyperactive fox; and his boyfriend, a bear named Angus. Paste magazine describes the themes covered as "mental illness, depression, the stagnancy of the middle and lower classes, and the slow death of small town America."[7]
+Scott Benson described the key actions for the player as "explore, converse, see and touch", while Alec Holowka described their approach as "narrative-focused" rather than "gameplay-first".[8] Players make decisions that affect the course of the story, though Benson said, "it's more like 'do you hang out with this person?' Okay, cool. That person might not know you as well by the end of the game, but this person you hung out with, you're going to get to see their storyline."[9]
+Plot[edit]
+Margaret "Mae" Borowski is a 20-year-old college dropout, who relocates back to her Rust Belt-inspired hometown of Possum Springs, where the closure of local coal mines has led to visible economic stagnation. She meets up with her old friends, including gloomy but intelligent Beatrice "Bea" Santello, hyperactive delinquent Greggory "Gregg" Lee, and his quiet modest boyfriend Angus Delaney. Mae also learns that another one of her old friends, Casey Hartley, has mysteriously disappeared.
+Mae spends several days exploring Possum Springs and hanging out with her friends, but she also begins to have strange and vivid dreams. At the town's autumn "Harfest" (Halloween) festival, she witnesses a teenager being kidnapped by a mysterious figure, whom Mae believes is a ghost; her friends are skeptical. The four hesitantly work together to figure out the goings-on, as Mae's mental health slowly deteriorates with each dream. After intensive investigation, the friends come across a mysterious group of cloaked figures in the woods, who give chase; Mae falls and lapses into a coma, while her friends manage to escape.
+Mae is rescued by churchgoers, then eventually wakes up and returns to her friends, where she reveals that she dropped out due to her increasing dissociation from people and the world, seeing everything as mere shapes. Mae's journal, in which she draws pictures for each major in-game event, was given to her by the town doctor to write down her emotions after she bludgeoned a student with a softball bat during a dissociative episode six years prior to the game's events. This incident caused the townsfolk to become wary of Mae and imposed a financial and emotional strain on her family. Mae's dissociation worsened at college, so she chose to return home, hoping that being in a familiar place would help her return to normal.
+Still wounded, Mae ventures out into the woods to find the hooded group, only for Gregg, Bea, and Angus to arrive, refusing to let her go alone. The group enters the old mines and confronts the mysterious cult, who has been kidnapping people who "will not be missed", including their missing friend Casey, into the mines to be sacrificed to a god-like chthonic entity called the Black Goat in the hope that it will revitalize the economy of Possum Springs. The cult's leader allows the group to leave, threatening them never to tell anyone about the cult. But while the group is leaving in the mine's elevator, a cultist ambushes them and attacks Mae. The others manage to save her and the elevator falls, collapsing the mine and presumably trapping the cult underground.
+The next day, depending on whom the player interacted with the most throughout the course of the game, Mae sits down with either Bea or Gregg and discusses the events of the previous night, and all the happenings in Possum Springs. The others join them shortly after, and Mae learns that although they will all be forced to grow and adapt to life, for better or for worse, they can still enjoy their time together now. The game ends with the four deciding to forget about their problems for the time being and have band practice.
+Development[edit]
+Prior to the release of Night in the Woods, a companion game titled Longest Night was released in December 2013 by Holowka and Benson, along with co-writer Bethany Hockenberry.[10] In December 2014, a second supplemental game was released, titled Lost Constellation.[11]
+Night in the Woods was announced on October 22, 2013, via Kickstarter. Holowka and Benson set a US$50,000 funding goal, which was reached in only 26 hours.[12] The project eventually earned over US$200,000 in crowdfunding. The additional funding allowed Infinite Fall to hire animator Charles Huettner to create additional animations, and for Infinite Ammo and game developer Adam Saltsman to create a roguelike that is playable within Night in the Woods. While Benson believed adding further stretch goals would result in additional backers, Infinite Fall limited the number of stretch goals to avoid scope creep.[13] Benson names Chris Ware, Mike Mignola, Mary Blair, Flannery O’Connor, and Richard Scarry as influences on his work on Night in the Woods.[14][15] He later stated the name was taken from the first song in The World/Inferno Friendship Society's album The Bridgewater Astral League, which influenced certain themes in the game, as well.[16]
+In October 2017, it was announced that the game would be ported to iOS devices by Australian studio Secret Lab, who created the narrative engine used by the game.[17][18][19] The port was tentatively due for release in 2018, but released on September 9, 2021.[20][21] In January 2018, the game was officially announced for the Nintendo Switch, and was released for the console the following month, including all content from the Weird Autumn edition.[22] A physical version was planned to be released through Limited Run Games, but was delayed indefinitely after the rest of the development team cut their ties with Holowka, following accusations of physical and emotional abuse by Holowka's ex-partner Zoë Quinn.[20][23] Five years after the game's release, Limited Run Games would officially start accepting preorders for the physical version starting December 18, 2022 and lasting until January 29, 2023. The collector's edition includes the game, the soundtracks for both the main game and Demon Tower on CD, acrylic stands, a coin, a physical version of Mae's journal, a planisphere, glow-in-the-dark cards and sticker sheets.[24]
+Soundtrack[edit]
+Alec Holowka created the soundtrack for Night in the Woods. Three albums of the game's music were released via Bandcamp on March 9, 2017.[25] Holowka named DIIV as a large influence on the game's score.[14]
+Reception[edit]
+ReceptionAggregate scoresAggregatorScoreMetacriticPC: 88/100[26]PS4: 87/100[27]XONE: 75/100[28]NS: 85/100[29]OpenCritic86/100[30]Review scoresPublicationScoreDestructoid9.5/10 [31]Game Informer8.8/10 [32]GameSpot9/10 [33]IGN8.7/10 [34]Nintendo Life9/10 [35]PC Gamer (US)8.2/10 [36]Polygon7.5/10 [37]Push Square9/10 [38]
+Night in the Woods received very favourable reviews. On Metacritic, the PS4 version has an average score of 87 from 15 critics,[27] and the PC version has an average score of 88 from 30 critics.[26] Praise is mainly given to the writing and characters. In Japan, where the PlayStation 4 and Switch versions were ported and published by Playism on March 28, 2019,[39] Famitsu gave them each a score of one nine and three eights for a total of 33 out of 40.[40]
+Eurogamer ranked the game 13th on their list of the "Top 50 Games of 2017",[41] and GamesRadar+ ranked it 17th on their list of the 25 Best Games of 2017,[42] while Polygon ranked it 23rd on their list of the 50 best games of 2017.[43] The game was nominated for "Best Comedy Game" in PC Gamer's 2017 Game of the Year Awards.[44] It won the award for "Best Adventure Game" in IGN's Best of 2017 Awards,[45] whereas its other nominations were for "Best Art Direction", "Best Story", and "Best Original Music".[46][47][48] In Giant Bomb's 2017 Game of the Year Awards, the game won the award for "Best Cast of Characters", and was a runner-up each for "Best Debut", "Best Story", and "Game of the Year".[49][50] It also won the award for "Best Character" (Mae) and "Best Dialogue" in Game Informer's 2017 Adventure Game of the Year Awards.[51] Before that, the game won the award "Best 2D Visuals" and the overall award "Golden Cube" in the Unity Awards 2017, whereas it was nominated for "Best Desktop/Console Game".[52]
+Awards[edit]
+Year
+Award
+Category
+Result
+Ref
+2017
+SXSW Gamer's Voice Awards 2017
+Gamer's Voice (Single Player)
+Nominated
+[53]
+Golden Joystick Awards
+Best Storytelling
+Nominated
+[54][55]
+Best Visual Design
+Nominated
+Best Indie Game
+Nominated
+Breakthrough Award (Infinite Fall)
+Nominated
+The Game Awards 2017
+Games for Impact
+Nominated
+[56]
+Best Independent Game
+Nominated
+Titanium Awards
+Best Indie Game
+Nominated
+[57]
+2018
+21st Annual D.I.C.E. Awards
+D.I.C.E. Sprite Award
+Nominated
+[58]
+Outstanding Achievement in Story
+Nominated
+National Academy of Video Game Trade Reviewers Awards
+Art Direction, Contemporary
+Nominated
+[59]
+Writing in a Comedy
+Won
+SXSW Gaming Awards 2018
+Most Promising Intellectual New Property
+Nominated
+[60][61]
+Most Fulfilling Community-Funded Game
+Won
+Excellence in Narrative
+Nominated
+Matthew Crump Cultural Innovation Award
+Nominated
+Trending Game of the Year
+Nominated
+Independent Games Festival Competition Awards
+Seumas McNally Grand Prize
+Won
+[62][63]
+Excellence in Visual Art
+Nominated
+Excellence in Narrative
+Won
+Game Developers Choice Awards
+Best Debut (Infinite Fall)
+Nominated
+[64][65]
+Best Narrative
+Nominated
+Best Visual Art
+Nominated
+14th British Academy Games Awards
+Debut Game
+Nominated
+[66][67]
+Game Beyond Entertainment
+Nominated
+Narrative
+Won
+Original Property
+Nominated
+Legacy[edit]
+Penelope Scott's 2020 song "Rät" references the game in its lyrics, specifically Selmers' dream of leaving Possum Springs.[68]
+In June 2022, during a Portland Timbers match against Houston Dynamo FC, Mae was depicted in a banner with an axe in a three-banner display, reading "From Stonewall a brick and Portland an axe, respect our pride or expect our wrath". The developers have stated that Mae's character is pansexual. In a tweet in reaction to the banner, Scott Benson stated that he endorsed the message and that his "jaw dropped" upon seeing it.[69][70]
+Cancelled sequel[edit]
+In May 2023, Revenant Hill was announced by The Glory Society, a cooperative game development studio that included Benson and Hockenberry. The game featured a similar art style to Night in the Woods.[71] In November 2023, the studio closed down and the game was canceled due to the lead developer, Scott Benson developing severe heart disease. The illness also led to the Glory Society to suspend operations.[72]
+References[edit]
+^ a b Benson, Scott (March 30, 2017). "Developer Scott Benson on Characters' Identity". curiouscat.me. Archived from the original on February 18, 2018. Retrieved 2018-02-17.
+^ "Kickstarter, Night in the Woods project page". Kickstarter. November 22, 2013. Archived from the original on August 28, 2018. Retrieved February 25, 2015.
+^ "Longest Night". itch.io. December 21, 2013. Archived from the original on August 19, 2018. Retrieved February 21, 2017.
+^ "Lost Constellation". itch.io. December 31, 2014. Archived from the original on September 25, 2018. Retrieved February 25, 2015.
+^ "Night in the Woods Is Coming to Switch This Week". twinfinite.net. 16 January 2018. Retrieved 2018-01-16.
+^ "Night In The Woods: Weird Autumn expands on the original, comes to Switch Feb. 1 (update)". polygon.com. 30 October 2017. Archived from the original on 2018-02-25. Retrieved 2019-11-11.
+^ Martin, Garrett; Irwin, Jon (June 22, 2015). "The 10 Best Videogames We Played at E3 2015". Paste. Archived from the original on September 10, 2018. Retrieved March 7, 2017.
+^ Cox, Davis (May 1, 2014). "The charming, melancholy Night in the Woods picks up where Gone Home left off". Kill Screen. Archived from the original on September 8, 2015. Retrieved September 5, 2015.
+^ Matulef, Jeffrey (June 25, 2014). "Night in the Woods is like Gone Home, in third-person, with talking animals". Eurogamer. Archived from the original on July 15, 2018. Retrieved February 25, 2015.
+^ "Longest Night". itch.io. December 21, 2013. Archived from the original on August 19, 2018. Retrieved February 21, 2017.
+^ "Lost Constellation". itch.io. December 31, 2014. Archived from the original on September 25, 2018. Retrieved February 25, 2015.
+^ "FULLY FUNDED! Also, stretch goals? Consoles? Linux?". Kickstarter. October 24, 2013. Archived from the original on August 28, 2018. Retrieved February 25, 2015.
+^ Kuchera, Ben (November 12, 2013). "The goals that refused to stretch: Why Night in the Woods said no to Kickstarter tradition". The Penny Arcade Report. Archived from the original on December 11, 2013. Retrieved September 5, 2015.
+^ a b Ligman, Kris (December 2, 2013). "Q&A: How Night in the Woods taps into a real sense of community". Gamasutra. Archived from the original on August 28, 2018. Retrieved September 5, 2015.
+^ Ewert-Krocker, Nate (March 9, 2017). "'Rust Belt Gothic': lead writer Scott Benson unpacks the art that inspired Night in the Woods". ZAM Network. Archived from the original on March 7, 2018. Retrieved March 11, 2017.
+^ "The Bridgewater Astral League by Scott Benson". itch.io. Retrieved 2022-06-05.
+^ "Small Towns, Small Screens: Night in the Woods is coming to mobile". Secret Lab. Archived from the original on 2018-03-23. Retrieved 2018-03-23.
+^ Fingas, Jon. "Relentlessly witty 'Night in the Woods' comes to your phone in 2018". Engadget. Archived from the original on 2017-10-26. Retrieved 2017-10-27.
+^ Gilyadov, Alex (2017-10-23). "Night in the Woods Mobile Version Announced". IGN. Archived from the original on 2017-10-26. Retrieved 2017-10-27.
+^ a b Kim, Matt (2019-08-28). "Night In The Woods Studio Cuts Ties With Developer Accused of Sexual Assault, Cancels Game". IGN. Archived from the original on 2019-12-16. Retrieved 2019-11-28.
+^ Gregson-Wood, Stephen (September 9, 2021). "Night in the Woods, the critically acclaimed adventure game, is now available for iOS". Pocket Gamer.
+^ Reseigh-Lincoln, Dom (January 16, 2018). "The Anthropomorphic Mystery Of Night In The Woods Arrives On Switch This Feb". Nintendo Life. Archived from the original on February 21, 2018. Retrieved February 4, 2018.
+^ Kim, Matt T.M. (August 29, 2019). "Night In The Woods Studio Cuts Ties With Developer Accused of Sexual Assault, Cancels Game - IGN".
+^ "Night in the Woods - Limited Run Games". December 17, 2022.
+^ "Night in the Woods Vol. 1: At The End Of Everything". Bandcamp. Archived from the original on September 22, 2018. Retrieved March 11, 2017.
+^ a b "Night in the Woods for PC Reviews". Metacritic. Archived from the original on May 23, 2018. Retrieved March 23, 2017.
+^ a b "Night in the Woods for PlayStation 4 Reviews". Metacritic. Archived from the original on May 30, 2018. Retrieved March 23, 2017.
+^ "Night in the Woods for Xbox One Reviews". Metacritic. Retrieved December 27, 2020.
+^ "Night in the Woods for Switch Reviews". Metacritic. Retrieved December 27, 2020.
+^ "Night in the Woods Reviews". OpenCritic.
+^ Porreca, Ray (30 March 2017). "Review: Night in the Woods". Destructoid. Archived from the original on 22 March 2020. Retrieved 6 April 2020.
+^ "GameInformer". Game Informer. Archived from the original on 2018-01-18. Retrieved 2018-11-26.
+^ "Night In The Woods review". GameSpot. Archived from the original on 2018-09-03. Retrieved 2017-05-01.
+^ "Night In The Woods Review". IGN. 25 February 2017. Archived from the original on 2018-04-04. Retrieved 2017-05-01.
+^ Reseigh-Lincoln, Dom (4 February 2018). "Night In The Woods". Nintendo Life. Archived from the original on 6 April 2020. Retrieved 6 April 2020.
+^ "Night in the Woods review". PC Gamer. 28 February 2017. Archived from the original on 2018-01-25. Retrieved 2017-05-01.
+^ "Night in the Woods review". Polygon. 3 March 2017. Archived from the original on 2018-08-22. Retrieved 2017-05-01.
+^ Banas, Graham (5 March 2017). "Night In The Woods". Push Square. Archived from the original on 6 April 2020. Retrieved 6 April 2020.
+^ Finji staff (February 2, 2019). "Night in the Woods gets a Japanese Release thanks to Playism!". Finji. Archived from the original on September 1, 2019. Retrieved September 1, 2019.
+^ rawmeatcowboy (April 3, 2019). "Famitsu – review scores for April 3rd, 2019". GoNintendo. Archived from the original on September 1, 2019. Retrieved September 1, 2019.
+^ Eurogamer staff (December 29, 2017). "Eurogamer's Top 50 Games of 2017: 20-11". Eurogamer. Archived from the original on January 9, 2018. Retrieved December 31, 2017.
+^ GamesRadar staff (December 22, 2017). "The best games of 2017". GamesRadar+. Archived from the original on October 3, 2017. Retrieved March 25, 2018.
+^ Polygon staff (December 18, 2017). "The 50 best games of 2017". Polygon. Archived from the original on March 31, 2019. Retrieved February 12, 2018.
+^ PC Gamer staff (December 8, 2017). "Games of the Year 2017: The nominees". PC Gamer. Archived from the original on January 6, 2018. Retrieved January 1, 2018.
+^ "Best of 2017 Awards: Best Adventure Game". IGN. December 20, 2017. Archived from the original on December 23, 2017. Retrieved December 23, 2017.
+^ "Best of 2017 Awards: Best Art Direction". IGN. December 20, 2017. Archived from the original on December 16, 2017. Retrieved December 23, 2017.
+^ "Best of 2017 Awards: Best Story". IGN. December 20, 2017. Archived from the original on January 1, 2018. Retrieved December 23, 2017.
+^ "Best of 2017 Awards: Best Original Music". IGN. December 20, 2017. Archived from the original on March 27, 2019. Retrieved December 23, 2017.
+^ Giant Bomb staff (December 28, 2017). "Game of the Year 2017 Day Four: Debut, New Characters, Story, and Styyyyyyyyyyyyyyyyyle". Giant Bomb. Archived from the original on March 27, 2019. Retrieved December 28, 2017.
+^ Giant Bomb staff (December 29, 2017). "Game of the Year 2017 Day Five: Best, Worst, Cast, and Capture". Giant Bomb. Archived from the original on March 27, 2019. Retrieved December 29, 2017.
+^ Favis, Elise (January 9, 2018). "The 2017 Adventure Game Of The Year Awards". Game Informer. Archived from the original on January 13, 2018. Retrieved January 9, 2018.
+^ "Awards – Unity Awards 2017". Unity. Archived from the original on September 13, 2017. Retrieved October 4, 2017.
+^ Aviles, Estevan (January 31, 2017). "Gamer's Voice Nominees Revealed for SXSW Gaming 2017". SXSW. Archived from the original on February 20, 2018. Retrieved February 20, 2018.
+^ Gaito, Eri (November 13, 2017). "Golden Joystick Awards 2017 Nominees". Best in Slot. Archived from the original on January 10, 2018. Retrieved December 23, 2017.
+^ Weber, Rachel (November 17, 2017). "The Legend of Zelda: Breath of the Wild scores big at the 35th Golden Joystick Awards presented with OMEN by HP". GamesRadar+. Archived from the original on November 17, 2017. Retrieved December 23, 2017.
+^ Makuch, Eddie (December 8, 2017). "The Game Awards 2017 Winners Headlined By Zelda: Breath Of The Wild's Game Of The Year". GameSpot. Archived from the original on December 9, 2017. Retrieved December 23, 2017.
+^ "The list of finalists for the Fun & Serious Titanium Awards has been revealed". Fun & Serious Game Festival. 2017. Archived from the original on November 12, 2019. Retrieved November 8, 2019.
+^ Makuch, Eddie (January 14, 2018). "Game Of The Year Nominees Announced for DICE Awards". GameSpot. Archived from the original on January 17, 2018. Retrieved January 18, 2018.
+^ "2017 Awards". Archived from the original on 2019-12-23. Retrieved 2020-06-15.
+^ McNeill, Andrew (January 31, 2018). "Here Are Your 2018 SXSW Gaming Awards Finalists!". SXSW. Archived from the original on February 1, 2018. Retrieved February 1, 2018.
+^ IGN Studios (March 17, 2018). "2018 SXSW Gaming Awards Winners Revealed". IGN. Archived from the original on March 18, 2018. Retrieved March 18, 2018.
+^ Faller, Patrick (January 5, 2018). "Independent Games Festival Awards Nominees Announced". GameSpot. Archived from the original on January 7, 2018. Retrieved January 6, 2018.
+^ Whitney, Kayla (March 22, 2018). "Complete list of 2018 Independent Games Festival Awards Winners". AXS. Archived from the original on July 1, 2018. Retrieved March 22, 2018.
+^ Gamasutra staff (January 5, 2018). "Breath of the Wild & Horizon Zero Dawn lead GDC 2018 Choice Awards nominees!". Gamasutra. Archived from the original on March 27, 2019. Retrieved January 8, 2018.
+^ Makuch, Eddie (March 21, 2018). "Legend Of Zelda: Breath Of The Wild Wins Another Game Of The Year Award". GameSpot. Archived from the original on March 27, 2019. Retrieved March 22, 2018.
+^ deAlessandri, Marie (March 15, 2018). "Hellblade: Senua's Sacrifice at forefront of BAFTA Games Awards nominations". MCV. Archived from the original on March 16, 2018. Retrieved March 16, 2018.
+^ Makedonski, Brett (April 12, 2018). "BAFTA names What Remains of Edith Finch its best game of 2017". Destructoid. Archived from the original on April 25, 2018. Retrieved April 12, 2018.
+^ Penelope Scott "Rät" Official Lyrics & Meaning | Verified, retrieved 2022-09-17
+^ "Night In The Woods Featured In Amazing Pride Demonstration". Kotaku. 2022-06-30. Retrieved 2022-07-01.
+^ Murray, Sean (2022-07-01). "Night In The Woods' Mae Delivers Message Of Pride At Portland Football Match". TheGamer. Retrieved 2022-07-01.
+^ Diaz, Ana (24 May 2023). "Night in the Woods' creators are back to spooky cats and politics with Revenant Hill". Polygon. Vox Media. Retrieved 8 November 2023.
+^ Chalk, Andy (2023-11-08). "Revenant Hill, the spiritual successor to Night in the Woods, is cancelled as developers struggle with serious health issues". PC Gamer. Retrieved 2024-01-11.
+External links[edit]
+Official website
+vteSeumas McNally Grand Prize1990s
+Fire and Darkness (1999)
+2000s
+Tread Marks (2000)
+Shattered Galaxy (2001)
+Bad Milk (2002)
+Wild Earth (2003)
+Savage: The Battle for Newerth (2004)
+Oasis (2004)
+Gish (2005)
+Wik and the Fable of Souls (2005)
+Darwinia (2006)
+Aquaria (2007)
+Crayon Physics Deluxe (2008)
+Blueberry Garden (2009)
+2010s
+Monaco (2010)
+Minecraft (2011)
+Fez (2012)
+Cart Life (2013)
+Papers, Please (2014)
+Outer Wilds (2015)
+Her Story (2016)
+Quadrilateral Cowboy (2017)
+Night in the Woods (2018)
+Return of the Obra Dinn (2019)
+2020s
+A Short Hike (2020)
+Umurangi Generation (2021)
+Inscryption (2022)
+Betrayal at Club Low (2023)
+Portals: Canada Video games

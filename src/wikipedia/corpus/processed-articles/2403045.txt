@@ -1,0 +1,155 @@
+Paramachaerodus
+Extinct genus of carnivores
+ParamachaerodusTemporal range: Middle to Late Miocene
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+†Machairodontinae
+Tribe:
+†Smilodontini
+Genus:
+†ParamachaerodusPilgrim, 1913
+Type species
+Paramachaerodus orientalis(Kittl, 1887) sensu Pilgrim, 1913
+Other species
+Paramachaerodus maximiliani (Zdansky, 1924) sensu Pilgrim, 1931
+Paramachaerodus transasiaticus
+Paramachaerodus yingliangi
+Synonyms[1][2]
+Paramachaerodus
+Paramachairodus
+Pontosmilus Kretzoi, 1929
+Protamphimachairodus Kretzoi, 1929
+Propontosmilus Kadic and Kretzoi, 1930
+synonyms of P. orientalis
+Machaerodus orientalis Kittl, 1887
+Machairodus schlosseri Weithofer, 1888
+Felis orientalis (Kittl, 1887) sensu Boule, 1901
+Felis schlosseri (Weithofer, 1888) sensu Boule, 1901
+Machairodus hungaricus Kormos, 1911
+Pontosmilus indicus Kretzoi, 1929
+Pseudaelurus sivalensis Lydekker, 1877
+Aelurogale sivalensis (Lydekker, 1877) sensu Lydekker, 1884
+Aelurictis sivalensis (Lydekker, 1877) sensu Pilgrim, 1910
+Sivaelurus sivalensis (Lydekker, 1877) sensu Pilgrim, 1913
+Paramachaerodus sivalensis (Lydekker, 1877) sensu Pilgrim, 1915
+Machaerodus sivalensis (Lydekker, 1877) sensu Matthew, 1929
+Propontosmilus sivalensis (Lydekker, 1877) sensu Kretzoi, 1929
+Propontosmilus matthewi Kadic & Kretzoi, 1930
+Paramachaerodus indicus (Kretzoi, 1929) sensu Pilgrim, 1932
+Paramachaerodus schlosseri (Weithofer, 1888) sensu Kretzoi, 1938
+Paramachaerodus hungaricus (Kormos, 1911) sensu Kretzoi, 1938
+Propontosmilus matthewi (Kadic & Kretzoi, 1930) sensu Kretzoi, 1938
+Pontosmilus orientalis (Kittl, 1887) sensu Kretzoi, 1938
+Paramachaerodus matthewi (Kadic & Kretzoi, 1930) sensu Kretzoi, 1951
+Megantereon orientalis (Kittl, 1887) sensu Kurten, 1976
+Pontosmilus hungaricus
+Pontosmilus schlosseri
+synonyms of P. maximiliani
+Machaerodus maximiliani Zdansky, 1924
+Protamphimachairodus maximiliani (Zdansky, 1924) sensu Kretzoi, 1929
+Protamphimachairodus indicus Simpson, 1945
+Paramachaerodus is an extinct genus of saber-tooth cat of the subfamily Machairodontinae, which was endemic to Europe and Asia during the late Miocene from 15 to 9 Ma.[3]
+Paramacheirodus is one of the oldest known true saber-toothed cats. Many fossils were discovered in Cerro de los Batallones, a Late Miocene fossil site near Madrid, Spain. One leopard-sized species is known, Paramachaerodus orientalis from the Turolian. A second species, Paramachairodus maximiliani, has been considered a synonym of Paramachaerodus orientalis by some authors,[4] but was considered a valid species in the most recent systematic revision.[1] That revision, based on an extensive morphological analysis, also determined that the species P. ogygia exhibited less derived sabertooth features than the other Paramachairodus species and should be assigned to a separate genus, Promegantereon.[1][5]
+History and naming[edit]
+In 1913, Guy Ellcock Pilgrim named the new genus Paramachaerodus for the species Machaerodus orientalis, Machaerodus schlosseri, and Felis ogygia; at the time, however, he failed to designate a type species. In 1915 he described more material that he assigned to Paramachaerodus cf. schlosseri (two hemimandibles, GSI-140 and GSI-141), though Matthew (1929) noted that both of those specimens did not closely resemble others in the genus. He rectified the lack of a type species in 1931 by designating Paramachaerodus orientalis the type species, now including Paramachaerodus schlosseri as a junior synonym.[1]
+However, in the intervening span of time, Miklos Kretzoi had proposed another new genus, Pontosmilus, for the species P. orientalis (also the type species), P. schlosseri, P. ogygia, P. hungaricus, and the new species Pontosmilus indicus that he described based on GSI-141. He restricted Paramachaerodus to another new species, P. pilgrimi, that he described based on GSI-140. He also proposed the genus Proamphimachairodus for the species Machairodus maximiliani.[1]
+With Pilgrim's clarification of Paramachaerodus in 1931, and utter rejection of both Pontosmilus and Proamphimachairodus-he included Machairodus orientalis, Felis ogygia, and Machairodus maximiliani as species of Paramachaerodus-Pontosmilus was rendered an invalid genus, for it possessed no valid type species, and both Pontosmilus and Proamphimachairodus were designated junior synonyms of Paramachaerodus.[1]
+A major review of the genus in 2010 designated P. matthewi, P. schlosseri, P. hungaricus as junior synonyms of P. orientalis, with P. maximiliani the only other valid species in Paramachaerodus, and assigning P. agygia back to Promegantereon. It also noted that "Pontosmilus" indicus (GSI-141) was a feline, and "Pontosmilus" pilgrimi (GSI-140) a machairodontine not of Paramachaerodus or Promegantereon, though the authors offered no alternate genus assignments for either species.[1]
+A third species, Paramachairodus transasiaticus, was described in 2017 based on analysis of new fossil material from the late Miocene localities of Hezheng, Gansu Province, China, and Hadjidimovo, Bulgaria. These specimens had sabertooth characteristics intermediate between those of P. ogygia and those of P. orientalis and P. maximiliani.[6]
+In 2022, a new species Paramachaerodus yingliangi was proposed based on fossils from northeastern China; the same paper also proposed separating Paramachaerodus schlosseri as the new type species and moving P. orientalis and P. maximiliani to the resurrected genus Pontosmilus.[7]
+Description[edit]
+The animals were about 58 centimetres (23 in) high at the shoulder, similar to a leopard, but with a more supple body. The shape of its limbs suggests that it may have been an agile climber, and could have hunted relatively large prey.[8]
+Classification[edit]
+Paleobiology[edit]
+Paleoecology[edit]
+References[edit]
+^ a b c d e f g Salesa, Manuel J.; Antón, Mauricio; Turner, Alan; Alcalá, Luis; Montoya, Plinio; Morales, Jorge (2010). "Systematic revision of the Late Miocene sabre-toothed felid Paramachaerodus in Spain". Palaeontology. 53 (6): 1369–1391. Bibcode:2010Palgy..53.1369S. doi:10.1111/j.1475-4983.2010.01013.x. S2CID 83268098.
+^ Colbert, Edwin H. (1935). "Siwalik Mammals in the American Museum of Natural History". Transactions of the American Philosophical Society. 26. doi:10.2307/1005467. JSTOR 1005467.
+^ Paleobiology Database: Paramachairodus Basic info.
+^ SALESA, MANUEL J.; ANTON, MAURICIO; TURNER, ALAN; MORALES, JORGE (2005). "Aspects of the functional morphology in the cranial and cervical skeleton of the sabre-toothed cat Paramachairodus ogygia (Kaup, 1832) (Felidae, Machairodontinae) from the Late Miocene of Spain: implications for the origins of the machairodont killing bite". Zoological Journal of the Linnean Society. 144 (3): 363–377. doi:10.1111/j.1096-3642.2005.00174.x.
+^ Antón, Mauricio (2013). Sabertooth. Bloomington, Indiana: University of Indiana Press. ISBN 9780253010421.
+^ Li, Y.; Spassov, N. (2017). "A new species of Paramachaerodus (Mammalia, Carnivora, Felidae) from the late Miocene of China and Bulgaria, and revision of Promegantereon Kretzoi, 1938 and Paramachaerodus Pilgrim, 1913". PalZ. 91 (3): 409. doi:10.1007/s12542-017-0371-7. S2CID 134847521.
+^ Jiangzuo, Q.; Niu, K.; Li, S.; Fu, J.; Wang, S. (2022). "A Diverse Metailurine Guild from the Latest Miocene Xingjiawan Fauna, Yongdeng, Northwestern China, and Generic Differentiation of Metailurine Felids". Journal of Mammalian Evolution. 29 (4): 845–862. doi:10.1007/s10914-022-09622-8. S2CID 252662658.
+^ Turner, Alan (1997). The Big Cats and their fossil relatives. New York: Columbia University Press. p. 60. ISBN 978-0-231-10228-5.
+External links[edit]
+Paramachairodus at the bluelion.org
+Wikispecies has information related to Paramachaerodus.
+vteMachairodontinae
+Kingdom: Animalia
+Phylum: Chordata
+Clade: Synapsida
+Class: Mammalia
+Order: Carnivora
+Family: Felidae
+Homotherini
+Amphimachairodus
+Lokotunjailurus
+Homotherium
+Longchuansmilus
+Machairodus
+Nimravides
+Taowu
+Xenosmilus
+Metailurini
+Adelphailurus
+Dinofelis
+Fortunictis
+Stenailurus
+Metailurus
+Yoshi
+Smilodontini
+Megantereon
+Paramachaerodus
+Promegantereon
+Rhizosmilodon
+Smilodon
+Incertae sedis:
+Hemimachairodus
+Miomachairodus
+Tchadailurus
+Taxon identifiersParamachaerodus
+Wikidata: Q2051668
+Wikispecies: Paramachaerodus
+Fossilworks: 41067
+GBIF: 4834013
+IRMNG: 1107908
+Paramachaerodus orientalis
+Wikidata: Q122231603
+Paleobiology Database: 438194
+Paramachaerodus maximiliani
+Wikidata: Q122231608
+Paleobiology Database: 438196
+Paramachaerodus transasiaticus
+Wikidata: Q122231610
+Paleobiology Database: 470218
+Paramachaerodus yingliangi
+Wikidata: Q122231612
+Paleobiology Database: 475324
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte

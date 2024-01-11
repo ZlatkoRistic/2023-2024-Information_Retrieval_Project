@@ -1,0 +1,680 @@
+Catopuma
+Genus of carnivores
+Catopuma[1]
+Bay cat (C. badia) and Asian golden cat (C. temminckii)
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+Felinae
+Genus:
+CatopumaSevertzov, 1858
+Type species
+Felis moormensis(Hogson, 1831)
+Synonyms
+Badiofelis Pocock, 1932
+Catopuma is a genus of the Felidae containing two small cat species native to Southeast Asia, the Asian golden cat (C. temminckii) and the bay cat (C. badia).[1]
+Both have similar pelage, with solid reddish brown coloration on their backs and darker markings on the head. They also exhibit colour morphs ranging from various browns to gray to black.[2][3] The Asian golden cat occurs from northeast India to Sumatra, and the bay cat lives only on Borneo. Both inhabit forested areas.[4][5]
+The closest living relative of Catopuma is the marbled cat (Pardofelis marmorata), from which the common ancestor of Catopuma genetically diverged around 9.4 million years ago.[6] The Asian golden cat and bay cat diverged from one another approximately 3.16 million years ago, before Borneo separated from the neighboring islands.[2]
+Taxonomy[edit]
+The name Catopuma was proposed by Nikolai Severtzov in 1858 with Felis moormensis as type species, which was described by Brian Houghton Hodgson.[7][8]
+Name
+Subspecies
+IUCN Red List status and distribution
+Asian golden cat (C. temminckii) Vigors & Horsfield, 1827[9]
+C. t. temminckii occurs in Sumatra and the Malay Peninsula[1]
+C. t. moormensis Hodgson, 1831[8] occurs from eastern Nepal to China and Cambodia[1]
+NT[4]
+Bay cat (C. badia) Gray, 1874[10]
+EN[5]
+References[edit]
+^ a b c d Kitchener, A. C.; Breitenmoser-Würsten, C.; Eizirik, E.; Gentry, A.; Werdelin, L.; Wilting, A.; Yamaguchi, N.; Abramov, A. V.; Christiansen, P.; Driscoll, C.; Duckworth, J. W.; Johnson, W.; Luo, S.-J.; Meijaard, E.; O’Donoghue, P.; Sanderson, J.; Seymour, K.; Bruford, M.; Groves, C.; Hoffmann, M.; Nowell, K.; Timmons, Z.; Tobe, S. (2017). "A revised taxonomy of the Felidae: The final report of the Cat Classification Task Force of the IUCN Cat Specialist Group" (PDF). Cat News (Special Issue 11): 36−37.
+^ a b Patel, R. P.; Förster, D. W.; Kitchener, A. C.; Rayan, M. D.; Mohamed, S. W.; Werner, L.; Lenz, D.; Pfestorf, H.; Kramer-Schadt, S.; Radchuk, V.; Fickel, J.; Wilting, A. (2016). "Two species of Southeast Asian cats in the genus Catopuma with diverging histories: an island endemic forest specialist and a widespread habitat generalist". Royal Society Open Science. 3 (10): 160350. doi:10.1098/rsos.160350. PMC 5098974.
+^ Wang, Y.; Li, D.; Dunzhu, P.; Liu, W.; Feng, L.; Jin, K. (2022). "Recognition of coat pattern variation and broken tail phenomenon in the Asiatic Golden Cat (Catopuma temminckii)". Animals. 12 (11): 1420. doi:10.3390/ani12111420. PMC 9179876.
+^ a b McCarthy, J.; Dahal, S.; Dhendup, T.; Gray, T. N. E.; Mukherjee, S.; Rahman, H.; Boontua, N.; Wilcox, D. (2015). "Catopuma temminckii". IUCN Red List of Threatened Species. 2015: e.T4038A97165437.
+^ a b Hearn, A.; Brodie, J.; Cheyne, S.; Loken, B.; Ross, J.; Wilting, A. (2017). "Catopuma badia". IUCN Red List of Threatened Species. 2017: e.T4037A112910221.
+^ Johnson, W. E.; Eizirik, E.; Pecon-Slattery, J.; Murphy, W. J.; Antunes, A.; Teeling, E.; O'Brien, S. J. (2006). "The Late Miocene Radiation of Modern Felidae: A Genetic Assessment" (PDF). Science. 311 (5757): 73–77. Bibcode:2006Sci...311...73J. doi:10.1126/science.1122277. PMID 16400146. S2CID 41672825. Archived from the original (PDF) on 2010-05-27.
+^ Severtzow, M. N. (1858). "Notice sur la classification multisériale des Carnivores, spécialement des Félidés, et les études de zoologie générale qui s'y rattachent". Revue et Magasin de Zoologie Pure et Appliquée. X: 385–396.
+^ a b Hodgson, B. H. (1831). "Some Account of a new Species of Felis". Gleanings in Science. III (30): 177–178.
+^ Vigors, N. A.; Horsfield, T. (1827). "Descriptions of two species of the genus Felis, in the collections of the Zoological Society". The Zoological Journal. III (11): 449–451.
+^ Gray, J. E. (1874). "Description of a new Species of Cat (Felis badia) from Sarawak". Proceedings of the Scientific Meetings of the Zoological Society of London for the Year 1874: 322–323.
+vteExtant Carnivora species
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Infraclass: Eutheria
+Superorder: Laurasiatheria
+Suborder FeliformiaNandiniidaeNandinia
+African palm civet (N. binotata)
+Herpestidae(Mongooses)Atilax
+Marsh mongoose (A. paludinosus)
+Bdeogale
+Bushy-tailed mongoose (B. crassicauda)
+Jackson's mongoose (B. jacksoni)
+Black-footed mongoose (B. nigripes)
+Crossarchus
+Alexander's kusimanse (C. alexandri)
+Angolan kusimanse (C. ansorgei)
+Common kusimanse (C. obscurus)
+Flat-headed kusimanse (C. platycephalus)
+Cynictis
+Yellow mongoose (C. penicillata)
+Dologale
+Pousargues's mongoose (D. dybowskii)
+Helogale
+Ethiopian dwarf mongoose (H. hirtula)
+Common dwarf mongoose (H. parvula)
+Herpestes
+Angolan slender mongoose (H. flavescens)
+Egyptian mongoose (H. ichneumon)
+Somalian slender mongoose (H. ochracea)
+Cape gray mongoose (H. pulverulenta)
+Common slender mongoose (H. sanguinea)
+Ichneumia
+White-tailed mongoose (I. albicauda)
+Liberiictus
+Liberian mongoose (L. kuhni)
+Mungos
+Gambian mongoose (M. gambianus)
+Banded mongoose (M. mungo)
+Paracynictis
+Selous's mongoose (P. selousi)
+Rhynchogale
+Meller's mongoose (R. melleri)
+Suricata
+Meerkat (S. suricatta)
+Urva
+Small Indian mongoose (U. auropunctata)
+Short-tailed mongoose (U. brachyura)
+Indian grey mongoose (U. edwardsii)
+Indian brown mongoose (U. fusca)
+Javan mongoose (U. javanica)
+Collared mongoose (U. semitorquata)
+Ruddy mongoose (U. smithii)
+Crab-eating mongoose (U. urva)
+Stripe-necked mongoose (U. vitticolla)
+Xenogale
+Long-nosed mongoose (X. naso)
+Hyaenidae(Hyenas)Crocuta
+Spotted hyena (C. crocuta)
+Hyaena
+Striped hyena (H. hyaena)
+Parahyaena
+Brown hyena (P. brunnea)
+Proteles
+Aardwolf (P. cristata)
+FelidaeLarge family listed belowViverridaeLarge family listed belowEupleridaeSmall family listed belowFamily FelidaeFelinaeAcinonyx
+Cheetah (A. jubatus)
+Caracal
+African golden cat (C. aurata)
+Caracal (C. caracal)
+Catopuma
+Bay cat (C. badia)
+Asian golden cat (C. temminckii)
+Felis
+Chinese mountain cat (F. bieti)
+Domestic cat (F. catus)
+Jungle cat (F. chaus)
+African wildcat (F. lybica)
+Sand cat (F. margarita)
+Black-footed cat (F. nigripes)
+European wildcat (F. silvestris)
+Herpailurus
+Jaguarundi (H. yagouaroundi)
+Leopardus
+Pampas cat (L. colocola)
+Geoffroy's cat (L. geoffroyi)
+Kodkod (L. guigna)
+Southern tiger cat (L. guttulus)
+Andean mountain cat (L. jacobita)
+Ocelot (L. pardalis)
+Oncilla (L. tigrinus)
+Margay (L. wiedii)
+Nariño cat (L. narinensis)
+Leptailurus
+Serval (L. serval)
+Lynx
+Canada lynx (L. canadensis)
+Eurasian lynx (L. lynx)
+Iberian lynx (L. pardinus)
+Bobcat (L. rufus)
+Otocolobus
+Pallas's cat (O. manul)
+Pardofelis
+Marbled cat (P. marmorata)
+Prionailurus
+Leopard cat (P. bengalensis)
+Sunda leopard cat
+(P. javanensis)
+Flat-headed cat (P. planiceps)
+Rusty-spotted cat (P. rubiginosus)
+Fishing cat (P. viverrinus)
+Puma
+Cougar (P. concolor)
+PantherinaePanthera
+Lion (P. leo)
+Jaguar (P. onca)
+Leopard (P. pardus)
+Tiger (P. tigris)
+Snow leopard (P. uncia)
+Neofelis
+Sunda clouded leopard (N. diardi)
+Clouded leopard (N. nebulosa)
+PrionodontidaePrionodon
+Banded linsang (P. linsang)
+Spotted linsang (P. pardicolor)
+Family ViverridaeParadoxurinaeArctictis
+Binturong (A. binturong)
+Arctogalidia
+Small-toothed palm civet (A. trivirgata)
+Macrogalidia
+Sulawesi palm civet (M. musschenbroekii)
+Paguma
+Masked palm civet (P. larvata)
+Paradoxurus
+Asian palm civet (P. hermaphroditus)
+Brown palm civet (P. jerdoni)
+Golden palm civet (P. zeylonensis)
+HemigalinaeChrotogale
+Owston's palm civet (C. owstoni)
+Cynogale
+Otter civet (C. bennettii)
+Diplogale
+Hose's palm civet (D. hosei)
+Hemigalus
+Banded palm civet (H. derbyanus)
+ViverrinaeCivettictis
+African civet (C. civetta)
+Viverra
+Malabar large-spotted civet (V. civettina)
+Large-spotted civet (V. megaspila)
+Malayan civet (V. tangalunga)
+Large Indian civet (V. zibetha)
+Viverricula
+Small Indian civet (V. indica)
+GenettinaeGenetta(Genets)
+Abyssinian genet (G. abyssinica)
+Angolan genet (G. angolensis)
+Bourlon's genet (G. bourloni)
+Crested servaline genet (G. cristata)
+Common genet (G. genetta)
+Johnston's genet (G. johnstoni)
+Letaba genet (G. letabae)
+Rusty-spotted genet (G. maculata)
+Pardine genet (G. pardina)
+Aquatic genet (G. piscivora)
+King genet (G. poensis)
+Servaline genet (G. servalina)
+Hausa genet (G. thierryi)
+Cape genet (G. tigrina)
+Giant forest genet (G. victoriae)
+South African small-spotted genet (G. felina)
+Poiana
+Central African oyan (P. richardsonii)
+West African oyan (P. leightoni)
+Family EupleridaeEuplerinaeCryptoprocta
+Fossa (C. ferox)
+Eupleres
+Eastern falanouc (E. goudotii)
+Western falanouc (E. major)
+Fossa
+Malagasy civet (F. fossana)
+GalidiinaeGalidia
+Ring-tailed vontsira (G. elegans)
+Galidictis
+Broad-striped Malagasy mongoose (G. fasciata)
+Grandidier's mongoose (G. grandidieri)
+Mungotictis
+Narrow-striped mongoose (M. decemlineata)
+Salanoia
+Brown-tailed mongoose (S. concolor)
+Durrell's vontsira (S. durrelli)
+Suborder Caniformia (cont. below)Ursidae(Bears)Ailuropoda
+Giant panda (A. melanoleuca)
+Helarctos
+Sun bear (H. malayanus)
+Melursus
+Sloth bear (M. ursinus)
+Tremarctos
+Spectacled bear (T. ornatus)
+Ursus
+American black bear (U. americanus)
+Brown bear (U. arctos)
+Polar bear (U. maritimus)
+Asian black bear (U. thibetanus)
+Mephitidae(Skunks)Conepatus(Hog-nosedskunks)
+Molina's hog-nosed skunk (C. chinga)
+Humboldt's hog-nosed skunk (C. humboldtii)
+American hog-nosed skunk (C. leuconotus)
+Striped hog-nosed skunk (C. semistriatus)
+Mephitis
+Hooded skunk (M. macroura)
+Striped skunk (M. mephitis)
+Mydaus
+Sunda stink badger (M. javanensis)
+Palawan stink badger (M. marchei)
+Spilogale(Spotted skunks)
+Southern spotted skunk (S. angustifrons)
+Western spotted skunk (S. gracilis)
+Eastern spotted skunk (S. putorius)
+Pygmy spotted skunk (S. pygmaea)
+Procyonidae(Raccoons, coatis, olingos)Bassaricyon(Olingos)
+Eastern lowland olingo (B. alleni)
+Northern olingo (B. gabbii)
+Western lowland olingo (B. medius)
+Olinguito (B. neblina)
+Bassariscus
+Ringtail (B. astutus)
+Cacomistle (B. sumichrasti)
+Nasua(Coatis inclusive)
+White-nosed coati (N. narica)
+South American coati (N. nasua)
+Nasuella(Coatis inclusive)
+Eastern mountain coati (N. meridensis)
+Western mountain coati (N. olivacea)
+Potos
+Kinkajou (P. flavus)
+Procyon
+Crab-eating raccoon (P. cancrivorus)
+Raccoon (P. lotor)
+Cozumel raccoon (P. pygmaeus)
+AiluridaeAilurus
+Red panda (A. fulgens)
+Suborder Caniformia (cont. above)Otariidae(Eared seals)(includes fur sealsand sea lions)(Pinniped inclusive)Arctocephalus
+South American fur seal (A. australis)
+Australasian fur seal (A. forsteri)
+Galápagos fur seal (A. galapagoensis)
+Antarctic fur seal (A. gazella)
+Juan Fernández fur seal (A. philippii)
+Brown fur seal (A. pusillus)
+Guadalupe fur seal (A. townsendi)
+Subantarctic fur seal (A. tropicalis)
+Callorhinus
+Northern fur seal (C. ursinus)
+Eumetopias
+Steller sea lion (E. jubatus)
+Neophoca
+Australian sea lion (N. cinerea)
+Otaria
+South American sea lion (O. flavescens)
+Phocarctos
+New Zealand sea lion (P. hookeri)
+Zalophus
+California sea lion (Z. californianus)
+Galápagos sea lion (Z. wollebaeki)
+Odobenidae(Pinniped inclusive)Odobenus
+Walrus (O. rosmarus)
+Phocidae(Earless seals)(Pinniped inclusive)Cystophora
+Hooded seal (C. cristata)
+Erignathus
+Bearded seal (E. barbatus)
+Halichoerus
+Grey seal (H. grypus)
+Histriophoca
+Ribbon seal (H. fasciata)
+Hydrurga
+Leopard seal (H. leptonyx)
+Leptonychotes
+Weddell seal (L. weddellii)
+Lobodon
+Crabeater seal (L. carcinophagus)
+Mirounga(Elephant seals)
+Northern elephant seal (M. angustirostris)
+Southern elephant seal (M. leonina)
+Monachus
+Mediterranean monk seal (M. monachus)
+Neomonachus
+Hawaiian monk seal (N. schauinslandi)
+Ommatophoca
+Ross seal (O. rossi)
+Pagophilus
+Harp seal (P. groenlandicus)
+Phoca
+Spotted seal (P. largha)
+Harbor seal (P. vitulina)
+Pusa
+Caspian seal (P. caspica)
+Ringed seal (P. hispida)
+Baikal seal (P. sibirica)
+CanidaeLarge family listed belowMustelidaeLarge family listed belowFamily Canidae (includes dogs)Atelocynus
+Short-eared dog (A. microtis)
+Canis
+Golden jackal (C. aureus)
+Domestic dog (C. familiaris)
+Coyote (C. latrans)
+African wolf (C. lupaster)
+Wolf (C. lupus)
+Eastern wolf (C. lycaon)
+Red wolf (C. rufus)
+Ethiopian wolf (C. simensis)
+Cerdocyon
+Crab-eating fox (C. thous)
+Chrysocyon
+Maned wolf (C. brachyurus)
+Cuon
+Dhole (C. alpinus)
+Lupulella
+Side-striped jackal (L. adustus)
+Black-backed jackal (L. mesomelas)
+Lycalopex
+Culpeo (L. culpaeus)
+Darwin's fox (L. fulvipes)
+South American gray fox (L. griseus)
+Pampas fox (L. gymnocercus)
+Sechuran fox (L. sechurae)
+Hoary fox (L. vetulus)
+Lycaon
+African wild dog (L. pictus)
+Nyctereutes
+Common raccoon dog (N. procyonoides)
+Japanese raccoon dog (N. viverrinus)
+Otocyon
+Bat-eared fox (O. megalotis)
+Speothos
+Bush dog (S. venaticus)
+Urocyon
+Gray fox (U. cinereoargenteus)
+Island fox (U. littoralis)
+Vulpes (Foxes)
+Bengal fox (V. bengalensis)
+Blanford's fox (V. cana)
+Cape fox (V. chama)
+Corsac fox (V. corsac)
+Tibetan fox (V. ferrilata)
+Arctic fox (V. lagopus)
+Kit fox (V. macrotis)
+Pale fox (V. pallida)
+Rüppell's fox (V. rueppelli)
+Swift fox (V. velox)
+Red fox (V. vulpes)
+Fennec fox (V. zerda)
+Family MustelidaeHelictidinae(Ferret-badgers)Melogale
+Vietnam ferret-badger (M. cucphuongensis)
+Bornean ferret badger (M. everetti)
+Chinese ferret-badger (M. moschata)
+Javan ferret-badger (M. orientalis)
+Burmese ferret-badger (M. personata)
+Formosan ferret-badger (M. subaurantiaca)
+Guloninae(Martens and wolverines)Eira
+Tayra (E. barbara)
+Gulo
+Wolverine (G. gulo)
+Martes(Martens)
+American marten (M. americana)
+Pacific marten (M. caurina)
+Yellow-throated marten (M. flavigula)
+Beech marten (M. foina)
+Nilgiri marten (M. gwatkinsii)
+European pine marten (M. martes)
+Japanese marten (M. melampus)
+Sable (M. zibellina)
+Pekania
+Fisher (P. pennanti)
+Ictonychinae(African polecats and grisons)Galictis
+Lesser grison (G. cuja)
+Greater grison (G. vittata)
+Ictonyx
+Saharan striped polecat (I. libyca)
+Striped polecat (I. striatus)
+Lyncodon
+Patagonian weasel (L. patagonicus)
+Poecilogale
+African striped weasel (P. albinucha)
+Vormela
+Marbled polecat (V. peregusna)
+Lutrinae(Otters)Aonyx
+African clawless otter (A. capensis)
+Asian small-clawed otter (A. cinereus)
+Congo clawless otter (A. congicus)
+Enhydra
+Sea otter (E. lutris)
+Hydrictis
+Spotted-necked otter (H. maculicollis)
+Lontra
+North American river otter (L. canadensis)
+Marine otter (L. felina)
+Neotropical otter (L. longicaudis)
+Southern river otter (L. provocax)
+Lutra
+Eurasian otter (L. lutra)
+Hairy-nosed otter (L. sumatrana)
+Lutrogale
+Smooth-coated otter (L. perspicillata)
+Pteronura
+Giant otter (P. brasiliensis)
+Melinae(Eurasian badgers)Arctonyx
+Northern hog badger (A. albogularis)
+Greater hog badger (A. collaris)
+Sumatran hog badger (A. hoevenii)
+Meles
+Japanese badger (M. anakuma)
+Caucasian badger (M. canescens)
+Asian badger (M. leucurus)
+European badger (M. meles)
+MellivorinaeMellivora
+Honey badger (M. capensis)
+Mustelinae(Weasels and minks)Mustela(Weasels and ferrets)
+Sichuan weasel (M. aistoodonnivalis)
+Mountain weasel (M. altaica)
+Stoat/Beringian ermine (M. erminea)
+Steppe polecat (M. eversmannii)
+Ferret (M. furo)
+Haida ermine (M. haidarum)
+Japanese weasel (M. itatsi)
+Yellow-bellied weasel (M. kathiah)
+European mink (M. lutreola)
+Indonesian mountain weasel (M. lutreolina)
+Black-footed ferret (M. nigripes)
+Least weasel (M. nivalis)
+Malayan weasel (M. nudipes)
+European polecat (M. putorius)
+American ermine (M. richardsonii)
+Siberian weasel (M. sibirica)
+Back-striped weasel (M. strigidorsa)
+Neogale
+Amazon weasel (N. africana)
+Colombian weasel (N. felipei)
+Long-tailed weasel (N. frenata)
+American mink (N. vison)
+TaxidiinaeTaxidea
+American badger (T. taxus)
+vteGenera of civets, mongooses, hyenas, cats, and their extinct allies
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Carnivora
+Feliformia†Palaeogalidae
+†Palaeogale?
+†Nimravidae
+See Nimravidae
+Aeluroidea
+†Alagtsavbaatar
+†Anictis
+†Asiavorator
+†Shandgolictis
+Nandiniidae
+Nandinia
+ViverroideaViverridae
+†Africanictis
+†Dunictis
+†Forsythictis
+†Lufengictis
+†Ketketictis
+†Mioprionodon
+†Moghradictis
+†Progenetta
+Genettinae
+Genetta
+Poiana
+Hemigalinae
+Chrotogale
+Cynogale
+Diplogale
+Hemigalus
+Macrogalidia
+Paradoxurinae
+Arctictis
+Arctogalidia
+†Kanuites
+†Kichechia
+Paguma
+Paradoxurus
+†Siamictis
+†Tugenictis
+Viverrinae
+Civettictis
+†Semigenetta
+Viverra
+Viverricula
+HerpestoideaHerpestidae
+See below↓
+Hyaenidae
+See below↓
+Feloidea
+See below↓
+HerpestidaeEupleridaeEuplerinae
+Cryptoprocta
+Eupleres
+Fossa
+Galidiinae
+Galidia
+Galidictis
+Mungotictis
+Salanoia
+Herpestidae
+†Kichechia
+†Legetetia
+†Leptoplesictis
+†Ugandictis
+Herpestinae
+Atilax
+Bdeogale
+Cynictis
+Herpestes
+Ichneumia
+Paracynictis
+Urva
+Xenogale
+Mungotinae
+Crossarchus
+Dologale
+Helogale
+Liberiictis
+Mungos
+Suricata
+Hyaenidae†Percrocutidae?
+Dinocrocuta
+Percrocuta
+†Lophocyonidae
+Euboictis
+Izmirictis
+Lophocyon
+Sivanasua
+Hyaenidae
+†Allohyaena
+†Belbus
+†Metahyaena
+†Pliocrocuta
+†Tongxinictis
+†Werdelinus
+†Ictitheriinae
+Herpestides
+Hyaenotherium
+Ictitherium
+Lycyaena
+Miohyaenotherium
+Plioviverrops
+Protictitherium
+Thalassictis
+Tungurictis
+Protelinae
+†Gansuyaena
+Proteles
+Hyaeninae
+†Adcrocuta
+†Chasmaporthetes
+Crocuta
+Hyaena
+†Hyaenictis
+†Ikelohyaena
+†Leecyaena
+†Lycyaenops
+†Pachycrocuta
+†Palinhyaena
+Parahyaena
+FeloideaFeloidea
+†Pseudictis
+†Stenogale
+†Stenoplesictis
+†Viretictis
+†Barbourofelidae
+(See Barbourofelidae)
+Prionodontidae
+†Haplogale
+†Palaeoprionodon
+Prionodon
+Felidae
+†Asilifelis
+†Diamantofelis
+†Hyperailurictis
+†Katifelis
+†Namafelis
+†Miopanthera
+†Pseudaelurus
+†Sivaelurus
+†Styriofelis
+†Proailurinae
+Proailurus
+Vinayakia
+Felinae
+Acinonyx
+Catopuma
+Caracal
+Felis
+Herpailurus
+Leopardus
+Leptailurus
+†Leptofelis
+Lynx
+†Miracinonyx
+Otocolobus
+Pardofelis
+†Pratifelis
+Prionailurus
+†Pristifelis
+Puma
+†Sivapanthera
+†Sivapardus
+†Vishnufelis
+†Machairodontinae
+See Machairodontinae
+Pantherinae
+Neofelis
+Panthera
+†Leontoceryx
+Taxon identifiers
+Wikidata: Q1419858
+Wikispecies: Catopuma
+BOLD: 4340
+CoL: 3JKK
+EoL: 35821
+Fossilworks: 235888
+GBIF: 2435092
+iNaturalist: 569305
+IRMNG: 1294543
+ITIS: 621778
+MSW: 14000023
+NCBI: 61453
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte

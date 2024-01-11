@@ -1,0 +1,123 @@
+Metailurus
+Extinct genus of carnivores
+MetailurusTemporal range: Tortonian - Late Pleistocene, 8.7–0.126 Ma
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+Metailurus skeleton
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+†Machairodontinae
+Tribe:
+†Metailurini
+Genus:
+†MetailurusZdansky, 1924
+Type species
+Metailurus majorZdansky, 1924
+Other Species
+†M. boodon Belyaeva, 1948
+†M. major Zdansky, 1924
+†M. mongoliensis Colbert, 1939
+†M. ultimus Li, 2014
+†M. hengduanshanensis Zong et al, 1996
+Range of Metailurus based on fossil record
+Metailurus is a genus of saber-toothed cat in the family Felidae, and belonging to the tribe Metailurini, which occurred in North America, Eurasia and Africa from the Miocene to the Middle Pleistocene.[1][2][3]
+History and taxonomy[edit]
+The genus Metailurus was described by Zdansky in 1924 for the two species Metailurus major and Metailurus minor.[4]
+Metailurus mongoliensis was described in 1939.[5]
+Metailurus boodon was described in 1948.[6]
+Metailurus hengduanshanensis was described in 1996.[7]
+Metailurus ultimus was described in 2014.[8]
+Metailurus minor was reassigned to the felid genus Yoshi in 2015.[9]
+Description[edit]
+The canines of Metailurus are longer than those of even the clouded leopard, but significantly shorter than true saber teeth, and more conical than bladed.[10] A partial skeleton found in the Turolian site of Kerassia 1 consists of the jawbone, the anterior and posterior limb bone elements, and some sternal bones and some vertebrae. This is the most complete known of the species. Its dental material is comparative to those specimens from Pikermi, Chomateri, and China. The presence of elongated posterior limbs indicate that it had developed jumping skills.[11]
+References[edit]
+^ McKenna, M. C.; Bell, S. K. (1997). Classification of Mammals: Above the Species Level. Columbia University Press. p. 631. ISBN 978-0-231-11013-6.
+^ "Fossilworks: Metailurus". fossilworks.org. Retrieved 17 December 2021.
+^ Antón, Mauricio (2013-11-22). Sabertooth. Indiana University Press. ISBN 9780253010490.
+^ Zdansky, O. (1924). "Jungtertiare Carnivoren Chinas". Palaeontologia Sinica, Series C. 2 (1): 1–149.
+^ Colbert, E. H. (1939). "Carnivora of the Tung Gur Formation of Mongolia". Bull Am Mus Nat Hist. 76: 47−81.
+^ Belyaeva, E. I. (1948). "Catalogue of Tertiary Fossil Sites of the Land Mammals in the U.S.S.R. Tr. Paleontol. Inst". An SSSR. 15 (3): 1–116.
+^ Zong G. F.; Chen W. Y.; Huang X. S. (1996). "Cenozoic Mammals and Environment of Hengduan Mountains Region". Beijing: China Ocean Press: 55−57. {{cite journal}}: Cite journal requires |journal= (help)
+^ Yu Li (2014). "Restudy of Metailurus major from Yushe Basin, Shanxi Province reported by Teilhard de Chardin and Leroy". Vertebrata PalAsiatica. 52 (4): 467–485.
+^ Spassov, Nikolai; Geraads, Denis (2015). "A New Felid from the Late Miocene of the Balkans and the Contents of the Genus Metailurus Zdansky, 1924 (Carnivora, Felidae)". Journal of Mammalian Evolution. 22 (1): 45–56. doi:10.1007/s10914-014-9266-5. S2CID 254704902.
+^ Turner, Alan; Antón, Mauricio (1997). The Big Cats and their fossil relatives. New York: Columbia University Press. ISBN 0-231-10228-3.
+^ Roussiakis, Socrates J.; Theodorou, George E.; Iliopoulos, George (2006). "An almost complete skeleton of Metailurus parvulus (Carnivora, Felidae) from the late Miocene of Kerassia (Northern Euboea, Greece)". Geobios. 39 (4): 563–584. doi:10.1016/j.geobios.2005.04.002.
+External links[edit]
+vteMachairodontinae
+Kingdom: Animalia
+Phylum: Chordata
+Clade: Synapsida
+Class: Mammalia
+Order: Carnivora
+Family: Felidae
+Homotherini
+Amphimachairodus
+Lokotunjailurus
+Homotherium
+Longchuansmilus
+Machairodus
+Nimravides
+Taowu
+Xenosmilus
+Metailurini
+Adelphailurus
+Dinofelis
+Fortunictis
+Stenailurus
+Metailurus
+Yoshi
+Smilodontini
+Megantereon
+Paramachaerodus
+Promegantereon
+Rhizosmilodon
+Smilodon
+Incertae sedis:
+Hemimachairodus
+Miomachairodus
+Tchadailurus
+Taxon identifiersMetailurus
+Wikidata: Q1002390
+Wikispecies: Metailurus
+Fossilworks: 41062
+GBIF: 4833999
+IRMNG: 1350730
+Paleobiology Database: 41062
+Metailurus major
+Wikidata: Q121787783
+Paleobiology Database: 470074
+Metailurus ultimus
+Wikidata: Q122127079
+Paleobiology Database: 470311
+Metailurus mongoliensis
+Wikidata: Q122127299
+EoL: 60969123
+Metailurus hengduanshanensis
+Wikidata: Q122127340
+EoL: 60969119
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte

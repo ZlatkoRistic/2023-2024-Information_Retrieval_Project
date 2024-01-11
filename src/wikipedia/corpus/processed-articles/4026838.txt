@@ -1,0 +1,126 @@
+Adelphailurus
+Extinct genus of felid
+AdelphailurusTemporal range: Middle Pliocene
+PreꞒ
+Ꞓ
+O
+S
+D
+C
+P
+T
+J
+K
+Pg
+N
+↓
+Scientific classification
+Domain:
+Eukaryota
+Kingdom:
+Animalia
+Phylum:
+Chordata
+Class:
+Mammalia
+Order:
+Carnivora
+Suborder:
+Feliformia
+Family:
+Felidae
+Subfamily:
+†Machairodontinae
+Tribe:
+†Metailurini
+Genus:
+†AdelphailurusHibbard, 1934
+Type species
+Adelphailurus kansensisHibbard, 1934
+Range of Adelphailurus based on fossil record
+Synonyms
+Metailurus kansensis (Hibbard, 1934) sensu Andersson & Werdelin, 2005
+Adelphailurus is an extinct genus of metailurin machairodontine (saber-toothed) cat that inhabited western North America during the middle Pliocene. It is monotypic, containing only the species Adelphailurus kansensis.[1][2]
+History of discovery[edit]
+The holotype and only specimen, KUMVP 3462, was collected by H. T. Martin from near the base of the Ogallala Formation in Sherman County, Kansas, in the summer of 1924. It was subsequently stored in the collections at the University of Kansas' Museum of Vertebrate Paleontology. However, it was not described until 1934 when paleontologist Claude W. Hibbard erected the new genus and species Adelphailurus kansensis for the specimen.[1]
+The genus name is derived from the Greek ἀδελφός/adelphós meaning "brother", and αἴλουρος/ailurus meaning "cat". The specific epithet kansensis means "from Kansas".[1]
+Description[edit]
+The holotype of Adelphailurus kansensis consists of the anterior portion of a skull with nearly perfect dentition on both the maxillaries and premaxillaries. Hibbard stated that the living cat would have a relatively broad skull with large canines.[1]
+Classification[edit]
+Hibbard only assigned the genus to the family Felidae in his original description.[1] It was assigned to the tribe Metailurini in 1983,[3] assigned in passing to Felidae by Carroll in 1988,[4] and to the subfamily Machairodontinae by Martin in 1998.[5]
+In 2005, Werdelin and Andersson suggested that Adelphailurus kansensis should be reassigned to the genus Metailurus as Metailurus kansensis,[6] but this was rejected and refuted by Li in 2014 and Spassov & Geraads in 2015.[7][8]
+In 2010 it was suggested that Nimravides hibbardi was a junior synonym of Adelphailurus kansensis.[9]
+Position of Adelphailurus in Metailurini according to a 2018 phylogenetic analysis:[10]
+Metailurini
+Fortunictis acerensis
+Adelphailurus kansensis
+Stenailurus teilhardi
+Metailurus mongoliensis
+Metailurus hengduanshanensis
+Metailurus obscurus
+Metailurus major
+Yoshi minor
+Yoshi garevskii
+Dinofelis
+References[edit]
+^ a b c d e Hibbard, C. W. (1934). "Two new genera of Felidae from the middle Pliocene of Kansas" (PDF). Transactions of the Kansas Academy of Science. 37: 239–255. doi:10.2307/3625308. JSTOR 3625308.
+^ Turner, Alan; Antón, Mauricio (1997). The Big Cats and their fossil relatives. New York: Columbia University Press. ISBN 0-231-10228-3.
+^ Berta, A.; Galiano, H. (1983). "Megantereon hesperus from the late Hemphillian of Florida with remarks on the phylogenetic relationships of machairodonts (Mammalia, Felidae, Machairodontinae)". Journal of Paleontology. 57 (5): 892–899. JSTOR 1304759.
+^ Carroll, R. L. (1988). "Vertebrate Paleontology and Evolution". W.H. Freeman and Company. {{cite journal}}: Cite journal requires |journal= (help)
+^ Martin, L. D. (1998). "Felidae". In C. M. Janis, K. M. Scott, and L. L. Jacobs (ed.). Evolution of Tertiary mammals of North America. Vol. 1. pp. 236–242.{{cite book}}:
+CS1 maint: multiple names: editors list (link)
+^ Andersson, K.; Werdelin, L. (2005). "Carnivora from the late miocene of Lantian, China" (PDF). Vertebrata PalAsiatica. 43 (4): 267.
+^ Li, Yu (2014). "Restudy of Metailurus major from Yushe Basin, Shanxi Province reported by Teilhard de Chardin and Leroy". Vertebrata PalAsiatica. 52 (4).
+^ Spassov, Nikolai; Geraads, Denis (2014-05-15). "A New Felid from the Late Miocene of the Balkans and the Contents of the Genus Metailurus Zdansky, 1924 (Carnivora, Felidae)". Journal of Mammalian Evolution. 22: 45–56. doi:10.1007/s10914-014-9266-5. S2CID 14261386.
+^ Hodnett, John-Paul (2010). "A Machairodont felid (Mammalia; Carnivora; Felidae) from the latest Hemphillian (Late Miocene/Early Pliocene) Bidahochi Formation, northeastern Arizona". Paleobios. 29 (3). doi:10.5070/P9293021800.
+^ Piras, Paolo; Silvestro, Daniele; Carotenuto, Francesco; Castiglione, Silvia; Kotsakis, Anastassios; Maiorino, Leonardo; Melchionna, Marina; Mondanaro, Alessandro; Sansalone, Gabriele; Serio, Carmela; Vero, Veronica Anna; Raia, Pasquale (2018). "Evolution of the sabertooth mandible: A deadly ecomorphological specialization". Palaeogeography, Palaeoclimatology, Palaeoecology. 496: 166–174. Bibcode:2018PPP...496..166P. doi:10.1016/j.palaeo.2018.01.034.
+vteMachairodontinae
+Kingdom: Animalia
+Phylum: Chordata
+Clade: Synapsida
+Class: Mammalia
+Order: Carnivora
+Family: Felidae
+Homotherini
+Amphimachairodus
+Lokotunjailurus
+Homotherium
+Longchuansmilus
+Machairodus
+Nimravides
+Taowu
+Xenosmilus
+Metailurini
+Adelphailurus
+Dinofelis
+Fortunictis
+Stenailurus
+Metailurus
+Yoshi
+Smilodontini
+Megantereon
+Paramachaerodus
+Promegantereon
+Rhizosmilodon
+Smilodon
+Incertae sedis:
+Hemimachairodus
+Miomachairodus
+Tchadailurus
+Taxon identifiersAdelphailurus
+Wikidata: Q146558
+Wikispecies: Adelphailurus
+EoL: 4444319
+Fossilworks: 41047
+GBIF: 4833915
+IRMNG: 1091934
+Paleobiology Database: 41047
+Adelphailurus kansensis
+Wikidata: Q20716453
+Wikispecies: Adelphailurus kansensis
+EoL: 4444320
+Fossilworks: 43735
+GBIF: 4969833
+Paleobiology Database: 43735
+This felid-related article is a stub. You can help Wikipedia by expanding it.vte
+This article related to prehistoric animals from order Carnivora is a stub. You can help Wikipedia by expanding it.vte

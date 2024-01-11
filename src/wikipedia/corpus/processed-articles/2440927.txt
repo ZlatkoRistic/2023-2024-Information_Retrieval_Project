@@ -1,0 +1,8 @@
+Muezza
+Redirect to:Islam and cats#MuezzaThis page is a redirect. The following categories are used to track and monitor this redirect:
+From a merge: This is a redirect from a page that was merged into another page. This redirect was kept in order to preserve the edit history of this page after its content was merged into the content of the target page.
+Please do not remove the tag that generates this text (unless the need to recreate content on this page has been demonstrated) or delete this page.
+For redirects with substantive page histories that did not result from page merges use {{R with history}} instead.
+To a section: This is a redirect from a topic that does not have its own page to a section of a page on the subject. For redirects to embedded anchors on a page, use {{R to anchor}} instead.
+From a printworthy page title: This is a redirect from a title that would be helpful in a printed or CD/DVD version of Wikipedia. See Wikipedia:Printability and Version 1.0 Editorial Team for more information.
+When appropriate, protection levels are automatically sensed, described and categorized.
