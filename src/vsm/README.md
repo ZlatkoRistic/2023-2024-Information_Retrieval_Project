@@ -4,7 +4,24 @@ A VSM for information retrieval represents queries and documents as vectors, whe
 
 By calculating a similarity score between a given query and the documents of the VSM, we can disciminate relevant documents from irrelevant documents. Relevant documents can then be retrieved as results for a query through the VSM.
 
+Our implementation is the [VSM class](./vsm.py).
+
+## Index Construction
+
 To speed up these calculations, we shall make use of an inverted document index.
+
+The VSM index contains the following properties:
+* Vocabulary
+* Document norms
+* Inverted document index
+
+When speaking of a VSM's index, we normally only speak of the inverted document index. To loosen computational and time constraints of loading and storing the index to/from disk, we prefer to sacrifice some disk space.
+
+The **vocabulary** is the [pre-processed](#pre-processing) set of tokens that are found in the documents of the corpus. The **document norms** are the mathematical norms of the term frequency vector per document. The **inverted document index** maps each term -- each pre-processed token in the corpus -- to a tuple. The tuple contains the inverted document frequency and the terms's posting list. Posting contains a document ID and the term frequency of the term in that document. Because the posting list is kept, technically the idf value for each term is redundant, but is kept to avoid computation.
+
+The VSM class provides `VSM.dumps()` and `VSM.loads()` methods as an index **storage interface**. They are reminiscent of python's `json.dumps()` and `json.loads()` methods. This similarity is entirely intentional. The `VSM.dumps()` method dumps the VSM as a json string, which can be directly written to disk. The `VSM.loads()` method takes a json-formatted string and uses it to overwrite the current VSM state. This can (and should) be used to initialize the VSM.
+
+Our current implementation of index storage is not particularly sophisticated; from our testing, it is fairly bulky.
 
 ## Pre-Processing
 
@@ -16,7 +33,7 @@ The documents are pre-processed to **normalize their contents**, and to limit th
 
 
 
-Pre-processing happens within the [VSMTokenizer](/src/vsm/vsm/vsm_tokenizer.py) class. After we detail the pre-processing steps, we make some [concluding observations](#concluding-observations). It consists of the following steps:
+Pre-processing happens within the [VSMTokenizer](./vsm_tokenizer.py) class. After we detail the pre-processing steps, we make some [concluding observations](#concluding-observations). It consists of the following steps:
 
 * Normalizing accented (unicode) characters
 * Converting Case
