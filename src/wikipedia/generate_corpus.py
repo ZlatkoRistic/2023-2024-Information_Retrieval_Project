@@ -23,7 +23,7 @@ if __name__ == "__main__":
     root_category: str = "Cats"
 
     # Setup parser
-    parser = argparse.ArgumentParser(description="Functionality to generate the evidence corpus.")
+    parser = argparse.ArgumentParser(description="Functionality to generate the evidence corpus. Can be used to generate a VSM index from the processed corpus. Can be run from any location; the used output paths are bound relatively to the path of this script.")
     parser.add_argument("-d", "--download", required=False, type=int, choices=range(0, 10), help = "Download the wikipedia articles, based on the specified category recursion depth.")
     parser.add_argument("-v", "--visualization", action='store_true', help = "When downloading the wikipedia articles, generate a visualization of the category hierarchy.")
     parser.add_argument("-p", "--process", action='store_true', help = "Process the downloaded wikipedia articles.")
