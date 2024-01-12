@@ -1,0 +1,125 @@
+direction: up
+classes: {
+    embedded image: {
+        label: ""
+        style: {
+            fill: transparent
+            stroke: transparent
+        }
+    }
+}
+
+
+Posting: {
+    shape: class
+
+    +document_ID: int
+    +term_frequency: int
+}
+
+InvertedTermData: {
+    shape: class
+
+    +document_frequency: int
+    +posting_list: "List[Posting]"
+}
+
+VSM: {
+    shape: class
+  
+    -vocabulary: "Set[str]"
+    -documentNorms: "Dict[int, float]"
+    -invertedDocumentIndex: "Dict[str, InvertedTermData]"
+    +document_count: int
+    +get_top_k(query str, k int): "List[Tuple[int, float]]"
+    +add_document(document str, document_ID int): None
+    +dumps(indent int|str|None = None): str
+    +loads(json_string str): None
+}
+
+VSMTokenizer: {
+    shape: class
+  
+    +tokenize(text str, do_stemming bool = True): "List[str]"
+}
+
+Wikipedia: {
+    # Unnamed shape
+    "": {
+        shape: image
+        icon: https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Wikipedia-logo-v2.svg/330px-Wikipedia-logo-v2.svg.png
+    }
+    Wikipedia API {
+        shape: class
+
+        +query(lists = categorymembers): json
+        +parse(pageId int): json
+    }
+}
+
+Corpus: {
+    shape: rectangle
+    style: {
+        fill: transparent
+    }
+
+    document IDs: {
+        label: "document IDs: List[int]"
+    }
+    html: {
+        label: raw pages
+        class: embedded image
+        icon: https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/html-file-icon.png
+    }
+    txt: {
+        label: processed pages
+        class: embedded image
+        icon: https://uxwing.com/wp-content/themes/uxwing/download/file-and-folder-type/txt-file-icon.png
+    }
+    index: {
+        label: index
+        class: embedded image
+        icon: https://uxwing.com/wp-content/themes/uxwing/download/education-school/book-research-icon.png
+    }
+    html -> txt: 1..*\n3) ∀ document, process(document)
+    document IDs -> html: becomes
+    txt -> index: becomes
+}
+
+OurFactChecker: {
+    shape: class
+    +validate(evidence str, claim str): bool
+}
+
+Main: {
+    label: Entrypoint
+    style.fill: transparent
+    UI: {
+        label: UI
+        class: embedded image
+        icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLpX_xAaNCwPHF4S3huUdz8YmL5MlExm3VaA&usqp=CAU
+    }
+
+    Backend: {
+        label: Backend
+        class: embedded image
+        icon: https://static.thenounproject.com/png/4505845-200.png
+    }
+
+}
+
+InvertedTermData -> Posting: 0..*\ncontains
+VSM -> InvertedTermData: 0..*\ncontains
+VSM -> VSMTokenizer: 1\nuses
+
+Corpus.html -> Wikipedia: 2) ∀ document_id, Wikipedia.parse(document_id)
+Corpus.document IDs -> Wikipedia: 1..*\n1) query
+Corpus.txt -> VSM: 4) ∀ document, VSM.add_document(document, arbitrary_ID)
+Corpus.index -> VSM: 1\n5) VSM.dumps()
+
+Main.UI -> Main.Backend: send queries
+Main.Backend -> Main.UI: receive replies
+
+
+Main.Backend -> VSM: VSM.get_top_k(query, k=3)
+Main.Backend -> OurFactChecker: OurFactChecker.validate(evidence, claim)
