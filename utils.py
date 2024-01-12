@@ -19,7 +19,7 @@ from src.vsm.vsm import VSM
 def extract_train_claims():
     import json
     claims = set()
-    with open("input/train.jsonl", "r") as f:
+    with open("results/train.jsonl", "r") as f:
         line = f.readline()
         while line:
             json_obj = json.loads(line)

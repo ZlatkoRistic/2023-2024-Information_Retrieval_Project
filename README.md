@@ -46,4 +46,4 @@ This section describes which datasets have been used for developing this project
 
 DATASET | USED? | PROVIDED?
 -|-|-
-FEVER | yes | [train.jsonl](/input/train.jsonl)
+FEVER | yes | [train.jsonl](/results/train.jsonl)
