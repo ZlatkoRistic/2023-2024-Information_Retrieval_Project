@@ -2,6 +2,16 @@
 
 A repo for the group project for the course Information Retrieval (Master Computer Science 2001WETINR) at the University of Antwerp in the academic year of 2023-2024. The team consists of Zlatko Ristic (s0191855), Bas Tobback (s0194105) and Thomas Gueutal (s0195095).
 
+## Index
+
+This project consists of several components. Where applicable, we link the specific README file instead for more details.
+
+* pfc (personal fact checker)
+* [VSM](/src/vsm/README.md)
+* [wikipedia](/src/wikipedia/README.md)
+
+The **personal fact checker** is our own fact checker implementation. The **VSM** is our own vector space model implementation. **Wikipedia** implements a script to construct a VSM index based on a corpus of articles we obtain using the Wikipedia API.
+
 ## Requirements
 
 Note that the **disk space requirements** of this project are currently in the order of **Gigabytes**.
