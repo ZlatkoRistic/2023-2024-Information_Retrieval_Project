@@ -1,6 +1,6 @@
 import csv
 from src.vsm.vsm import VSM
-from utils import verification, precision
+from utils import verification, precision, pre_processing
 
 def fact_check(claim, evidence):
     """
@@ -87,8 +87,14 @@ if __name__ == '__main__':
 
     # TODO: MAKE SURE THAT THE SAMPLE SIZE IS NOT BIGGER THAN THE VALIDATION SET
     sample_size = 1000
-    # pre_processing(input_path="./input/train.jsonl", output_path="./input/pre_processed.jsonl", sample_size=sample_size)
-    correct, incorrect, total = verification(input_path="./input/pre_processed.jsonl", output_path="./output/results.json",
+    input_pre_processing_path = "./input/train.jsonl"
+    output_pre_processing_path = "./input/pre_processed.jsonl"
+
+    input_verification_path = "./input/pre_processed.jsonl"
+    output_verification_path = "./output/results.json"
+
+    pre_processing(input_path=input_pre_processing_path, output_path=output_pre_processing_path, sample_size=sample_size)
+    correct, incorrect, total = verification(input_path=input_verification_path, output_path=input_verification_path,
                                              sample_size=sample_size)
     print("Correct: " + str(correct))
     print("Incorrect: " + str(incorrect))

@@ -18,6 +18,7 @@ class OurFactChecker:
         return False
 
     def __val(self,prompt):
+        # BASED ON "https://github.com/fractalego/fact_checking/tree/main"
         # We evaluate the model
         self.model.eval()
         # Connect to the device
