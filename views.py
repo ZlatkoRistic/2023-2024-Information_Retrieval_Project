@@ -5,14 +5,14 @@ from utils import verification, precision
 from src.vsm.vsm import VSM
 
 from transformers import GPT2Tokenizer, GPT2LMHeadModel
-from fact_checking import fact_checker
+from src.pfc.OurFactChecker import OurFactChecker
 views = Blueprint(__name__, "views")
 
 # Initialize fact checking and models.
 FACT_CHECK_TOKEN_COUNT_MAX: int = 950
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
-fact = fact_checker(fact_checking_model, tokenizer)
+fact = OurFactChecker(fact_checking_model, tokenizer)
 
 this_file_path: str = pathlib.Path(__file__).parent.resolve().as_posix()
 VSM_INDEX_DUMP_PATH: str = this_file_path + "/src/wikipedia/corpus/index.dump"
