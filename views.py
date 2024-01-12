@@ -42,11 +42,19 @@ def submit():
     if has_results:
         verification_evidence_path: str = this_file_path + f"/src/wikipedia/corpus/processed-articles/{best_id}.txt"
         with open(verification_evidence_path, "r", encoding="utf8") as processed_file:
-            fact_check_evidence = vsm._tokenizer.tokenize(processed_file.read(), do_stemming=False)[:FACT_CHECK_TOKEN_COUNT_MAX]
+            # Read "natural language" version of evidence
+            fact_check_evidence = processed_file.read()
+            fact_check_evidence = ' '.join(fact_check_evidence.split(' ')[:FACT_CHECK_TOKEN_COUNT_MAX])
+
+            # Convert "natural language" to tokens
+            # fact_check_evidence = vsm._tokenizer.tokenize(processed_file.read(), do_stemming=False)[:FACT_CHECK_TOKEN_COUNT_MAX]
+            # fact_check_evidence = ' '.join(fact_check_evidence)
 
         evidence = [ str(top_id) for top_id, score in top_k ]
 
-    result: bool = fact.validate(' '.join(fact_check_evidence), claim)
+    # result: bool = False
+
+    result: bool = fact.validate(fact_check_evidence, claim)
 
     return render_template("evidence.html", claim=claim, result=result, evidence=evidence)
 

@@ -123,7 +123,8 @@ class VSM:
         accumulators: Dict[int, int] = dict()
         for term in terms:
             term_data: InvertedTermData = self._inverted_lists.get(term, None)
-            if term_data is None: raise UnknownTerm(term)
+            # Unknown term has not posting lists so contributs nothing to document ranking
+            if term_data is None: continue      # raise UnknownTerm(term)
 
             for posting in term_data.posting_list:
                 document_ID: int = posting.document_ID
