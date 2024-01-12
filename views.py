@@ -9,7 +9,7 @@ from fact_checking import fact_checker
 views = Blueprint(__name__, "views")
 
 # Initialize fact checking and models.
-FACT_CHECK_TOKEN_COUNT_MAX: int = 1024
+FACT_CHECK_TOKEN_COUNT_MAX: int = 950
 tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
 fact_checking_model = GPT2LMHeadModel.from_pretrained('fractalego/fact-checking')
 fact = fact_checker(fact_checking_model, tokenizer)
