@@ -94,10 +94,10 @@ if __name__ == '__main__':
     output_verification_path = "./output/results.json"
 
     pre_processing(input_path=input_pre_processing_path, output_path=output_pre_processing_path, sample_size=sample_size)
-    correct, incorrect, total = verification(input_path=input_verification_path, output_path=input_verification_path,
-                                             sample_size=sample_size)
-    print("Correct: " + str(correct))
-    print("Incorrect: " + str(incorrect))
-    print("Total: " + str(total))
-    print("------------------")
-    print("Precision: " + str(precision(correct, total)))
+    # correct, incorrect, total = verification(input_path=input_verification_path, output_path=input_verification_path,
+    #                                          sample_size=sample_size)
+    # print("Correct: " + str(correct))
+    # print("Incorrect: " + str(incorrect))
+    # print("Total: " + str(total))
+    # print("------------------")
+    # print("Precision: " + str(precision(correct, total)))
