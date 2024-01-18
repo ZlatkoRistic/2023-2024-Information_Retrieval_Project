@@ -79,18 +79,19 @@ if __name__ == "__main__":
             vsm.loads(index_file.read())
 
         # Do verification
-        print(prefix, "Starting VSM verification ...")
+        print(prefix, "Starting VSM verification ...\n")
         start_time: float = time.time()
         # Get all documents from the dataset for the query for which relevancy is stored
-        for query, docs_relevancy in dataset.qrels_dict().items():
-            # Do ranked retrieval
-            ranked_docs = vsm.get_top_k(query, k)
+        for query in dataset.queries_iter():
+            query_id: str = query.query_id
+            docs_relevancy: Dict[str, int] = qrels_dict.get(query_id, None)
 
-            if args.verbose:
-                print("== queryID=", query)
-                print(f"ranked {k} results: ", [(did, dsc) for did, dsc in docs_relevancy.items()])
-                print("relevant docs: ", sorted({(int(did), int(dsc)) for did, dsc in docs_relevancy.items()}))
-                print("retrieved docs: ", sorted({d[0] for d in ranked_docs}))
+            # If no relevance info is available for the query, then skip
+            if docs_relevancy is None:
+                continue
+
+            # Do ranked retrieval
+            ranked_docs = vsm.get_top_k(query.text, k)
 
             # Update verification scores
             relevancy_cutoff: int = Relevance.RELEVANT
@@ -108,13 +109,17 @@ if __name__ == "__main__":
             avg_recall += recall
             processed_queries_nr += 1
 
-            if args.verbose:
+            if args.verbose and (precision > 0.0 or recall > 0.0):
+                print("== queryID=", query_id)
+                print(f"ranked {k} results: ", [(did, dsc) for did, dsc in docs_relevancy.items()])
+                print("relevant docs: ", sorted({(int(did), int(dsc)) for did, dsc in docs_relevancy.items()}))
+                print("retrieved docs: ", sorted({d[0] for d in ranked_docs}))
                 print("precision:", precision)
                 print("recall:", recall)
                 print()
-        
-        avg_precision /= float(processed_queries_nr)
-        avg_recall /= float(processed_queries_nr)
+
+        avg_precision /= float(processed_queries_nr) if processed_queries_nr > 0 else 1.0
+        avg_recall    /= float(processed_queries_nr) if processed_queries_nr > 0 else 1.0
 
         print(prefix, "Finished VSM verification in {:.2f}s!".format(time.time() - start_time), f"""
     avg_precision: {avg_precision}
