@@ -116,7 +116,7 @@ if __name__ == "__main__":
         avg_precision /= float(processed_queries_nr)
         avg_recall /= float(processed_queries_nr)
 
-        print(prefix, "Finished VSM verification in {:.2f}s!".format(time.time() - start_time), """
+        print(prefix, "Finished VSM verification in {:.2f}s!".format(time.time() - start_time), f"""
     avg_precision: {avg_precision}
     avg_recall:    {avg_recall}
 """)
